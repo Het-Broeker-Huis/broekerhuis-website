@@ -41,7 +41,7 @@ head:
             "@type": "PostalAddress",
             "streetAddress": "Leeteinde 16",
             "addressLocality": "Broek in Waterland",
-            "postalCode": "1151 AH",
+            "postalCode": "1151 AK",
             "addressCountry": "NL"
           },
           "geo": {
@@ -64,11 +64,6 @@ head:
             "dorp vlakbij Amsterdam"
           ]
         }
-robots:
-  key-79: ""
-schemaOrg:
-  key-133: ""
-navigation:
   description: Welkom in het centrum van het mooiste dorp van Nederland.
   title: Het Broeker Huis
 ---
