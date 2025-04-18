@@ -2,94 +2,100 @@
 </script>
 
 <template>
-  <header class="header">
-    <div class="header__wordmark">
-      <SvgoHetBroekerHuisWordmark :font-controlled="false" class="header__wordmark-svg logo__wordmark" />
+  <HeaderBase class="home-header">
+    <div class="home-header__welcome">
+      <div class="home-header__main">
+        <span class="header__tagline home-header__tagline home-header__tagline--intro">Welkom in</span>
+        <h2 class="header__title home-header__title">Broek in Waterland</h2>
+      </div>
+      <h3 class="header__tagline home-header__tagline home-header__tagline--outro">Het mooiste dorp van Nederland</h3>
     </div>
 
-    <div class="header__background">
-      <div class="header__background-image">
-        <slot name="image" mdc-unwrap="p" />
-      </div>
-      <NuxtImg src="/images/header-overlay.svg" class="header__background-overlay" />
+    <div class="header__image home-header__image">
+      <slot name="image" mdc-unwrap="p" />
     </div>
-  </header>
+
+  </HeaderBase>
 </template>
 
 <style>
-.header {
-  position: relative;
-  display: grid;
-  height: 80svh;
-  grid-template-columns: subgrid;
-  grid-template-rows: 100%;
-  padding: 1rem 0;
-  background: var(--color-primary, #000);
-
+.home-header {
   @media (width > 768px) {
-    height: auto;
     aspect-ratio: 9 / 5;
   }
 
-  &__wordmark {
-    position: relative;
-    z-index: 2;
-    grid-column: 4 / -4;
-    align-self: center;
-    color: var(--color-white, #fff);
+  &__welcome {
+    position: absolute;
+    z-index: 3;
+    display: grid;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    gap: 1rem;
 
     @media (width > 768px) {
-      grid-column: 8 / span 10;
+      position: relative;
+      place-self: center;
+      top: unset;
+      transform: unset;
+      margin-top: 2rem;
+      gap: 4rem;
+      grid-template-columns: subgrid;
+      grid-column: 7 / -7;
+      grid-row: 1;
     }
   }
 
-  &__background {
-    position: absolute;
-    z-index: 0;
+  &__main {
+    display: grid;
     width: 100%;
-    height: 50%;
-    bottom: 0;
-    left: 0;
+    text-align: center;
+    gap: 1rem;
 
     @media (width > 768px) {
-      top: 0;
-      left: auto;
-      right: 0;
-      width: 50vw;
-      height: 100%;
+      gap: 0;
+      grid-column: 1 / -1;
+    }
+  }
+
+  &__tagline {
+    &--intro {
+      font-size: clamp(1.6rem, 4vw, 2.25rem);
+      text-align: center;
     }
 
-    &::before {
-      position: absolute;
-      top: 0;
-      right: 0;
-      left: 0;
-      height: 30%;
-      background: linear-gradient(180deg,
-          rgb(0 0 0 / 60%) 0%,
-          rgb(0 0 0 / 0%) 100%);
-      content: "";
-    }
-
-    &-image {
+    &--outro {
       width: 100%;
-      height: 100%;
-      object-fit: cover;
+      text-align: center;
 
-      img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+      @media (width > 768px) {
+        text-align: left;
+        grid-column: 8 / -1;
       }
     }
+  }
 
-    &-overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: 1;
-      width: 100%;
+  &__title {
+    text-transform: uppercase;
+    font-size: clamp(2rem, 8vw, 8rem);
+    letter-spacing: clamp(-3px, 2vw, -12px);
+    font-weight: 400;
+  }
+
+  &__image {
+    grid-column: 1 / -1;
+    aspect-ratio: 16 / 9;
+    grid-row: 2;
+
+    @media (width > 768px) {
+      grid-row: 1;
+      aspect-ratio: auto;
       height: 100%;
+      grid-column: 13 / span 12;
+
+      &--reverse {
+        grid-column: 1 / span 12;
+      }
     }
   }
 }
