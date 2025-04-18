@@ -3,11 +3,11 @@ title: Het Broeker Huis
 description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
 seo:
-  title: Het Broeker Huis – centrum van het mooiste dorp van Nederland
+  title: Trouwen, vergaderen & eten in Hdet Broeker Huis in Broek in Waterland, het mooiste dorp van Nederland.
   description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
     Nederland – op 15 min. van Amsterdam.
 ogImage:
-  url: /HOME/2. HOME_H1_Het Broeker Huis_optimized_enhanced.jpg
+  url: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
   component: OgImage
   props:
     alt: Het Broeker Huis in Broek in Waterland – eten, vieren, vergaderen & slapen in het mooiste dorp van Nederland
@@ -26,7 +26,42 @@ sitemap:
       geo_location: Broek in Waterland, Nederland
       title: Het Broeker Huis aan het Leeteinde 16 in Broek in Waterland
 head:
-  script: []
+  script:
+    - type: application/ld+json
+      content: >
+        {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Het Broeker Huis",
+          "description": "Restaurant, trouwlocatie, vergaderlocatie en B&B in Broek in Waterland – vlakbij Amsterdam.",
+          "url": "https://www.broekerhuis.nl",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Leeteinde 16",
+            "addressLocality": "Broek in Waterland",
+            "postalCode": "1151 AH",
+            "addressCountry": "NL"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.4352,
+            "longitude": 4.9959
+          },
+          "sameAs": [
+            "https://www.instagram.com/broekerhuis",
+            "https://www.facebook.com/broekerhuis"
+          ],
+          "keywords": [
+            "restaurant Broek in Waterland",
+            "trouwlocatie Waterland",
+            "vergaderlocatie vlakbij Amsterdam",
+            "overnachten in Broek in Waterland",
+            "B&B Broek in Waterland",
+            "feestlocatie Waterland",
+            "authentieke vergaderplek",
+            "dorp vlakbij Amsterdam"
+          ]
+        }
 robots:
   key-79: ""
 schemaOrg:
@@ -38,7 +73,7 @@ navigation:
 
 ::home-header
 #image
-![Zijaanzicht vaa Het Broeker Huis in Broek in Waterland vanaf het bruggetje op het Leeteinde](/20250331_BROEKERHUIS_1550.JPG)
+![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/20250331_BROEKERHUIS_1550.JPG)
 ::
 
 ::section-intro
@@ -112,7 +147,8 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
   :::
 
 #image
-![Juichende bruid en bruidegom worden overstrooid met rijs op de trappen van Het Broeker Huis](/466644671_10230167122059961_7087218307852930656_n.JPG)
+![Bruiloft bij Het Broeker Huis â€“ bruidspaar op trappen onder confetti
+](/466644671_10230167122059961_7087218307852930656_n.JPG)
 ::
 
 ::section-two-columns
@@ -125,7 +161,7 @@ taglineComponent: h3
 title: Restaurant in Broek in Waterland
 titleComponent: h2
 ---
-**Wat kun je straks verwachten?** In **Restaurant De Broeker Huiskamer** eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
+**Wat kun je straks verwachten?** In **Restaurant De Broeker Huiskamer** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
 Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk taart.
 
@@ -141,7 +177,7 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
   :::
 
 #image
-![Prei van de houtvuur bbq met olijfolie](/20250331_BROEKERHUIS_0930.JPG)
+![Gegrilde prei van houtvuur met olijfolie in Restaurant De Broeker Huiskamere](/20250331_BROEKERHUIS_0930.JPG)
 ::
 
 ::section-full-image{background}
@@ -182,7 +218,8 @@ taglineComponent: h3
 title: Overnachten in Broek in Waterland
 titleComponent: h2
 ---
-Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. Een **persoonlijke B\&B** voor 1 tot 6 personen met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
+Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. **Overnachten in Broek in Waterland**
+ voor 1 tot 6 personen met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
 
 :br
 
