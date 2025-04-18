@@ -7,10 +7,13 @@ seo:
   description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
     Nederland – op 15 min. van Amsterdam.
 ogImage:
-  props:
-    key-12: ""
   url: /HOME/2. HOME_H1_Het Broeker Huis_optimized_enhanced.jpg
   component: OgImage
+  props:
+    alt: "Het Broeker Huis in Broek in Waterland – historisch dorpsgezicht in het groen"
+    type: image/jpeg
+    width: 1200
+    height: 630
 topNav: false
 sitemap:
   loc: https://www.broekerhuis.nl/
