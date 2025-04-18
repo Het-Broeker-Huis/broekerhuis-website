@@ -1,8 +1,12 @@
 <script setup lang="ts">
+import Carrot from '~/assets/carrot.svg?component'
+import BellPepper from '~/assets/bell-pepper.svg?component'
 </script>
 
 <template>
   <HeaderBase class="home-header">
+    <Carrot class="home-header__visual home-header__visual--carrot" />
+    <BellPepper class="home-header__visual home-header__visual--bell-pepper" />
     <div class="home-header__welcome">
       <div class="home-header__main">
         <span class="header__tagline home-header__tagline home-header__tagline--intro">Welkom in</span>
@@ -20,8 +24,42 @@
 
 <style>
 .home-header {
+  overflow: hidden;
+
   @media (width > 768px) {
     aspect-ratio: 9 / 5;
+  }
+
+  &__visual {
+    position: absolute;
+    opacity: 0.15;
+
+    &--carrot {
+      width: 100svw;
+      left: -25svw;
+      top: -22svw;
+    }
+
+    &--bell-pepper {
+      width: 40svw;
+      right: -10svw;
+      bottom: 40svw;
+    }
+
+    @media (width > 768px) {
+
+      &--carrot {
+        width: 45svw;
+        left: -5svw;
+        top: -5svw;
+      }
+
+      &--bell-pepper {
+        width: 20svw;
+        right: 55svw;
+        bottom: -5svw;
+      }
+    }
   }
 
   &__welcome {
@@ -77,7 +115,7 @@
 
   &__title {
     text-transform: uppercase;
-    font-size: clamp(2rem, 8vw, 8rem);
+    font-size: clamp(3rem, 8vw, 8rem);
     letter-spacing: clamp(-3px, 2vw, -12px);
     font-weight: 400;
   }
