@@ -10,7 +10,7 @@ ogImage:
   url: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_195_optimized.jpg
   component: OgImage
   props:
-    alt: Bruiloft in de Grote Zaal van Het Broeker Huis – monumentale feestlocatie in Broek in Waterland
+    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in Broek in Waterland
     type: image/jpeg
     width: 1200
     height: 630
@@ -46,7 +46,7 @@ head:
             "@type": "PostalAddress",
             "streetAddress": "Leeteinde 16",
             "addressLocality": "Broek in Waterland",
-            "postalCode": "1151 AH",
+            "postalCode": "1151 AK",
             "addressCountry": "NL"
           },
           "geo": {
@@ -58,11 +58,11 @@ head:
             "trouwlocatie Broek in Waterland",
             "feestlocatie Waterland",
             "trouwen vlakbij Amsterdam",
-            "jubileum Broek in Waterland",
+            "jubileumlocatie Broek in Waterland",
             "unieke feestzaal Amsterdam",
             "binnenplaats bruiloft",
             "monumentaal trouwen",
-            "feest in oude dorpskern"
+            "feestlocatie oude dorpskern"
           ],
           "sameAs": [
             "https://www.instagram.com/broekerhuis",
@@ -73,7 +73,6 @@ head:
 robots:
   index: true
   follow: true
----
 ---
 
 ::hero-header
