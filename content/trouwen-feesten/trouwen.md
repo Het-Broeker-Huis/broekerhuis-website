@@ -1,20 +1,22 @@
 ---
 title: Trouw, feest, proost en zwaai uit
-description: Vier je bruiloft, verjaardag, afscheid of jubileum in een monumentaal dorpshuis vol karakter, in de oude dorpskern van Broek in Waterland – vlakbij Amsterdam.
-
+description: Vier je bruiloft, verjaardag, afscheid of jubileum in een
+  monumentaal dorpshuis vol karakter, in de oude dorpskern van Broek in
+  Waterland – vlakbij Amsterdam.
 seo:
   title: Trouwen of feesten in Broek in Waterland | Het Broeker Huis
-  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland, vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
-
+  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal
+    dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland,
+    vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
 ogImage:
   url: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_195_optimized.jpg
   component: OgImage
   props:
-    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in Broek in Waterland
+    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in
+      Broek in Waterland
     type: image/jpeg
     width: 1200
     height: 630
-
 sitemap:
   loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen
   changefreq: weekly
@@ -23,15 +25,15 @@ sitemap:
   images:
     - loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg
       geo_location: Broek in Waterland, Nederland
-      caption: Prachtig gedekte tafels voor een diner voor 80 personen in de monumentale Grote Zaal van Het Broeker Huis
+      caption: Prachtig gedekte tafels voor een diner voor 80 personen in de
+        monumentale Grote Zaal van Het Broeker Huis
       title: Feestdiner in de Grote Zaal – Het Broeker Huis, Broek in Waterland
-
 navigation:
   title: Trouwen & Feesten
   displayInTopNav: true
   topNavOrder: 9
-  description: Trouwen of feesten in het mooiste dorp van Nederland – met karakter, zonder gedoe.
-
+  description: Trouwen of feesten in het mooiste dorp van Nederland – met
+    karakter, zonder gedoe.
 head:
   script:
     - type: application/ld+json
@@ -69,7 +71,6 @@ head:
             "https://www.facebook.com/broekerhuis"
           ]
         }
-
 robots:
   index: true
   follow: true
