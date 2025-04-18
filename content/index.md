@@ -74,10 +74,10 @@ background-position: bottom
 ![Wijn wordt ingeschonken op een gedekte tafel met prachtige lichtinval](/20250310_BROEKERHUIS_GROTEZAAL_262.JPG)
 
 #Image_2
-![Stijlvol dineren in de monumentale Regentessenkamer in het broeker huis aan een lange gedekte tafel met kroonluchter, wandornamenten en plafondornamenten.](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
+![Lichtinval op gedekte tafels in trouwopstelling door raam Grote Zaal Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
 
 #Image_3
-![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_354\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_155.JPG)
+![Opkomende rode zon in Broek in Waterland door molenwiek](/20250310_BROEKERHUIS_SCENERY_155.JPG)
 
 #Image_4
 ![Glazen en flessen wijn op een gedekte tafel met wit tafelkleed  in zachte belichting en mooie schaduwval](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
@@ -139,11 +139,11 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
   :::
 
 #image
-![vuurkoken.jpg](/20250331_BROEKERHUIS_0930.JPG)
+![Prei van de houtvuur bbq met olijfolie](/20250331_BROEKERHUIS_0930.JPG)
 ::
 
 ::section-full-image{background}
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/20250310_BROEKERHUIS_GROTEZAAL_160.JPG)
+![Trouwopstelling met drie lange gedekte in de Grote Zaal van Het Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_160.JPG)
 ::
 
 ::section-two-columns
@@ -169,7 +169,7 @@ titleComponent: h2
   :::
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_391\_optimized.jpg](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_391_optimized.jpg)
+![U vergaderopstelling voor 30 personen in de Grote Zaal van Het Broeker Huis](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_391_optimized.jpg)
 ::
 
 ::section-two-columns
@@ -194,5 +194,5 @@ Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje
   :::
 
 #image
-![20250331\_BROEKERHUIS\_1492.JPG](/images/20250310_BROEKERHUIS_REGENTESSENKAMER_013.JPG)
+![Uitzicht op karakteristiek Broeker grijs huis door raam van Het Broeker Huis](/images/20250310_BROEKERHUIS_REGENTESSENKAMER_013.JPG)
 ::
