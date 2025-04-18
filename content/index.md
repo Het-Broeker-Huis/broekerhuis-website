@@ -36,7 +36,7 @@ navigation:
 
 ::home-header
 #image
-![Karakteristiek monumentaal grijzen houten huis in Broek in Waterland. Het mooiste dorp van Nederland.](/20250331_BROEKERHUIS_1550.JPG)
+![Zijaanzicht vaa Het Broeker Huis in Broek in Waterland vanaf het bruggetje op het Leeteinde](/20250331_BROEKERHUIS_1550.JPG)
 ::
 
 ::section-intro
@@ -71,7 +71,7 @@ background: true
 background-position: bottom
 ---
 #Image_1
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_262.JPG)
+![Wijn wordt ingeschonken op een gedekte tafel met prachtige lichtinval](/20250310_BROEKERHUIS_GROTEZAAL_262.JPG)
 
 #Image_2
 ![Stijlvol dineren in de monumentale Regentessenkamer in het broeker huis aan een lange gedekte tafel met kroonluchter, wandornamenten en plafondornamenten.](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
