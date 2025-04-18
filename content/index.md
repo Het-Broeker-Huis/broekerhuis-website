@@ -3,17 +3,35 @@ title: Het Broeker Huis
 description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
 seo:
-  title: Het Broeker Huis - Vlakbij Amsterdam, midden in het groen - waar eten
-    verbindt, stilte spreekt en vieren vanzelf gaat.
-  description: Het Broeker Huis is sinds 1775 het hart van Broek in Waterland.
-    Vandaag zijn we restaurant, trouwlocatie, vergaderplek en hotel in één. Een
-    monumentaal pand in het mooiste dorp van Nederland – vlakbij Amsterdam. Kom
-    eten, vieren, werken, vergaderen en slapen. Ongedwongen, zonder poeha, op
-    jouw manier.
+  title: Het Broeker Huis – Centrum van het Mooiste Dorp van Nederland
+  description: Het centrum van het mooiste dorp van Nederland. Kom eten, vieren,
+    trouwen of vergaderen – op 15 min. van Amsterdam.
 ogImage:
   props:
-    key-128: ""
+    key-44: ""
+  url: Het Broeker Huis in Broek in Waterland – historisch dorpsgezicht in het groen
+  component: /HOME/2. HOME_H1_Het Broeker Huis_optimized_enhanced.jpg
 topNav: false
+sitemap:
+  loc: https://www.broekerhuis.nl/
+  lastmod: 2025-04-18T00:00:00.000Z
+  changefreq: weekly
+  priority: 1
+  images:
+    - loc: https://www.broekerhuis.nl/images/hero-home-broekerhuis.jpg
+      caption: Zicht op Het Broeker Huis in Broek in Waterland op een zonnige dag
+      geo_location: Broek in Waterland, Nederland
+      title: Het Broeker Huis aan het Leeteinde 16 in Broek in Waterland
+    - {}
+head:
+  script: []
+robots:
+  key-79: ""
+schemaOrg:
+  key-133: ""
+navigation:
+  description: Welkom in het centrum van het mooiste dorp van Nederland.
+  title: Het Broeker Huis
 ---
 
 ::home-header
@@ -25,6 +43,7 @@ topNav: false
 ---
 tagline: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
+taglineComponent: h2
 title: Het Broeker Huis
 titleComponent: h1
 ---
@@ -102,6 +121,7 @@ backgroundPosition: full
 tagline: Vuurwerk. Bijna open.
 taglineComponent: h3
 title: Restaurant in Broek in Waterland
+titleComponent: h2
 ---
 **Wat kun je straks verwachten?** In **Restaurant De Broeker Huiskamer** eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
@@ -129,7 +149,9 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 ::section-two-columns
 ---
 tagline: Zelfs PowerPoint krijgt lucht.
+taglineComponent: h3
 title: Vergaderen & workshops in Broek in Waterland
+titleComponent: h2
 ---
 **Vlakbij Amsterdam**, tussen weiland en werkdruk, vind je onze **karaktervolle vergaderruimtes** – in een rijksmonument dat rust ademt, ruimte geeft en waar brainstormen écht iets oplevert.
 
@@ -156,6 +178,7 @@ reverse: true
 tagline: Dromers, nog even wakker blijven.
 taglineComponent: h3
 title: Overnachten in Broek in Waterland
+titleComponent: h2
 ---
 Vanaf **zomer 2025 slaap** je bij ons in stijl en word je wakker in het sprookje. Een **persoonlijke B\&B** voor 1 tot 6 personen met karakter, midden in **het mooiste dorp van Nederland** – vlakbij Amsterdam.
 
