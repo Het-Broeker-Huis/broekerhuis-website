@@ -4,8 +4,8 @@ description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
   spreekt en vieren vanzelf gaat.
 seo:
   title: Het Broeker Huis – Centrum van het Mooiste Dorp van Nederland
-  description: Het centrum van het mooiste dorp van Nederland. Kom eten, vieren,
-    trouwen of vergaderen – op 15 min. van Amsterdam.
+  description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
+    Nederland – op 15 min. van Amsterdam.
 ogImage:
   props:
     key-44: ""
