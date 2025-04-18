@@ -36,7 +36,6 @@ Wat je ook viert, ons Huis is van jou.
 **Van toosten tot tranen – en alles ertussen.**
 ::
 
-
 ::section-full-image{background="true" background-position="bottom"}
 ![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
 ::
@@ -129,6 +128,6 @@ titleComponent: h2
 
 #footer
   :::cta-button{arrow="true"}
-  [Vliegensvlug een prijsindicatie](https://forms.gle/hcKaZm8pQmx9JsJr7){target="_blank"}
+  [Vliegensvlug een prijsindicatie](https://forms.gle/hcKaZm8pQmx9JsJr7)
   :::
 ::
