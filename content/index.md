@@ -50,8 +50,8 @@ head:
             "longitude": 4.9959
           },
           "sameAs": [
-            "https://www.instagram.com/broekerhuis",
-            "https://www.facebook.com/broekerhuis"
+            "https://www.instagram.com/het.broeker.huis/",
+            "https://www.facebook.com/BroekerHuis/"
           ],
           "keywords": [
             "restaurant Broek in Waterland",
