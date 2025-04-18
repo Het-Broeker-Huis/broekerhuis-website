@@ -153,7 +153,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::
 
 #image
-![Chef Thijs, vormalig Toscanini staat lachend tegen muur met blokken hout voor de oven](/20250331_BROEKERHUIS_1815.JPG)
+![Chef Thijs, vormalig Toscanini staat tegen muur met blokken hout voor de oven met een lach om z'n mond](/20250331_BROEKERHUIS_1815.JPG)
 ::
 
 ::section-visual-transition
@@ -165,7 +165,7 @@ backgroundPosition: top
 ![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
 
 #image_2
-![Zicht op de romantische binneplaats met bloemen op een tafelt](/20250331_BROEKERHUIS_0825.JPG)
+![Zicht op de romantische binnenplaats met bloemen op een tafel](/20250331_BROEKERHUIS_0825.JPG)
 
 #image_3
 ![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/20250310_BROEKERHUIS_GROTEZAAL_250.JPG)
