@@ -82,7 +82,7 @@ tagline: Monumentaal vieren - vlakbij Amsterdam.
 title: Trouw, feest, proost, zwaai uit
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/2016-05-06-Sarah-Thomas-163.jpg)
+![Bruid en bruidegom lopen hand in hand voor Het Broeker Huis in Broek in Waterland – trouwlocatie in monumentaal dorpshuis]( 2016-05-06-Sarah-Thomas-163.jpg)
 ::
 
 ::section-intro
@@ -99,7 +99,7 @@ Wat je ook viert, ons Huis is van jou.
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
-![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
+![[Bruidspaar snijdt lachend een varken van het spit aan in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](466686941_10230167123299992_4849252139870361658_n.JPG)
 ::
 
 ::section-two-columns
@@ -123,7 +123,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *Snel checken waar jouw idee het beste past?*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
+![Overzicht van feest- en trouwzalen in Het Broeker Huis – collage van Grote Zaal, Regentessenkamer en binnenplaats](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
 
 #footer
   :::cta-button{arrow="true"}
@@ -153,7 +153,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::
 
 #image
-![HBH\_COLL\_3X4\_ALLESKANZELFSNIKS\_.png](/20250331_BROEKERHUIS_1815.JPG)
+![Chef Thijs, vormalig Toscanini staat lachend tegen muur met blokken hout voor de oven](/20250331_BROEKERHUIS_1815.JPG)
 ::
 
 ::section-visual-transition
@@ -162,16 +162,16 @@ background: "true"
 backgroundPosition: top
 ---
 #image_1
-![20250310\_BROEKERHUIS\_SCENERY\_477.JPG](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
+![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
 
 #image_2
-![20250310\_BROEKERHUIS\_GROTEZAAL\_146.JPG](/20250331_BROEKERHUIS_0825.JPG)
+![Zicht op de romantische binneplaats met bloemen op een tafelt](/20250331_BROEKERHUIS_0825.JPG)
 
 #image_3
-![20250310\_BROEKERHUIS\_GROTEZAAL\_262\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_250.JPG)
+![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/20250310_BROEKERHUIS_GROTEZAAL_250.JPG)
 
 #image_4
-![20250310\_BROEKERHUIS\_GROTEZAAL\_411\_optimized.jpg](/20250310_BROEKERHUIS_GROTEZAAL_095.JPG)
+![Strak wit gedekte tafels met witte bloem en wit bord](/20250310_BROEKERHUIS_GROTEZAAL_095.JPG)
 ::
 
 ::section-two-columns
@@ -186,7 +186,7 @@ titleComponent: h2
 **Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt.Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
+![Gedekte tafel met kaarslicht in de Regentessenkamer – intieme setting voor huwelijk of private dining in Het Broeker Huis](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
 
 #footer
   :::cta-button{arrow="true"}
