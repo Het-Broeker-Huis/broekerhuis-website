@@ -34,60 +34,61 @@ In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van 
 Wat je ook viert, ons Huis is van jou.
 
 **Van toosten tot tranen – en alles ertussen.**
+::
 
-  :::section-full-image{background="true" background-position="bottom"}
-  ![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
+
+::section-full-image{background="true" background-position="bottom"}
+![2016-05-06-Sarah-Thomas-307.jpg](/466686941_10230167123299992_4849252139870361658_n.JPG)
+::
+
+::section-two-columns
+---
+background: "true"
+backgroundPosition: full
+tagline: Elke zaal een verhaal.
+title: Onze trouw- en feestzalen
+titleComponent: h2
+---
+Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjesachtige tuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, allemaal flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies.
+
+**Grote Zaal (90 m²)** – ruim, klassiek en perfect voor diners, bruiloften, recepties of dansfeesten
+
+**Regentessenkamer (30 m²)** – intiem, stijlvol en ideaal voor private dining, huwelijksvoltrekking of familieceremonies.
+
+**Trouwzaal (60 m²)** – licht en open, vaak gebruikt als trouwzaal, kinderhoek of buffetruimte.
+
+**Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
+
+*Snel checken waar jouw idee het beste past?*
+
+#image
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
+
+#footer
+  :::cta-button{arrow="true"}
+  [Bel Jeppe](tel:+31204031314)
   :::
+::
 
-  :::section-two-columns
-  ---
-  background: "true"
-  backgroundPosition: full
-  tagline: Elke zaal een verhaal.
-  title: Onze trouw- en feestzalen
-  titleComponent: h2
-  ---
-  Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjesachtige tuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, allemaal flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies.
-  
-  **Grote Zaal (90 m²)** – ruim, klassiek en perfect voor diners, bruiloften, recepties of dansfeesten
-  
-  **Regentessenkamer (30 m²)** – intiem, stijlvol en ideaal voor private dining, huwelijksvoltrekking of familieceremonies.
-  
-  **Trouwzaal (60 m²)** – licht en open, vaak gebruikt als trouwzaal, kinderhoek of buffetruimte.
-  
-  **Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
-  
-  *Snel checken waar jouw idee het beste past?*
-  
-  #image
-  ![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
-  
-  #footer
-    ::::cta-button{arrow="true"}
-    [Bel Jeppe](tel:+31204031314)
-    ::::
-  :::
+::section-two-columns
+---
+reverse: true
+background: "true"
+backgroundPosition: full
+tagline: Regel of laat los.
+title: Alles kan. Zelfs niks.
+---
+**Geen pakketten. Geen draaiboeken en moetjes.** Wél een plek waar **niks goed of fout is**: begin met het dessert, zing het dak eraf en eindig met je eerste dans. Laat je neef koken en je oma plaatjes draaien. Je eigen bloemen, je eigen playlist, je eigen chaos – wij vinden het prachtig.
 
-  :::section-two-columns
-  ---
-  reverse: true
-  background: "true"
-  backgroundPosition: full
-  tagline: Regel of laat los.
-  title: Alles kan. Zelfs niks.
-  ---
-  **Geen pakketten. Geen draaiboeken en moetjes.** Wél een plek waar **niks goed of fout is**: begin met het dessert, zing het dak eraf en eindig met je eerste dans. Laat je neef koken en je oma plaatjes draaien. Je eigen bloemen, je eigen playlist, je eigen chaos – wij vinden het prachtig.
-  
-  Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt van de speech van je dronken oom, zetten wij het buffet klaar of serveren we vijf gangen.
-  
-  Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
-  
-  *Checken of het net zo goed voelt als het eruit ziet?*
-  
-  #footer
-    ::::cta-button{arrow="true"}
-    [Hier vind je ons](/contact-parkeren)
-    ::::
+Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt van de speech van je dronken oom, zetten wij het buffet klaar of serveren we vijf gangen.
+
+Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
+
+*Checken of het net zo goed voelt als het eruit ziet?*
+
+#footer
+  :::cta-button{arrow="true"}
+  [Hier vind je ons](/contact-parkeren)
   :::
 
 #image
