@@ -99,7 +99,7 @@ Wat je ook viert, ons Huis is van jou.
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
-!\[[Bruidspaar snijdt lachend een varken van het spit aan in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](466686941_10230167123299992_4849252139870361658_n.JPG)
+![Bruidspaar snijdt lachend een varken van het spit aan in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](466686941_10230167123299992_4849252139870361658_n.JPG)
 ::
 
 ::section-two-columns
