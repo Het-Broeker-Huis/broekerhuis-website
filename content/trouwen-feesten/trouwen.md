@@ -178,6 +178,7 @@ backgroundPosition: top
 ---
 backgroundPosition: bottom
 tagline: Jouw prijskaartje.
+taglineComponent: h3
 title: Wat kost dat, trouwen en feesten in Broek?
 titleComponent: h2
 ---
