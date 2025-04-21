@@ -35,42 +35,6 @@ navigation:
   description: Trouwen of feesten in het mooiste dorp van Nederland – met
     karakter, zonder gedoe.
 head:
-  script:
-    - type: application/ld+json
-      content: >
-        {
-          "@context": "https://schema.org",
-          "@type": "EventVenue",
-          "name": "Het Broeker Huis – Trouw- en feestlocatie",
-          "description": "Monumentale feestlocatie in Broek in Waterland – vlakbij Amsterdam. Voor bruiloften, verjaardagen, jubilea en afscheidsceremonies.",
-          "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Leeteinde 16",
-            "addressLocality": "Broek in Waterland",
-            "postalCode": "1151 AK",
-            "addressCountry": "NL"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 52.4352,
-            "longitude": 4.9959
-          },
-          "keywords": [
-            "trouwlocatie Broek in Waterland",
-            "feestlocatie Waterland",
-            "trouwen vlakbij Amsterdam",
-            "jubileumlocatie Broek in Waterland",
-            "unieke feestzaal Amsterdam",
-            "binnenplaats bruiloft",
-            "monumentaal trouwen",
-            "feestlocatie oude dorpskern"
-          ],
-          "sameAs": [
-            "https://www.instagram.com/het.broeker.huis/",
-            "https://www.facebook.com/BroekerHuis/"
-          ]
-        }
 robots:
   index: true
   follow: true
