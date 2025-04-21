@@ -34,7 +34,7 @@ navigation:
   topNavOrder: 9
   description: Trouwen of feesten in het mooiste dorp van Nederland – met
     karakter, zonder gedoe.
-head:
+head: null
 robots:
   index: true
   follow: true
