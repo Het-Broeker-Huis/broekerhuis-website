@@ -42,7 +42,7 @@ robots:
 
 ::hero-header
 ---
-tagline: Trouw, feest, proost, zwaai uit. Monumentaal vieren - vlakbij Amsterdam.
+tagline: Trouw, feest, proost, zwaai uit - vlakbij Amsterdam.
 title: Trouwen en feesten in Broek
 ---
 #image
