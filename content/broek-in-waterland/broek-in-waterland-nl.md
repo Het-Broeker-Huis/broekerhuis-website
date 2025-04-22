@@ -1,24 +1,46 @@
 ---
 title: Een dag naar Broek in Waterland
-description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
-  Broek in Waterland
-navigation:
-  title: Een dag naar Broek in Waterland
-  displayInTopNav: null
-  topNavOrder: 20
-  description: null
+description: Kom tot rust net buiten Amsterdam – in het mooiste dorp van Nederland. Geen drukte, geen klompen, geen gids. Wel koffie aan het water, stilte, en misschien een borrel.
+
 seo:
-  title: De beste dingen om te doen net buiten Amsterdam
-  description: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
-    Broek in Waterland
+  title: Wat te doen in het mooiste dorp van Nederland | Broek in Waterland
+  description: Tips voor een dag in Broek in Waterland – met lunch, wandelen, fietsen en niks doen. Alles wat Volendam niet is, op 15 minuten van de stad.
+
+ogImage:
+  url: https://www.broekerhuis.nl/BROEK/20250331_BROEKERHUIS_SCENERY_653.JPG
+  component: OgImage
+  props:
+    alt: Uitzicht op het water, houten huizen en stilte in Broek in Waterland
+    type: image/jpeg
+    width: 1200
+    height: 630
+
+sitemap:
+  loc: https://www.broekerhuis.nl/broek-in-waterland
+  changefreq: monthly
+  lastmod: 2025-04-22T00:00:00.000Z
+  priority: 0.6
+  images:
+    - loc: https://www.broekerhuis.nl/BROEK/20250331_BROEKERHUIS_SCENERY_653.JPG
+      geo_location: Broek in Waterland, Nederland
+      caption: Wandelpad door Broek in Waterland op een zonnige dag
+      title: Wat te doen in Broek in Waterland – tips van Het Broeker Huis
+
+navigation:
+  title: Broek in Waterland
+  displayInTopNav: true
+  topNavOrder: 20
+
+robots:
+  index: true
+  follow: true
 ---
 
 ::hero-header
 ---
-tagline: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
-  Broek in Waterland
+tagline: Broek in Waterland - het mooiste dorp van Nederland.
 taglineComponent: h2
-title: Een dag naar Broek in Waterland.
+title: Een dag naar Broek in Waterland
 titleComponent: h1
 ---
 #image
@@ -32,10 +54,9 @@ tagline: Broek in Waterland is precies dat.
 taglineComponent: h3
 title: Op zoek naar iets anders dan drukte?
 ---
-Broek in Waterland ligt vlakbij Amsterdam, een kwartiertje m,et de bus, maar voelt als een andere tijdzone. Een dorp van houten huizen, water dat niet haast, en bruggen waar je vanzelf wat langzamer overheen loopt.
+Broek in Waterland ligt vlakbij Amsterdam - een kwartiertje met de bus - maar voelt als een andere tijdzone. Een dorp van houten huizen, water dat niet haast, en bruggen waar je vanzelf wat langzamer overheen loopt.
 
-Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit.
-Frisse lucht, stille paadjes, en koffie aan op het bankje bij het Havenrak, waar de tijd heeft stilgestaan. Broek in Waterland - het mooiste dorp van Nederland.
+Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit. Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak, waar de tijd heeft stilgestaan. Broek in Waterland - het mooiste dorp van Nederland.
 
 Broek in Waterland ligt een kwartiertje boven Amsterdam. Een dorp van houten huizen, scheve schoorstenen en flarden gesprek op de stoep. Waar je je jas nog aan de kapstok hangt, de achterdeur open laat en de tijd wat minder strak staat.
 
@@ -43,7 +64,7 @@ Voor wie echt even weg wil — zonder ver te hoeven reizen. Gewoon een dorp dat 
 
 #footer
   :::cta-button{arrow="true"}
-  [Waar ligt het mooioste dorp van Nederland?](https://maps.app.goo.gl/tmLbzzFtMY7yYMLC8)
+  [Zo kom je hier](/contact-parkeren)
   :::
 ::
 
@@ -55,28 +76,18 @@ Voor wie echt even weg wil — zonder ver te hoeven reizen. Gewoon een dorp dat 
 ---
 background: "true"
 backgroundPosition: full
-tagline: (En nergens anders zo)
+tagline: (En nergens anders)
 taglineComponent: h3
 title: Vier dingen die je vandaag nog kunt doen in Broek in Waterland
 titleComponent: h2
 ---
-**1. Wandel zonder doel**  
+**1. Wandel zonder doel**:brLaat Google Maps even voor wat het is. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Wat moet je anders in het mooiste dorp van Nederland.
 
-Laat Google Maps even voor wat het is. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Wat moet je anders in het mooiste dorp van Newderland.
+**2. Fiets een rondje Waterland**:brEen van de mooiste rondjes van Noord-Holland begint en eindigt in Broek. Langs koeien, kerktorens, riet en stilte. Via Zuiderwoude, Ransdorp of gewoon op gevoel. Halverwege een appel of een biertje — terug in Broek [een lunch waar je buik blij van wordt](/restaurant).
 
-**2. Fiets een rondje Waterland**  
+**3. Lunch bij Het Broeker Huis**:brLoop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten), toevluchtsoord.
 
-Een van de mooiste rondjes van Noord-Holland begint en eindigt in Broek. Langs koeien, kerktorens, riet en stilte. Via Zuiderwoude, Ransdorp of gewoon op gevoel. Halverwege een appel of een biertje — terug in Broek een lunch waar je buik blij van wordt.
-
-**3. Lunch bij Het Broeker Huis**  
-
-Loop voorbij het pannekoekenhuis. Rondje langs de kerk. Geen poespas. Geen “passie”. Wel: warm brood, soep van het vuur, koffie die naar hout ruikt. Een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft.
-Dorpshuiskamer, eetcafé, toevluchtsoord. Je vindt het direct achter de kerk.
-
-**4. Doe helemaal niets**  
-
-Serieus. Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet.
-Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer
+**4. Doe helemaal niets**:brSerieus. Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer.
 
 *Onze B\&B opent deze zomer.*
 
