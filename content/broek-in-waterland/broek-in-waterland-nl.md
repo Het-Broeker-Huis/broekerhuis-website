@@ -118,7 +118,7 @@ Je herinnert je niet wat de (fantastische) lunch kostte. Je herinnert je het Bro
 
 #footer
   :::cta-button{arrow="true"}
-  [Reserveer een plekje](^/broek-in-waterland/broek-in-waterland-nl/?$)
+  [Reserveer een plekje](%5E/broek-in-waterland/broek-in-waterland-nl/?$)
   :::
 
 #image
