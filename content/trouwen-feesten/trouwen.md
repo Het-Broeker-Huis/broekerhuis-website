@@ -1,19 +1,14 @@
 ---
-title: Trouw, feest, proost en zwaai uit
-description: Vier je bruiloft, verjaardag, afscheid of jubileum in een
-  monumentaal dorpshuis vol karakter, in de oude dorpskern van Broek in
-  Waterland – vlakbij Amsterdam.
+title: Trouwlocatie en feestlocatie in Broek in Waterland | Het Broeker Huis
+description: Vier je bruiloft, verjaardag, afscheid of jubileum in een monumentaal dorpshuis vol karakter, in de oude dorpskern van Broek in Waterland – vlakbij Amsterdam.
 seo:
-  title: Trouwen of feesten in Broek in Waterland | Het Broeker Huis
-  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal
-    dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland,
-    vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
+  title: Trouwlocatie en feestlocatie in Broek in Waterland | Het Broeker Huis
+  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland, vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
 ogImage:
   url: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_195_optimized.jpg
   component: OgImage
   props:
-    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in
-      Broek in Waterland
+    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in Broek in Waterland
     type: image/jpeg
     width: 1200
     height: 630
@@ -42,8 +37,8 @@ robots:
 
 ::hero-header
 ---
-tagline: Monumentaal vieren - vlakbij Amsterdam.
-title: Trouw, feest, proost, zwaai uit
+tagline: Trouw, feest, proost, zwaai uit. Monumentaal vieren - vlakbij Amsterdam.
+title: Trouwen en feesten in Broek
 ---
 #image
 ![Bruid en bruidegom lopen hand in hand voor Het Broeker Huis in Broek in Waterland – trouwlocatie in monumentaal dorpshuis](2016-05-06-Sarah-Thomas-163.jpg)
@@ -55,15 +50,20 @@ tagline: En als je wilt, hangen wij de slingers op.
 taglineComponent: h3
 title: Het is jouw feestje
 ---
-In **Het Broeker Huis** – dé trouw- en feestlocatie van het mooiste dorp van Nederland – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Trouwzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of **gewoon omdat het kan**. Bij ons mag (bijna) alles.
+In **Het Broeker Huis** – dé trouw- en feestlocatie van [het mooiste dorp van Nederland](/broek-in-waterland) – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Tuinzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of **gewoon omdat het kan**. Bij ons mag (bijna) alles.
 
-Wat je ook viert, ons Huis is van jou.
+Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ertussen.**
 
-**Van toosten tot tranen – en alles ertussen.**
+*Sparren over je idee? Onze feestfluisteraar zit voor je klaar.*
+
+#footer
+  :::cta-button{arrow="true"}
+  [Bel Jeppe](tel:+31204031314)
+  :::
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
-![Bruidspaar snijdt lachend een varken van het spit aan in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](466686941_10230167123299992_4849252139870361658_n.JPG)
+![Bruidspaar snijdt lachend een varken van het spit aan, in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](466686941_10230167123299992_4849252139870361658_n.JPG)
 ::
 
 ::section-two-columns
@@ -74,9 +74,9 @@ tagline: Elke zaal een verhaal.
 title: Onze trouw- en feestzalen
 titleComponent: h2
 ---
-Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjesachtige tuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, allemaal flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies.
+Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenplaats** en een gigantische, **sprookjestuin: Broek in Waterland**. Elke zaal heeft zijn eigen sfeer, stuk voor stuk flexibel in te delen en te combineren – voor bruiloften, feesten, diners of afscheidsceremonies. En als je niets te vieren hebt, kun je in onze zalen natuurlijk ook [vergaderen](/zakelijk).
 
-**Grote Zaal (90 m²)** – ruim, klassiek en perfect voor diners, bruiloften, recepties of dansfeesten
+**Grote Zaal (90 m²)** – ruim, klassiek en perfect voor diners, bruiloften, recepties of dansfeesten.
 
 **Regentessenkamer (30 m²)** – intiem, stijlvol en ideaal voor private dining, huwelijksvoltrekking of familieceremonies.
 
@@ -84,15 +84,15 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 
 **Binnenplaats (240 m²)** – ons pièce de résistance. Trouw onder de bomen, borrel aan lange tafels in de zon, of toost bij kaarslicht. Van twintig gasten aan tafel tot tweehonderd op de dansvloer – bij ons past het.
 
-*Snel checken waar jouw idee het beste past?*
-
-#image
-![Een elegant en feestelijk gedekte tafel met prachtige lichtinval voor een oefendiner de avond voor je bruiloft](/20250310_BROEKERHUIS_REGENTESSEKAMER_303_optimized.jpg)
+*We vinden het leuk als je spontaan binnenwipt voor een tour*
 
 #footer
   :::cta-button{arrow="true"}
-  [Bel Jeppe](tel:+31204031314)
+  [Hier vind je ons](tel:+31204031314)
   :::
+
+#image
+![Een elegant en feestelijk gedekte tafel met prachtige lichtinval voor een oefendiner de avond voor je bruiloft](/20250310_BROEKERHUIS_REGENTESSEKAMER_303_optimized.jpg)
 ::
 
 ::section-two-columns
@@ -109,11 +109,11 @@ Liever alles geregeld? Tuurlijk. Terwijl jij een dorpswandeling maakt of bijkomt
 
 Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste dromen je eigen menu – altijd ambachtelijk, nooit moeilijk. Onze bediening weet wanneer ze stil moeten zijn, en wanneer het tijd is voor Broeker gezelligheid. Van fotograaf tot DJ, styling tot nanny – en alles wat je nooit wist dat je was vergeten.
 
-*Checken of het net zo goed voelt als het eruit ziet?*
+*Weet je nog niet precies wat je wilt, maar wel wanneer?*
 
 #footer
   :::cta-button{arrow="true"}
-  [Hier vind je ons](/contact-parkeren)
+  [Mail ons voor beschikbaarheid](mailto\:vieren@broekerhuis.nl?subject=Ik%20heb%20een%20idee\&body=Hoi%20Jeppe%2C%0A%0AIk%20wil%20op%20%7Bdatum%7D%20een%20%7Bgelegenheid%7D%20vieren%20met%20ongeveer%20%7Baantal%7D%20personen.%20Is%20er%20op%20die%20dag%20nog%20plek%3F%0A%0AGroet%2C%20%7BNaam%7D)
   :::
 
 #image
@@ -141,14 +141,14 @@ backgroundPosition: top
 ::section-two-columns
 ---
 backgroundPosition: bottom
-tagline: Jouw prijskaartje.
+tagline: Jouw feest, jouw prijskaartje.
 taglineComponent: h3
-title: Wat kost dat, trouwen en feesten in Broek?
+title: Wat kost trouwen en feesten in Het Broeker Huis?
 titleComponent: h2
 ---
 **Geen standaardfeesten – dus geen standaardprijzen.** Niet in **Het Broeker Huis.**
 
-**Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt.Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
+**Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt. Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
 
 #image
 ![Gedekte tafel met kaarslicht in de Regentessenkamer – intieme setting voor huwelijk of private dining in Het Broeker Huis](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
