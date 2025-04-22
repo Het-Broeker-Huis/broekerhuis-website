@@ -65,10 +65,6 @@ Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is
   :::
 ::
 
-::section-full-image{background="true" background-position="bottom"}
-![250411_Oud Broek collage Allard.png](/Broek%20tourist%20image_4.jpg)
-::
-
 ::section-two-columns
 ---
 background: "true"
@@ -85,7 +81,7 @@ Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindi
 *Meer wandelroutes?*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250331_BROEKERHUIS_1492.JPG)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_521.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -112,7 +108,7 @@ Geen haast. Geen route nodig. Alleen wind en een beetje richting. Maar wie wil: 
 *Bekijk meer fietsroutes.*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250331_BROEKERHUIS_1492.JPG)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_595.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -134,7 +130,7 @@ Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van he
 *Kom binnen kijken.*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250331_BROEKERHUIS_1492.JPG)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_619.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -190,19 +186,23 @@ backgroundPosition: top
 ::section-two-columns
 ---
 tagline: En zo blijf je ineens langer.
-taglineComponent: h3
+taglineComponent: span
 title: Zo kom je in Broek
 titleComponent: h2
 ---
-Laat Amsterdam de kroon dragen. Broek draagt de wollen trui. Zet thee voor je klaar. En vertelt betere verhalen. Je kwam voor een frisse neus. Een lunch. Even rust aan je kop. Een wandeling.
+### **Wanneer moet je komen?**
 
-Maar ineens zit je aan een stamtafel. Vraag je of er nog plek is op het terras voor het diner van vanavond. Kijk je of er nog een B\&B vrij is in het dorp.
+Doordeweeks vanaf een uur of tien: koffie. Eind van de middag: zon op het terras, glas wijn in de hand.  Zondag? Dan slaapt het dorp. Maar Thijs bakt croissantjes.
 
-**Toch terug naar Amsterdam?** Bus 312, 314 of 315 – 15 minuten.
+### **Wat neem je mee?**
 
-**Schemertocht op de fiets?** – door de Volgermeer, en voor je het weet ruikt het weer naar uitlaat.
+Wandelschoenen. Nieuwsgierigheid. Trek.
 
-**Meer weten over parkeren of ov?** - Bekijk [de route en parkeerinformatie](/contact-parkeren).
+### **Thuislaten?**  
+
+Haast. To-do lijstjes. Verwachtingen.
+
+*Noem het geen uitje. Noem het een pauze met potentie.*
 
 #footer
   :::cta-button{arrow="true"}
