@@ -1,72 +1,35 @@
 ---
 title: Het Broeker Huis
-description: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
-  spreekt en vieren vanzelf gaat.
+description: Vlakbij Amsterdam, midden in het groen – waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
+
 seo:
-  title: Trouwen, vergaderen & eten in Het Broeker Huis in Broek in Waterland, het
-    mooiste dorp van Nederland.
-  description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
-    Nederland – op 15 min. van Amsterdam.
+  title: Trouwen, vergaderen & eten in Het Broeker Huis in Broek in Waterland, het mooiste dorp van Nederland.
+  description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van Nederland – op 15 min. van Amsterdam.
+
 ogImage:
   url: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
   component: OgImage
   props:
-    alt: Het Broeker Huis in Broek in Waterland – eten, vieren, vergaderen & slapen
-      in het mooiste dorp van Nederland
+    alt: Het Broeker Huis in Broek in Waterland – eten, vieren, vergaderen & slapen in het mooiste dorp van Nederland
     type: image/jpeg
     width: 1200
     height: 630
+
 topNav: false
+
 sitemap:
   loc: https://www.broekerhuis.nl/
-  lastmod: 2025-04-18T00:00:00.000Z
+  lastmod: 2025-04-22T00:00:00.000Z
   changefreq: weekly
   priority: 1
   images:
-    - loc: /HOME/2. HOME_H1_Het Broeker Huis_optimized_enhanced.jpg
+    - loc: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
       caption: Zicht op Het Broeker Huis in Broek in Waterland op een zonnige dag
       geo_location: Broek in Waterland, Nederland
       title: Het Broeker Huis aan het Leeteinde 16 in Broek in Waterland
-head:
-  script:
-    - type: application/ld+json
-      content: >
-        {
-          "@context": "https://schema.org",
-          "@type": "LocalBusiness",
-          "name": "Het Broeker Huis",
-          "description": "Restaurant, trouwlocatie, vergaderlocatie en B&B in Broek in Waterland – vlakbij Amsterdam.",
-          "url": "https://www.broekerhuis.nl",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Leeteinde 16",
-            "addressLocality": "Broek in Waterland",
-            "postalCode": "1151 AK",
-            "addressCountry": "NL"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 52.4352,
-            "longitude": 4.9959
-          },
-          "sameAs": [
-            "https://www.instagram.com/het.broeker.huis/",
-            "https://www.facebook.com/BroekerHuis/"
-          ],
-          "keywords": [
-            "restaurant Broek in Waterland",
-            "trouwlocatie Waterland",
-            "vergaderlocatie vlakbij Amsterdam",
-            "overnachten in Broek in Waterland",
-            "B&B Broek in Waterland",
-            "feestlocatie Waterland",
-            "authentieke vergaderplek",
-            "dorp vlakbij Amsterdam"
-          ]
-        }
-
-  description: Welkom in het centrum van het mooiste dorp van Nederland.
-  title: Het Broeker Huis
+robots:
+  index: true
+  follow: true
 ---
 
 ::home-header
