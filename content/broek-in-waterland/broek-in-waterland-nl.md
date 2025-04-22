@@ -158,7 +158,7 @@ Kijk gerust even verder. Je komt toch wel terug.
 
 #footer
   :::cta-button{arrow="true"}
-  [Naar Laag Holland](/)
+  [Naar Laag Holland](https://www.laagholland.com/nl/waterland)
   :::
 
 #image
