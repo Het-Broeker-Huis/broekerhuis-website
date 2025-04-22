@@ -57,7 +57,7 @@ Broek in Waterland ligt **vlakbij Amsterdam - een kwartiertje** met de bus - maa
 
 Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit.
 
-Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad. en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen. Gewoon een dorp dat klopt.
+Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen. Gewoon een dorp dat klopt.
 
 #footer
   :::cta-button{arrow="true"}
@@ -78,7 +78,7 @@ taglineComponent: span
 title: Wat kun je doen in Broek in Waterland?
 titleComponent: h2
 ---
-Laat Google Maps even voor wat het is. Geen routebordjes. Geen drukte. Gewoon gaan. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Schuurtjes met een ziel. Over klinkers en keien. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Kijk omhoog – een ooievaar. Kijk omlaag – een stoeptegel uit 1786. Wandelen in Broek is verdwalen in een dorp dat zichzelf niet belangrijk vindt. En juist daarom blijft hangen.
+Laat Google Maps even voor wat het is. Geen routebordjes. Geen drukte. Gewoon gaan. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie, rozen en koeistront ruikt. Schuurtjes met een ziel. Over klinkers en keien. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk omhoog – een ooievaar. Kijk omlaag – een stoeptegel uit 1786. Kijk rond. Wandelen in Broek is verdwalen in een dorp dat zichzelf niet belangrijk vindt. En juist daarom blijft hangen.
 
 Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindigt waar het stil is. Langs gekleurde huizen, een scheef schuurtje, en een waterkant waar je jezelf hoort denken. Officieel is dit de **Noordmeerroute**. Ongeveer een uur, soms iets langer – als je blijft hangen bij een brug. Startpunt? De lantaarnpaal tegenover het Broeker Huis. Geen bordje, wel een gevoel.
 
@@ -95,6 +95,7 @@ Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindi
 
 ::section-two-columns
 ---
+reverse: true
 background: "true"
 backgroundPosition: full
 tagline: Stop voor koffie. Of niet.
@@ -121,7 +122,6 @@ Geen haast. Geen route nodig. Alleen wind en een beetje richting. Maar wie wil: 
 
 ::section-two-columns
 ---
-reverse: true
 background: "true"
 backgroundPosition: full
 tagline: in de Broeker Huiskamer.
@@ -154,13 +154,15 @@ titleComponent: h3
 ---
 Hier is niets te doen. En dat is precies de bedoeling.
 
-Zit. Kijk. Luister naar een bel, een bij, een fiets op grind. In Broek in Waterland is niksen geen tijdverspilling, maar een lokale traditie. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil (en dat hoeft binnenkort ook niet meer).
+Zit. Kijk. Luister naar een bel, een bij, een fiets op grind. In Broek in Waterland is niksen geen tijdverspilling, maar een lokale traditie. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil.
 
-*Onze B\&B opent deze zomer.*
+Kun je geen genoeg krijgen van Waterland? Broek in Waterland is onderdeel van de toeristische regio Laag Holland – een landschap vol dorpen, dijken, vaarten en verhalen.
+
+Kijk gerust even verder. Je komt toch wel terug.
 
 #footer
   :::cta-button{arrow="true"}
-  [Neem alvast een kijkje](/overnachten)
+  [Naar Laag Holland](/)
   :::
 
 #image
@@ -187,22 +189,20 @@ backgroundPosition: top
 
 ::section-two-columns
 ---
-tagline: Geen gids. Geen toegangsbewijs. Gewoon gaan.
+tagline: En zo blijf je ineens langer.
 taglineComponent: h3
-title: Zo kom je in Broek – en zo blijf je langer dan gepland
+title: Zo kom je in Broek
 titleComponent: h2
 ---
-**Vanaf Amsterdam Centraal:**
+Laat Amsterdam de kroon dragen. Broek draagt de wollen trui. Zet thee voor je klaar. En vertelt betere verhalen. Je kwam voor een frisse neus. Een lunch. Even rust aan je kop. Een wandeling.
 
-Bus 312, 314 of 315 (15 minuten). Of spring op de fiets vanaf de pont en fiets door natuurgebied de Volgermeerpolder de stad uit. Het mooiste tochtje van het jaar. Gegarandeerd.
+Maar ineens zit je aan een stamtafel. Vraag je of er nog plek is op het terras voor het diner van vanavond. Kijk je of er nog een B\&B vrij is in het dorp.
 
-**Beste dag om te komen:** doordweeks vanaf een uur of 10 staat het ontbijt klaar. Eind van de middag voor een biertje in de zon. Vanaf 17 uur kun je aanschuiven aan de stamtafel. Op zondag slaapt het dorp, maar bakt Thijs croissantjes.
+**Toch terug naar Amsterdam?** Bus 312, 314 of 315 – 15 minuten.
 
-**Wat neem je mee**: wandelschoenen, nieuwsgierigheid, trek.
+**Schemertocht op de fiets?** – door de Volgermeer, en voor je het weet ruikt het weer naar uitlaat.
 
-**Thuislaten**: to-do lijstjes, haast, verwachtingen
-
-*Nooit meer naar huis? Snappen we.*
+**Meer weten over parkeren of ov?** - Bekijk [de route en parkeerinformatie](/contact-parkeren).
 
 #footer
   :::cta-button{arrow="true"}
@@ -211,26 +211,4 @@ Bus 312, 314 of 315 (15 minuten). Of spring op de fiets vanaf de pont en fiets d
 
 #image
 ![20250310\_BROEKERHUIS\_SCENERY\_612.JPG](/images/20250310_BROEKERHUIS_SCENERY_612.JPG)
-::
-
-::section-two-columns
----
-reverse: true
-tagline: Broek in Waterland is wat je onhoudt.
-taglineComponent: h3
-title: Amsterdam is misschien de bestemming.
-titleComponent: h2
----
-**Laat Amsterdam de kroon dragen. Broek in Waterland draagt de wollen trui, zet thee voor je klaar en vertelt betere verhalen.**
-
-You came for a quick break from the city.  You found something slower, warmer, closer. Something you didn’t even know you were looking for.
-
-And it starts at Het Broeker Huis. Your lunch stop. Dinner spot. Your village living room.  
-
-Your reason to stay a little longer.
-
-#footer
-
-#image
-![20250310\_BROEKERHUIS\_SCENERY\_652.JPG](/images/20250310_BROEKERHUIS_SCENERY_652.JPG)
 ::
