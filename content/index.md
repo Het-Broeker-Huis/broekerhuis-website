@@ -1,22 +1,22 @@
 ---
 title: Het Broeker Huis
-description: Vlakbij Amsterdam, midden in het groen – waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
-
+description: Vlakbij Amsterdam, midden in het groen – waar eten verbindt, stilte
+  spreekt en vieren vanzelf gaat.
 seo:
-  title: Trouwen, vergaderen & eten in Het Broeker Huis in Broek in Waterland, het mooiste dorp van Nederland.
-  description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van Nederland – op 15 min. van Amsterdam.
-
+  title: Trouwen, vergaderen & eten in Het Broeker Huis in Broek in Waterland, het
+    mooiste dorp van Nederland.
+  description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
+    Nederland – op 15 min. van Amsterdam.
 ogImage:
   url: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
   component: OgImage
   props:
-    alt: Het Broeker Huis in Broek in Waterland – eten, vieren, vergaderen & slapen in het mooiste dorp van Nederland
+    alt: Het Broeker Huis in Broek in Waterland – eten, vieren, vergaderen & slapen
+      in het mooiste dorp van Nederland
     type: image/jpeg
     width: 1200
     height: 630
-
 topNav: false
-
 sitemap:
   loc: https://www.broekerhuis.nl/
   lastmod: 2025-04-22T00:00:00.000Z

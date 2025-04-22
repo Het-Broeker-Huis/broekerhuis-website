@@ -179,7 +179,7 @@ taglineComponent: h3
 title: Amsterdam is misschien de bestemming.
 titleComponent: h2
 ---
-Let Amsterdam wear the crown. broek in Waterland wears the wool sweater, offers you tea and tells better stories.
+**Laat Amsterdam de kroon dragen. Broek in Waterland draagt de wollen trui, zet thee voor je klaar en vertelt betere verhalen.**
 
 You came for a quick break from the city.  You found something slower, warmer, closer. Something you didn’t even know you were looking for.
 
