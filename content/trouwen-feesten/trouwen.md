@@ -43,7 +43,9 @@ robots:
 ::hero-header
 ---
 tagline: Trouw, feest, proost, zwaai uit - vlakbij Amsterdam.
+TaglineComponent: H2
 title: Trouwen en feesten in Broek
+TitleComponent: H1
 ---
 #image
 ![Bruid en bruidegom lopen hand in hand voor Het Broeker Huis in Broek in Waterland – trouwlocatie in monumentaal dorpshuis](2016-05-06-Sarah-Thomas-163.jpg)
@@ -54,6 +56,7 @@ title: Trouwen en feesten in Broek
 tagline: En als je wilt, hangen wij de slingers op.
 taglineComponent: h3
 title: Het is jouw feestje
+titleComponent: h2
 ---
 In **Het Broeker Huis** – dé trouw- en feestlocatie van [het mooiste dorp van Nederland](/broek-in-waterland) – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Tuinzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of **gewoon omdat het kan**. Bij ons mag (bijna) alles.
 

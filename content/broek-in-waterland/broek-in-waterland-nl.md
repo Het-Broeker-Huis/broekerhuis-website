@@ -18,7 +18,7 @@ seo:
 tagline: Laat Volendam en de Zaanse Schans lekker links liggen — en kom naar
   Broek in Waterland
 taglineComponent: h2
-title: Een dag naar Broek in Waterland
+title: Een dag naar Broek in Waterland.
 titleComponent: h1
 ---
 #image
