@@ -1,11 +1,12 @@
 ---
 title: Een dag naar Broek in Waterland
-description: Kom tot rust net buiten Amsterdam – in het mooiste dorp van Nederland. Geen drukte, geen klompen, geen gids. Wel koffie aan het water, stilte, en misschien een borrel.
-
+description: Kom tot rust net buiten Amsterdam – in het mooiste dorp van
+  Nederland. Geen drukte, geen klompen, geen gids. Wel koffie aan het water,
+  stilte, en misschien een borrel.
 seo:
   title: Wat te doen in het mooiste dorp van Nederland | Broek in Waterland
-  description: Tips voor een dag in Broek in Waterland – met lunch, wandelen, fietsen en niks doen. Alles wat Volendam niet is, op 15 minuten van de stad.
-
+  description: Tips voor een dag in Broek in Waterland – met lunch, wandelen,
+    fietsen en niks doen. Alles wat Volendam niet is, op 15 minuten van de stad.
 ogImage:
   url: https://www.broekerhuis.nl/BROEK/20250331_BROEKERHUIS_SCENERY_653.JPG
   component: OgImage
@@ -14,7 +15,6 @@ ogImage:
     type: image/jpeg
     width: 1200
     height: 630
-
 sitemap:
   loc: https://www.broekerhuis.nl/broek-in-waterland
   changefreq: monthly
@@ -25,12 +25,10 @@ sitemap:
       geo_location: Broek in Waterland, Nederland
       caption: Wandelpad door Broek in Waterland op een zonnige dag
       title: Wat te doen in Broek in Waterland – tips van Het Broeker Huis
-
 navigation:
   title: Broek in Waterland
   displayInTopNav: true
   topNavOrder: 20
-
 robots:
   index: true
   follow: true
@@ -81,13 +79,13 @@ taglineComponent: h3
 title: Vier dingen die je vandaag nog kunt doen in Broek in Waterland
 titleComponent: h2
 ---
-**1. Wandel zonder doel**:brLaat Google Maps even voor wat het is. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Wat moet je anders in het mooiste dorp van Nederland.
+**1. Wandel zonder doel**:br-laat Google Maps even voor wat het is. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Wat moet je anders in het mooiste dorp van Nederland.
 
-**2. Fiets een rondje Waterland**:brEen van de mooiste rondjes van Noord-Holland begint en eindigt in Broek. Langs koeien, kerktorens, riet en stilte. Via Zuiderwoude, Ransdorp of gewoon op gevoel. Halverwege een appel of een biertje — terug in Broek [een lunch waar je buik blij van wordt](/restaurant).
+**2. Fiets een rondje Waterland**:br-een van de mooiste rondjes van Noord-Holland begint en eindigt in Broek. Langs koeien, kerktorens, riet en stilte. Via Zuiderwoude, Ransdorp of gewoon op gevoel. Halverwege een appel of een biertje — terug in Broek [een lunch waar je buik blij van wordt](/restaurant).
 
-**3. Lunch bij Het Broeker Huis**:brLoop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten), toevluchtsoord.
+**3. Lunch bij Het Broeker Huis**:br-loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten), toevluchtsoord.
 
-**4. Doe helemaal niets**:brSerieus. Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer.
+**4. Doe helemaal niets**:br-serieus . Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer.
 
 *Onze B\&B opent deze zomer.*
 
