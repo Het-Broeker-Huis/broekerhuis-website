@@ -31,7 +31,7 @@ sitemap:
 navigation:
   title: Trouwen & Feesten
   displayInTopNav: true
-  topNavOrder: 9
+  topNavOrder: 5
   description: Trouwen of feesten in het mooiste dorp van Nederland – met
     karakter, zonder gedoe.
 head: null
