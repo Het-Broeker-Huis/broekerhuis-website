@@ -1,14 +1,19 @@
 ---
 title: Trouwlocatie en feestlocatie in Broek in Waterland | Het Broeker Huis
-description: Vier je bruiloft, verjaardag, afscheid of jubileum in een monumentaal dorpshuis vol karakter, in de oude dorpskern van Broek in Waterland – vlakbij Amsterdam.
+description: Vier je bruiloft, verjaardag, afscheid of jubileum in een
+  monumentaal dorpshuis vol karakter, in de oude dorpskern van Broek in
+  Waterland – vlakbij Amsterdam.
 seo:
   title: Trouwlocatie en feestlocatie in Broek in Waterland | Het Broeker Huis
-  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland, vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
+  description: Vier bruiloft, verjaardag, afscheid of jubileum in een monumentaal
+    dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland,
+    vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
 ogImage:
   url: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_195_optimized.jpg
   component: OgImage
   props:
-    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in Broek in Waterland
+    alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in
+      Broek in Waterland
     type: image/jpeg
     width: 1200
     height: 630
