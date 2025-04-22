@@ -190,23 +190,15 @@ taglineComponent: span
 title: Zo kom je in Broek
 titleComponent: h2
 ---
-### **Wanneer moet je komen?**
+Laat Amsterdam de kroon dragen. Broek draagt de wollen trui. Zet thee voor je klaar. En vertelt betere verhalen.
 
-Doordeweeks vanaf een uur of tien: koffie. Eind van de middag: zon op het terras, glas wijn in de hand.  Zondag? Dan slaapt het dorp. Maar Thijs bakt croissantjes.
+Je kwam voor een frisse neus. Een lunch. Een wandeling. Maar ineens zit je aan een stamtafel. Vraag je of er nog plek is op het terras voor vanavond. Blader je door de B\&B-brochure.
 
-### **Wat neem je mee?**
-
-Wandelschoenen. Nieuwsgierigheid. Trek.
-
-### **Thuislaten?**  
-
-Haast. To-do lijstjes. Verwachtingen.
-
-*Noem het geen uitje. Noem het een pauze met potentie.*
+*Bekijk waar je straks zit.*
 
 #footer
   :::cta-button{arrow="true"}
-  [Slaap in Het Broeker Huis](/overnachten)
+  [Het Broeker Huis op Maps](https://g.co/kgs/nQXELND)
   :::
 
 #image
