@@ -36,7 +36,7 @@ robots:
 
 ::hero-header
 ---
-tagline: Broek in Waterland - het mooiste dorp van Nederland.
+tagline: Wat te doen in het mooiste dorp van Nederland.
 taglineComponent: h2
 title: Een dag naar Broek in Waterland
 titleComponent: h1
@@ -52,11 +52,11 @@ tagline: Broek in Waterland is precies dat.
 taglineComponent: h3
 title: Op zoek naar iets anders dan drukte?
 ---
-Broek in Waterland ligt vlakbij Amsterdam - een kwartiertje met de bus - maar voelt als een andere tijdzone. Een dorp van houten huizen, water dat niet haast, en bruggen waar je vanzelf wat langzamer overheen loopt.
+Broek in Waterland ligt **vlakbij Amsterdam - een kwartiertje** met de bus - maar voelt als een andere tijdzone. Een dorp van houten huizen, water dat niet haast, en bruggen waar je vanzelf wat langzamer overheen loopt.
 
-Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit. Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak, waar de tijd heeft stilgestaan. Broek in Waterland - het mooiste dorp van Nederland.
+Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit. Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak, waar de tijd heeft stilgestaan. **Broek in Waterland - het mooiste dorp van Nederland.**
 
-Broek in Waterland ligt een kwartiertje boven Amsterdam. Een dorp van houten huizen, scheve schoorstenen en flarden gesprek op de stoep. Waar je je jas nog aan de kapstok hangt, de achterdeur open laat en de tijd wat minder strak staat.
+Broek in Waterland - een dorp van houten huizen, natuur, koeien en flarden gesprek op de stoep. Waar je je jas aan de kapstok laat hangen, je achterdeur open laat en de tijd nét wat minder snel tikt.
 
 Voor wie echt even weg wil — zonder ver te hoeven reizen. Gewoon een dorp dat klopt. Waar alles nét een beetje scheef staat — en juist daardoor goed voelt.
 
@@ -79,13 +79,13 @@ taglineComponent: h3
 title: Vier dingen die je vandaag nog kunt doen in Broek in Waterland
 titleComponent: h2
 ---
-**1. Wandel zonder doel**:br-laat Google Maps even voor wat het is. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Wat moet je anders in het mooiste dorp van Nederland.
+**1. Wandel zonder doel -** Laat Google Maps even voor wat het is. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie en pioenrozen tegelijk ruikt. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk rond. Wat moet je anders in het mooiste dorp van Nederland.
 
-**2. Fiets een rondje Waterland**:br-een van de mooiste rondjes van Noord-Holland begint en eindigt in Broek. Langs koeien, kerktorens, riet en stilte. Via Zuiderwoude, Ransdorp of gewoon op gevoel. Halverwege een appel of een biertje — terug in Broek [een lunch waar je buik blij van wordt](/restaurant).
+**2. Fiets een rondje Waterland** - Een van de mooiste rondjes van Noord-Holland begint en eindigt in Broek. Langs koeien, kerktorens, riet en stilte. Via Zuiderwoude, Ransdorp of gewoon op gevoel. Halverwege een appel of een biertje — terug in Broek [een lunch waar je buik blij van wordt](/restaurant).
 
-**3. Lunch bij Het Broeker Huis**:br-loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten), toevluchtsoord.
+**3. Lunch bij Het Broeker Huis** - Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten), toevluchtsoord.
 
-**4. Doe helemaal niets**:br-serieus . Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer.
+**4. Doe helemaal niets** - Serieus. Gewoon even niks. Ga op een bankje zitten. Kijk naar de eenden. Of de lucht. Bezoek het kleinste winkeltje van Nederland. Of niet. Er gebeurt niet veel in Broek — en dat is precies waarom je komt. En eigenlijk nooit meer weg wil. Gelukkig hoeft dat ook (bijna) niet meer.
 
 *Onze B\&B opent deze zomer.*
 
@@ -103,20 +103,22 @@ titleComponent: h2
 reverse: true
 background: "true"
 backgroundPosition: full
-tagline: Omdat Broek je met rust laat. En toch raakt.
+tagline: Broek laat je met rust. En raakt toch.
 taglineComponent: h3
-title: Waarom Broek beter is dan Volendam?
+title: Waarom Broek beter is dan Volendam
 titleComponent: h2
 ---
 Volendam is leuk als je op de foto wil in een kostuum - in dezelfde pose als de rest van de wereld. Broek is fijner als je je jas aan wilt laten, stil wilt zitten, en gewoon wilt kijken.
 
-Geen haring in je hand. Wel: eten van het vuur door topchef Thijs. Geen plastic souvenirs. Wel: sterke verhalen en slechte grappen. Geen show. Wel: echte mensen.
+Geen haring met ui. Wel vogels in de lucht in natuurgebied De Volgermeerpolder. Geen plastic souvenirs. Maar sterke verhalen en slechte grappen. Geen show. Echte mensen.
 
-Je herinnert je niet wat de (fantastische) lunch kostte. Je herinnert je het Broeker grijs. Het bescheiden rondje door de oude kern, dat je 100 keer kunt lopen en toch elke keer anders is. Het kind onder de tafel. De oudjes bij het biljart. Jppe met z'n grijns. De stilte waar ineens gelachen werd.
+Je herinnert je niet wat de (fantastische) lunch kostte. Je herinnert je het Broeker grijs. Het bescheiden rondje door de oude kern, dat je 100 keer kunt lopen en toch elke keer anders is. Het kind onder de tafel. De oudjes bij het biljart. Jeppe met z'n grijns. De stilte waar ineens gelachen werd.
+
+*Je bent van harte welkom in onze huiskamer.*
 
 #footer
   :::cta-button{arrow="true"}
-  [Reserveer een plekje](tel:+31204031314)
+  [Reserveer een plekje](^/broek-in-waterland/broek-in-waterland-nl/?$)
   :::
 
 #image
@@ -148,20 +150,21 @@ taglineComponent: h3
 title: Zo kom je in Broek – en zo blijf je langer dan gepland
 titleComponent: h2
 ---
-**Vanaf Amsterdam Centraal:**:
+**Vanaf Amsterdam Centraal:**
 
-Bus 312, 314 of 315 (15 minuten). Zwaaio vrolijk naar de hordes haringen, die nog 20 minuten in hun ton moeten zitten om de verplichte selfie in de haven van Volendam te maken. Of spring op de fiets vanaf de pont en fiets door natuurgebied de Volgermeerpolder de stad uit. Het mooiste tochtje van het jaar. Gegarandeerd.
+Bus 312, 314 of 315 (15 minuten). Of spring op de fiets vanaf de pont en fiets door natuurgebied de Volgermeerpolder de stad uit. Het mooiste tochtje van het jaar. Gegarandeerd.
 
 **Beste dag om te komen:** doordweeks vanaf een uur of 10 staat het ontbijt klaar. Eind van de middag voor een biertje in de zon. Vanaf 17 uur kun je aanschuiven aan de stamtafel. Op zondag slaapt het dorp, maar bakt Thijs croissantjes.
 
-**Wat neem je mee**: wandelschoenen, nieuwsgierigheid, trek
+**Wat neem je mee**: wandelschoenen, nieuwsgierigheid, trek.
+
 **Thuislaten**: to-do lijstjes, haast, verwachtingen
 
-*Never want to leave again? We understand.*
+*Nooit meer naar huis? Snappen we.*
 
 #footer
   :::cta-button{arrow="true"}
-  [Sleep at Het Broeker Huis](/overnachten)
+  [Slaap in Het Broeker Huis](/overnachten)
   :::
 
 #image
