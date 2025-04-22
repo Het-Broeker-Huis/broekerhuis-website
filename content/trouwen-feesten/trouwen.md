@@ -87,7 +87,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *Snel checken waar jouw idee het beste past?*
 
 #image
-![Overzicht van feest- en trouwzalen in Het Broeker Huis – collage van Grote Zaal, Regentessenkamer en binnenplaats](/BROEKERHUIS_COLLAGES_3x4_v1_SPACED.png)
+![Een elegant en feestelijk gedekte tafel met prachtige lichtinval voor een oefendiner de avond voor je bruiloft](/20250310_BROEKERHUIS_REGENTESSEKAMER_303_optimized.jpg)
 
 #footer
   :::cta-button{arrow="true"}
