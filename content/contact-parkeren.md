@@ -1,5 +1,43 @@
-::hero-header
 ---
+title: Contact & parkeren – Het Broeker Huis
+description: Alles wat je wilt weten voordat je komt - contactgegevens, parkeren, bereikbaarheid en meer. Midden in Broek in Waterland, op 15 minuten van Amsterdam.
+
+seo:
+  title: Contact & route | Het Broeker Huis in Broek in Waterland
+  description: Hoe je Het Broeker Huis bereikt – met de auto, op de fiets of met het OV. Contactgegevens, parkeren en praktische info op één plek.
+
+ogImage:
+  url: https://www.broekerhuis.nl/20250310_BROEKERHUIS_OMGEVING_245.JPG
+  component: OgImage
+  props:
+    alt: Wegwijzer naar Het Broeker Huis in Broek in Waterland
+    type: image/jpeg
+    width: 1200
+    height: 630
+
+sitemap:
+  loc: https://www.broekerhuis.nl/contact-parkeren
+  changefreq: monthly
+  lastmod: 2025-04-22T00:00:00.000Z
+  priority: 0.5
+  images:
+    - loc: https://www.broekerhuis.nl/20250310_BROEKERHUIS_OMGEVING_245.JPG
+      geo_location: Broek in Waterland, Nederland
+      caption: Bord met route en parkeeraanwijzing naar Het Broeker Huis
+      title: Route en parkeren – Het Broeker Huis, Broek in Waterland
+
+navigation:
+  title: Contact
+  displayInTopNav: true
+  topNavOrder: 99
+
+robots:
+  index: true
+  follow: true
+---
+
+::hero-header
+
 tagline: Vlakbij Amsterdam. Altijd bereikbaar.
 title: Contact, parkeren & toegankelijkheid
 ---
