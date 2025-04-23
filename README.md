@@ -1,3 +1,8 @@
+# Broekerhuis
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bfbde5d-c770-4d20-b6e3-bece7e3a07b2/deploy-status)](https://app.netlify.com/sites/hetbroekerhuis/deploys)
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

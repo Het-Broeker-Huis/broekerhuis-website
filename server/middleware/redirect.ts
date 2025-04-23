@@ -25,6 +25,10 @@ const redirects = [
     from: "/contact",
     to: "/het-broeker-huis",
   },
+  {
+    form: "/info.htm",
+    to: "/het-broeker-huis",
+  },
 ];
 
 export default defineEventHandler(async (event) => {
