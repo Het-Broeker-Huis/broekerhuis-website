@@ -57,7 +57,7 @@ Broek in Waterland ligt **vlakbij Amsterdam - een kwartiertje** met de bus - maa
 
 Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit.
 
-Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen. Gewoon een dorp dat klopt.
+Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen. In het [mooiste dorp van Nederland](https://bijzonderplekje.nl/mooiste-dorp-van-nederland).
 
 #footer
   :::cta-button{arrow="true"}
