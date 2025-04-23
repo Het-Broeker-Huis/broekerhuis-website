@@ -21,7 +21,7 @@ sitemap:
   loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen
   changefreq: weekly
   lastmod: 2025-04-18T00:00:00.000Z
-  priority: 2
+  priority: 0.9
   images:
     - loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg
       geo_location: Broek in Waterland, Nederland

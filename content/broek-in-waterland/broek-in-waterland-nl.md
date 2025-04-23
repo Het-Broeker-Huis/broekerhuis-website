@@ -19,7 +19,7 @@ sitemap:
   loc: https://www.broekerhuis.nl/broek-in-waterland
   changefreq: monthly
   lastmod: 2025-04-22T00:00:00.000Z
-  priority: 0.6
+  priority: 0.8
   images:
     - loc: https://www.broekerhuis.nl/BROEK/20250331_BROEKERHUIS_SCENERY_653.JPG
       geo_location: Broek in Waterland, Nederland
