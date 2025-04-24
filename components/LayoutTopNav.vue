@@ -49,17 +49,17 @@ const mobileMenu = ref(false);
 </template>
 
 <style>
-@keyframes grow-progress {
-  0% {
-    opacity: 0;
-  }
-
-  2% {
-    opacity: 1;
-  }
-}
-
 .top-nav {
+  @keyframes grow-progress {
+    0% {
+      opacity: 0;
+    }
+
+    2% {
+      opacity: 1;
+    }
+  }
+
   --logo-width: clamp(37px, 3.33vw, 48px);
 
   position: fixed;
