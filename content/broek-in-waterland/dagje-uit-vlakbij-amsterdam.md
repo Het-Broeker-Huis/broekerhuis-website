@@ -42,7 +42,7 @@ title: Dagje uit naar Broek in Waterland
 titleComponent: h1
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/Broek%20tourist%20image_5.jpg)
+![2016-05-06-Sarah-Thomas-163.jpg](/dagje-uit-broek-in-waterland-brug-bloemen-wandelen-fietsen.jpg)
 ::
 
 ::section-intro
@@ -81,7 +81,7 @@ Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindi
 *Meer wandelroutes?*
 
 #image
-![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/20250310-broekerhuis-scenery-521.JPG)
+![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/wandelen-door-broek-in-waterland-leeteinde-oude-huizen.jpg)
 
 #footer
   :::cta-button{arrow="true"}
@@ -108,7 +108,7 @@ Geen haast. Geen route nodig. Alleen wind en een beetje richting. Maar wie wil: 
 *Bekijk meer fietsroutes.*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_595.JPG)
+![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/fietsen-door-waterland-vanaf-broek-in-waterland.jpg)
 
 #footer
   :::cta-button{arrow="true"}
@@ -130,7 +130,7 @@ Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van he
 *Kom binnen kijken.*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_619.JPG)
+![Versgebakken brood door chef en bakker Thijs Steur, voormalig Toscainini en Vuurtoreneiland](/20250310_BROEKERHUIS_TUINZAAL_062.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -162,7 +162,7 @@ Kijk gerust even verder. Je komt toch wel terug.
   :::
 
 #image
-![20250331\_BROEKERHUIS\_1617.JPG](/20250310_BROEKERHUIS_SCENERY_653.JPG)
+![Bordje-stilte-bij-havenrak-broek-in-waterland](/20250310-broekerhuis-scenery-316.JPG)
 ::
 
 ::section-visual-transition
@@ -171,13 +171,13 @@ background: "true"
 backgroundPosition: top
 ---
 #image_1
-![20250310\_BROEKERHUIS\_SCENERY\_280.JPG](/20250310_BROEKERHUIS_SCENERY_382.JPG)
+![Groene en grijze houten huizen en water in Broek in Waterland – rustgevend uitzicht ochtenddauw](/zonsopgang-grijzen-houten-huizen-broek-in-waterland-dagje-uit.jpg)
 
 #image_2
-![20250310\_BROEKERHUIS\_SCENERY\_316.JPG](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
+![Restaurant De Broeker Huiskamer – voor koffie, kroket of kruimeltaart in het dorp](/trouwen-grote-zaal-lichtinval-broeker-huis.jpg.JPG)
 
 #image_3
-![20250310\_BROEKERHUIS\_SCENERY\_186.JPG](/20250310_BROEKERHUIS_SCENERY_378.JPG)
+![Uitzicht op houten huizen, water en stilte in Broek in Waterland – even helemaal niks](/wandelpad-broek-in-waterland-langs-water-en-bruggetjes.jpg)
 
 #image_4
 ![20250310\_BROEKERHUIS\_SCENERY\_499.JPG](/20250310_BROEKERHUIS_SCENERY_499.JPG)
