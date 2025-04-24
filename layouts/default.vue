@@ -29,7 +29,7 @@ const { data } = useAsyncData('navigation', async () => {
 
 <template>
   <div class="layout">
-    <LayoutTopNav :items="data" />
+    <LayoutTopNav v-if="data" :items="data" />
     <main class="main">
       <slot />
     </main>
