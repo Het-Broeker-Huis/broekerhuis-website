@@ -81,7 +81,7 @@ Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindi
 *Meer wandelroutes?*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/20250310_BROEKERHUIS_SCENERY_521.JPG)
+![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/20250310-broekerhuis-scenery-521.JPG)
 
 #footer
   :::cta-button{arrow="true"}
