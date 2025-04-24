@@ -42,7 +42,7 @@ title: Dagje uit naar Broek in Waterland
 titleComponent: h1
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/dagje-uit-broek-in-waterland-brug-bloemen-wandelen-fietsen.jpg)
+![dagje-uit-broek-in-waterland-brug-bloemen-wandelen-fietsen.jpg](/dagje-uit-broek-in-waterland-brug-bloemen-wandelen-fietsen.jpg)
 ::
 
 ::section-intro
