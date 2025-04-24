@@ -58,7 +58,7 @@ taglineComponent: h3
 title: Het is jouw feestje
 titleComponent: h2
 ---
-In **Het Broeker Huis** – dé trouw- en feestlocatie van [het mooiste dorp van Nederland](/broek-in-waterland) – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Tuinzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of **gewoon omdat het kan**. Bij ons mag (bijna) alles.
+In **Het Broeker Huis** – dé trouw- en feestlocatie van [het mooiste dorp van Nederland](https://bijzonderplekje.nl/mooiste-dorp-van-nederland/#:~\:text=In%20Laag%20Holland%2C%20net%20boven,ontdekken%20van%20bijzondere%20plekjes%20aan.) – vier je alles wat telt: je ceremonie onder de bomen op **de romantische binnenplaats**. Een **borrel** in de Tuinzaal. **Afscheid** in stilte. **Een verjaardag** die grondig uit de hand loopt. Of **gewoon omdat het kan**. Bij ons mag (bijna) alles.
 
 Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ertussen.**
 
