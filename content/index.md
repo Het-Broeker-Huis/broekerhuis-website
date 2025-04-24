@@ -33,6 +33,9 @@ robots:
 ---
 
 ::home-header
+---
+classComponent: h2
+---
 #image
 ![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/20250331_BROEKERHUIS_1550.JPG)
 ::
@@ -55,7 +58,7 @@ Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Bro
 
  
 
-*Lees meer over Het Broeker Huis en zijn hoeders.*
+*Lees meer over Het Broeker Huis.*
 
 #footer
   :::cta-button{arrow}
