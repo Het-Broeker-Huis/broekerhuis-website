@@ -5,7 +5,7 @@ description: Visit the most beautiful village in the Netherlands – Broek in
 navigation:
   title: Visit
   displayInTopNav: true
-  topNavOrder: 31
+  topNavOrder: 20
   description: What to do near Amsterdam? Visit Broek in Waterland – for walks,
     bikes, lunch or a quiet weekend away.
 seo:
