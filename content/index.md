@@ -30,6 +30,9 @@ sitemap:
 robots:
   index: true
   follow: true
+design:
+  primaryColor: "#2E322D"
+  secondaryColor: "#B9B59F"
 ---
 
 ::home-header

@@ -1,7 +1,7 @@
 :root {
   --color-primary: #2E322D;
-  --color-secondary: #b9b59f;
-  --color-background: #e5e9e9;
+  --color-secondary: #B9B59F;
+  --color-background: #E5E9E9;
 
   --color-body: color-mix(
     in srgb,
@@ -53,7 +53,7 @@ h6 {
 
 h1 {
   font-size: 2rem;
-  
+
   @media (width > 768px) {
     font-size: 3rem;
   }
@@ -71,7 +71,7 @@ h1 {
 
   &__main {
     font-size: 2rem;
-  
+
     @media (width > 768px) {
       font-size: 3rem;
     }
@@ -84,7 +84,7 @@ h1 {
       var(--color-primary) 70%,
       var(--color-background)
     );
-  
+
     @media (width > 768px) {
       font-size: 2rem;
     }
@@ -101,13 +101,13 @@ h1 {
 }
 
 .section {
-   
+
 
   &--full-width,
   &--padding-full-width {
     grid-column: 1 / -1;
   }
-  
+
   &--padding-full-width {
     padding-inline: var(--column-width);
   }
@@ -117,16 +117,16 @@ p {
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 350;
-  
-  a { 
+
+  a {
     color: var(--color-primary,#2E322D);
   }
-   
+
   + p {
     margin-top: 1rem;
   }
 }
 
 html {
-	scroll-timeline: --page-scroll block;
+  scroll-timeline: --page-scroll block;
 }
