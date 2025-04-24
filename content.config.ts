@@ -1,11 +1,6 @@
 import { defineContentConfig, defineCollection, z } from "@nuxt/content";
 import { asSeoCollection } from "@nuxtjs/seo/content";
 
-// const baseSchema = {
-//   title: z.string().nonempty(),
-//   description: z.string().nonempty(),
-// };
-
 export default defineContentConfig({
   collections: {
     content: defineCollection(
@@ -13,6 +8,11 @@ export default defineContentConfig({
         source: "**/*.md",
         type: "page",
         schema: z.object({
+          design: z.object({
+            primaryColor: z.string().default("#2E322D"),
+            secondaryColor: z.string().default("#B9B59F"),
+            backgroundColor: z.string().default("#E5E9E9"),
+          }),
           navigation: z
             .union([
               z.boolean(),

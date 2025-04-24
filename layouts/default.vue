@@ -1,5 +1,12 @@
 <script setup lang="ts">
 import type { ContentNavigationItem } from '@nuxt/content';
+import type { DesignState } from '~/types/design';
+
+const design = useState<DesignState>('design')
+
+const primaryColor = computed(() => design.value?.primaryColor || '#2E322D');
+const secondaryColor = computed(() => design.value?.secondaryColor || '#B9B59F');
+const backgroundColor = computed(() => design.value?.backgroundColor || '#E5E9E9');
 
 const { data } = await useAsyncData('navigation', async () => {
   const nav = await queryCollectionNavigation('content');
@@ -40,6 +47,10 @@ const { data } = await useAsyncData('navigation', async () => {
 
 <style>
 .layout {
+  --color-primary: v-bind(primaryColor);
+  --color-secondary: v-bind(secondaryColor);
+  --color-background: v-bind(backgroundColor);
+
   display: grid;
   grid-template-columns: repeat(var(--columns, 24), 1fr);
 }
