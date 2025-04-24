@@ -130,7 +130,7 @@ Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van he
 *Kom binnen kijken.*
 
 #image
-![Versgebakken brood door chef en bakker Thijs Steur, voormalig Toscainini en Vuurtoreneiland](/20250310_BROEKERHUIS_TUINZAAL_062.JPG)
+![Versgebakken brood door chef en bakker Thijs Steur, voormalig Toscainini en Vuurtoreneiland](/ontbijt-luch-diner-huisgebakken-brood-houtvuur-lokaal-seizoenen.JPG)
 
 #footer
   :::cta-button{arrow="true"}
@@ -180,7 +180,7 @@ backgroundPosition: top
 ![Uitzicht op houten huizen, water en stilte in Broek in Waterland – even helemaal niks](/wandelpad-broek-in-waterland-langs-water-en-bruggetjes.jpg)
 
 #image_4
-![20250310\_BROEKERHUIS\_SCENERY\_499.JPG](/20250310_BROEKERHUIS_SCENERY_499.JPG)
+![Weerspiegeling van de opkomende zon in het Havenrak tegen twee authentiek Broeker grijze huizen](/twee-grijze-houten-huizen-aan-havenrak-broek-in-waterland)
 ::
 
 ::section-two-columns
