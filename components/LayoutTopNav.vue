@@ -60,9 +60,6 @@ const mobileMenu = ref(false);
   grid-column: 1 / -1;
   padding: 0.625rem 0;
 
-  @media (width > 768px) {
-    padding: 1.5rem 0;
-  }
 
   &:before {
     display: block;
@@ -90,7 +87,6 @@ const mobileMenu = ref(false);
     }
   }
 
-
   &__logo {
     width: var(--logo-width);
     color: var(--color-white, #fff);
@@ -100,26 +96,6 @@ const mobileMenu = ref(false);
 
   &__items {
     display: none;
-
-    @media (width > 768px) {
-      position: absolute;
-      top: 50%;
-      display: flex;
-      flex-flow: row nowrap;
-      gap: 0.75rem;
-
-      &--left {
-        right: 50%;
-        justify-content: flex-end;
-        transform: translate(calc((var(--logo-width) / -2) - 3rem), -50%);
-      }
-
-      &--right {
-        left: 50%;
-        justify-content: flex-start;
-        transform: translate(calc((var(--logo-width) / 2) + 3rem), -50%);
-      }
-    }
 
     &--grid {
       display: grid;
@@ -185,56 +161,5 @@ const mobileMenu = ref(false);
       display: none;
     }
   }
-}
-
-.toggle {
-  @media (width > 768px) {
-    display: none;
-  }
-
-  &__icon {
-    position: relative;
-    display: block;
-    width: 1.5rem;
-    height: 2px;
-    background: var(--color-white, #fff);
-
-    &:before,
-    &:after {
-      content: '';
-      display: block;
-      width: 100%;
-      height: 2px;
-      background: var(--color-white, #fff);
-      position: absolute;
-      left: 0;
-      transition: all 0.3s ease-in-out;
-    }
-
-    &:before {
-      top: -6px;
-    }
-
-    &:after {
-      bottom: -6px;
-    }
-  }
-
-  &__button {
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 0.5rem;
-    align-items: center;
-    justify-content: flex-end;
-    background: transparent;
-    border: none;
-    font-size: 1rem;
-    text-transform: uppercase;
-    font-weight: 450;
-    letter-spacing: -0.32px;
-
-    color: var(--color-white, #fff);
-  }
-
 }
 </style>
