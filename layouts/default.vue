@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { ContentNavigationItem } from '@nuxt/content';
 
-const { data } = await useAsyncData('navigation', async () => {
+const { data } = useAsyncData('navigation', async () => {
   const nav = await queryCollectionNavigation('content');
 
   const flattenNav = (items: ContentNavigationItem[]) => {
@@ -25,7 +25,6 @@ const { data } = await useAsyncData('navigation', async () => {
   return uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
 
 });
-
 </script>
 
 <template>

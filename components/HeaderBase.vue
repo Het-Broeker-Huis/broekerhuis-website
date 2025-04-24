@@ -5,14 +5,12 @@
 </template>
 
 <style>
-:root {
+.header {
   --hdr-gradient: radial-gradient(farthest-corner circle at 0% 100% in oklab,
       oklch(0% 0 0 / 60%) 0%, 22%, oklch(0% 0.00 0 / 0%) 50%);
   --sdr-gradient: radial-gradient(farthest-corner circle at 0% 100%,
       #0009 0%, 22%, #0000 100%);
-}
 
-.header {
   position: relative;
   display: grid;
   grid-template-columns: subgrid;
