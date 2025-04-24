@@ -50,16 +50,6 @@ const mobileMenu = ref(false);
 
 <style>
 .top-nav {
-  @keyframes grow-progress {
-    0% {
-      opacity: 0;
-    }
-
-    2% {
-      opacity: 1;
-    }
-  }
-
   --logo-width: clamp(37px, 3.33vw, 48px);
 
   position: fixed;
@@ -72,7 +62,6 @@ const mobileMenu = ref(false);
 
   @media (width > 768px) {
     padding: 1.5rem 0;
-    ;
   }
 
   &:before {
@@ -88,7 +77,7 @@ const mobileMenu = ref(false);
 
     background: linear-gradient(180deg, rgba(46, 50, 45, 0.90) 0%, rgba(46, 50, 45, 0.80) 100%);
     backdrop-filter: blur(4px);
-    animation: grow-progress auto linear;
+    animation: topnav-bar-progress auto linear;
     animation-timeline: --page-scroll;
     transition: min-height 0.3s ease-in-out;
   }
@@ -199,7 +188,6 @@ const mobileMenu = ref(false);
 }
 
 .toggle {
-
   @media (width > 768px) {
     display: none;
   }
