@@ -95,7 +95,7 @@ titleComponent: h2
 **How to get here? →** [Practical info & tips](#get-here)
 
 #image
-![Busroute and bikeroute from Amsterdam Central Station to Broek in Waterland](/bike-and-bus-route-from-amsterdam-to-broek.png)
+![Busroute and bikeroute from Amsterdam Central Station to Broek in Waterland](/images/bus-route-bike-route-amsterdam-broek-in-waterland)
 
 #footer
 ::
