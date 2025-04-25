@@ -68,7 +68,7 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
   :::
 
 #image
-![250418\_Map HBH.jpg](/Screenshot%202025-04-18%20at%2014.32.02.png)
+![Bike or bus from Amsterdam Central Station in 15 minutes.](/ride-bus-drive-to-broek-in-waterland-from-amsterdam)
 ::
 
 ::section-two-columns
@@ -94,9 +94,5 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
   :::
 
 #image
-![Ride, bus or drive to Broek in Waterland from Amsterdam within 15 minutes](/route-amsterdam-to-broek-in-waterland)
-::
-
-::section-full-image{padding}
-![250418_Map HBH.jpg](/250418_Map%20HBH.jpg)
+![Walk from the busstop to het Broeker Huis in 10 minutes](/walk-to-het-broeker-huis-in-broek-in-waterland)
 ::
