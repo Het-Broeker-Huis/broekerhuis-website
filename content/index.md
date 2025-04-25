@@ -19,7 +19,7 @@ ogImage:
 topNav: false
 sitemap:
   loc: https://www.broekerhuis.nl/
-  lastmod: 2025-04-24T00:00:00.000Z
+  lastmod: 2025-04-25T00:00:00.000Z
   changefreq: always
   priority: 1
   images:
