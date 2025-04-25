@@ -18,7 +18,7 @@ ogImage:
 sitemap:
   loc: https://www.broekerhuis.nl/contact-parkeren
   changefreq: monthly
-  lastmod: 2025-04-22T00:00:00.000Z
+  lastmod: 2025-04-24T00:00:00.000Z
   priority: 0.5
   images:
     - loc: https://www.broekerhuis.nl/20250310_BROEKERHUIS_OMGEVING_245.JPG
@@ -29,9 +29,14 @@ navigation:
   title: Contact
   displayInTopNav: true
   topNavOrder: 99
+  description: Contact, parkeren & toegankelijkheid
 robots:
   index: true
   follow: true
+design:
+  primaryColor: "#3b3932"
+  secondaryColor: "#d4d0be"
+  backgroundColor: "#edece4"
 ---
 
 ::hero-header
@@ -47,7 +52,8 @@ title: Contact, parkeren & toegankelijkheid
 
 ::section-two-columns
 ---
-backgroundPosition: bottom
+background: "true"
+backgroundPosition: full
 tagline: Tot de drempel.
 taglineComponent: h3
 title: Zo kom je vanuit Amsterdam in Broek in Waterland
@@ -73,6 +79,8 @@ Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het
 ::section-two-columns
 ---
 reverse: true
+background: "true"
+backgroundPosition: full
 tagline: Op je gemak - geen haast.
 taglineComponent: h3
 title: Wandel naar Het Broeker Huis
