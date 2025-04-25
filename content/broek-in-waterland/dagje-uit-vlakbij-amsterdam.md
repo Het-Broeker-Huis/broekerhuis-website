@@ -42,7 +42,7 @@ title: Dagje uit naar Broek in Waterland
 titleComponent: h1
 ---
 #image
-![dagje-uit-broek-in-waterland-brug-bloemen-wandelen-fietsen.jpg](/dagje-uit-broek-in-waterland-brug-bloemen-wandelen-fietsen.jpg)
+![dagje-uit-broek-in-waterland-wandelen-fietsen-niksen.jpg](/ochtendlicht-reflecteert-op-houten-huis-broek-in-waterland.jpg)
 ::
 
 ::section-intro
@@ -108,7 +108,7 @@ Geen haast. Geen route nodig. Alleen wind en een beetje richting. Maar wie wil: 
 *Bekijk meer fietsroutes.*
 
 #image
-![20250310\_BROEKERHUIS\_GROTEZAAL\_187\_optimized.jpg](/fietsen-door-waterland-vanaf-broek-in-waterland.jpg)
+![Uitzicht op het Broeker Huis in Broek in Waterland, de perfecte pitstop voor een kop koffie en een stuk taart](/fietsen-broek-in-waterland-in-de-natuur)
 
 #footer
   :::cta-button{arrow="true"}
