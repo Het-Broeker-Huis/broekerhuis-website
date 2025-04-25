@@ -106,7 +106,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
   :::
 
 #image
-![Elegant en feestelijk gedekte tafels voor het diner op je bruiloft in Het Broeker Huis](/strak-wit-gedekte-tafels-grote-zaal-broeker-huis.jpg)
+![Elegant en feestelijk gedekte tafels voor het diner op je bruiloft in Het Broeker Huis](/wijn-diner-grote-zaal-broeker-huis-broek-in-waterland.jpg)
 ::
 
 ::section-two-columns
@@ -143,10 +143,10 @@ backgroundPosition: top
 ![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/dinertafel-met-bloemen-grote-zaal-broeker-huis.jpg)
 
 #image_2
-![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg)
+![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg.JPG)
 
 #Image_3
-![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-feestavond-broeker-huis.jpg)
+![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-bruiloft-grote-zaal)
 
 #image_4
 ![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg)
