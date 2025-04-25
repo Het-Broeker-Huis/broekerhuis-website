@@ -50,9 +50,17 @@ const { data } = await useAsyncData('navigation', async () => {
   --color-primary: v-bind(primaryColor);
   --color-secondary: v-bind(secondaryColor);
   --color-background: v-bind(backgroundColor);
+  --color-body: color-mix(in srgb,
+      var(--color-primary) 80%,
+      var(--color-background));
 
   display: grid;
   grid-template-columns: repeat(var(--columns, 24), 1fr);
+
+
+
+  color: var(--color-body, rgba(45, 54, 47, 0.8));
+  background-color: var(--color-background);
 }
 
 .header,

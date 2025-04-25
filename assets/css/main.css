@@ -3,11 +3,7 @@
   --color-secondary: #B9B59F;
   --color-background: #E5E9E9;
 
-  --color-body: color-mix(
-    in srgb,
-    var(--color-primary) 80%,
-    var(--color-background)
-  );
+
 
   --base-font-family: Inter, serif;
   --title-font-family: "Noto Serif", serif;
@@ -19,9 +15,6 @@
   letter-spacing: -0.02rem;
   line-height: 1.5;
   font-weight: 350;
-
-  color: var(--color-body, rgba(45, 54, 47, 0.8));
-  background-color: var(--color-background);
 
   font-synthesis: none;
   font-optical-sizing: auto;
