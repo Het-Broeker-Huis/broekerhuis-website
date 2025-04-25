@@ -58,7 +58,7 @@ title: Looking for “something different”?
 ---
 If you’re searching for:
 
-Authentic Dutch villages ✔️ Things to do near Amsterdam ✔️ A peaceful day trip that’s not Volendam or Zaanse Schans ✔️
+Authentic Dutch villages ✔️ Things to do near Amsterdam ✔️ A peaceful day trip that’s not Volendam or Zaanse Schans ✔️ The highest density of heritage buildings in the Netherlands **✔️**
 
 **The most beautiful village in The Netherlands** ✔️
 
@@ -110,26 +110,6 @@ taglineComponent: h3
 title: Explore Broek in Waterland
 titleComponent: h2
 ---
-You don’t need a tour guide to enjoy Broek in Waterland. Just good shoes or a bike.
-
-:br
-
- 
-
-### Wander the village
-
-Cross wooden bridges. Peek into pastel gardens. Hear your own footsteps for the first time in days. Broek moves slow, and so will you.
-
-:br
-
- 
-
-### Bike the Waterland route  
-
-Flat, scenic, and quiet. Ride past cows, dykes and tiny villages like Zuiderwoude and Ransdorp. Stop for an apple or a beer – and return to Broek with a sun-flushed face, muddy shoes and an appetite for dinner.
-
-No tickets. No queues. Just go.
-
 #image
 ![Het Broeker Huis is located on a street woth the most beautiful heritage buildings in Broek in Waterland](/COLLAGES/TINYFIED_COLLAGES/red-blue-house-in-shadow-overhanging-trees-broeker-huis)
 ::
@@ -170,7 +150,7 @@ taglineComponent: h3
 title: Planning a wedding or meeting in Het Broeker Huis
 titleComponent: h2
 ---
-Our historic house and monumental rooms aren't just for weddings and birthdays. They're also a place for strategy sessions, off-sites, team lunches or a quiet brainstorm near the city.
+Our heritage building and monumental rooms aren't just for weddings and birthdays. They're also a place for strategy sessions, off-sites, team lunches or a quiet brainstorm near the city.
 
 Whether you're celebrating love, saying goodbye, or planning the next big idea – we host it all. With local food, honest hospitality and rooms full of character. Under the trees, in our 17th-century hall or in the garden with a fire pit and a plan.
 
@@ -252,8 +232,6 @@ Bus 312, 314 or 315 to Broek in Waterland (15 min). Better yet — rent a bike a
 
 *Never want to leave again? We understand.*
 
-#footer
-
 #image
 ![20250310\_BROEKERHUIS\_SCENERY\_612.JPG](/images/20250310_BROEKERHUIS_SCENERY_612.JPG)
 ::
@@ -267,13 +245,13 @@ taglineComponent: h3
 title: Amsterdam may be the destination
 titleComponent: h2
 ---
-Let Amsterdam wear the crown. broek in Waterland wears the wool sweater, offers you tea and tells better stories.
+Let Amsterdam wear the crown. Broek in Waterland wears the wool sweater, offers you tea and tells better stories.
 
 You came for a quick break from the city.  You found something slower, warmer, closer. Something you didn’t even know you were looking for.
 
-And it starts at Het Broeker Huis. Your lunch stop. Dinner spot. Your village living room.  
+And it starts at **Het Broeker Huis. Your lunch stop. Dinner spot. Your village living room.**  
 
-Your reason to stay a little longer.
+**Your reason to stay a little longer.**
 
 #image
 ![Authentich wooden green painted house in the most beuatiful village in the Netherlands - Broek in Waterland](/fietsen-door-waterland-vanaf-broek-in-waterland.jpg)
