@@ -31,8 +31,9 @@ robots:
   index: true
   follow: true
 design:
-  primaryColor: "#2E322D"
-  secondaryColor: "#B9B59F"
+  primaryColor: "#47313c"
+  secondaryColor: "#badaaf"
+  backgroundColor: "#edece4"
 head:
   script:
     - {}
@@ -43,7 +44,7 @@ head:
 classComponent: h2
 ---
 #image
-![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg.jpg)
+![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/voorgevel-broekerhuis-broek-in-waterland.JPG)
 ::
 
 ::section-intro
