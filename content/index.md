@@ -32,7 +32,7 @@ robots:
   follow: true
 design:
   primaryColor: "#47313c"
-  secondaryColor: "#badaaf"
+  secondaryColor: "#baadaf"
   backgroundColor: "#edece4"
 head:
   script:
