@@ -20,7 +20,7 @@ ogImage:
 sitemap:
   loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen
   changefreq: weekly
-  lastmod: 2025-04-18T00:00:00.000Z
+  lastmod: 2025-04-24T00:00:00.000Z
   priority: 0.9
   images:
     - loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg
@@ -34,10 +34,14 @@ navigation:
   topNavOrder: 5
   description: Trouwen of feesten in het mooiste dorp van Nederland – met
     karakter, zonder gedoe.
-head: null
+head: ""
 robots:
   index: true
   follow: true
+design:
+  primaryColor: "#614c53"
+  secondaryColor: "#e0d3d6"
+  backgroundColor: "#f2ebe3"
 ---
 
 ::hero-header
