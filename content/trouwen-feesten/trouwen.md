@@ -58,7 +58,7 @@ TitleComponent: H1
 ::section-intro
 ---
 background: "true"
-backgroundPosition: top
+backgroundPosition: full
 tagline: En als je wilt, hangen wij de slingers op.
 taglineComponent: h3
 title: Het is jouw feestje
