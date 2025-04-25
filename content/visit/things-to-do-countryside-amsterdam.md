@@ -45,7 +45,7 @@ title: Best things to do in the Amsterdam countryside
 TitleComponent: h1
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/Broek%20tourist%20image_5.jpg)
+![Wooden blue Duch heritage building in de village of broek in Waterland, just outside Amsterdam](/broek-in-waterland-laan-traditional-wooden-dutch-house.jpg)
 ::
 
 ::section-intro
