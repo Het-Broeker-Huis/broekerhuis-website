@@ -53,11 +53,11 @@ taglineComponent: h3
 title: Net buiten Amsterdam ligt een dorp waar alles klopt
 titleComponent: h2
 ---
-Broek in Waterland ligt **vlakbij Amsterdam - een kwartiertje** met de bus - maar voelt als een andere tijdzone. Een dorp van historische houten huizen, schilderachtige grachtjes die geen haast hebben, en bruggen waar je vanzelf wat langzamer overheen loopt.
+Broek in Waterland ligt **vlakbij Amsterdam - een kwartiertje** met de bus - maar voelt als een andere tijdzone. Het dorp met de grootste dichtheid Rijksmonumenten van Nederland. Historische houten huizen, schilderachtige grachtjes die geen haast hebben, en bruggen waar je vanzelf wat langzamer overheen loopt.
 
 Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen routekaartjes met stickers. Geen gids met microfoon. Geen klederdracht aan en op de foto met Jan Smit.
 
-Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen. In het [mooiste dorp van Nederland](https://bijzonderplekje.nl/mooiste-dorp-van-nederland).
+Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen.
 
 #footer
   :::cta-button{arrow="true"}
@@ -74,7 +74,7 @@ taglineComponent: span
 title: Wat kun je doen in Broek in Waterland?
 titleComponent: h2
 ---
-Laat Google Maps even voor wat het is. Geen routebordjes. Geen drukte. Gewoon gaan. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie, rozen en koeistront ruikt. Schuurtjes met een ziel. Over klinkers en keien. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk omhoog – een ooievaar. Kijk omlaag – een stoeptegel uit 1786. Kijk rond. Wandelen in Broek is verdwalen in een dorp dat zichzelf niet belangrijk vindt. En juist daarom blijft hangen.
+Laat [Google Maps](https://g.co/kgs/Z51P8M6) even voor wat het is. Geen routebordjes. Geen drukte. Gewoon gaan. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie, rozen en koeistront ruikt. Schuurtjes met een ziel. Over klinkers en keien. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk omhoog – een ooievaar. Kijk omlaag – een stoeptegel uit 1786. Kijk rond. Wandelen in Broek is verdwalen in een dorp dat zichzelf niet belangrijk vindt. En juist daarom blijft hangen.
 
 Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindigt waar het stil is. Langs gekleurde huizen, een scheef schuurtje, en een waterkant waar je jezelf hoort denken. Officieel is dit de **Noordmeerroute**. Ongeveer een uur, soms iets langer – als je blijft hangen bij een brug. Startpunt? De lantaarnpaal tegenover het Broeker Huis. Geen bordje, wel een gevoel.
 
@@ -125,7 +125,7 @@ taglineComponent: span
 title: Koffie, kroket of kruimeltaart
 titleComponent: h3
 ---
-Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. Restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten), toevluchtsoord.
+Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. Restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten/trouwen), toevluchtsoord.
 
 *Kom binnen kijken.*
 
@@ -194,11 +194,9 @@ Laat Amsterdam de kroon dragen. Broek draagt de wollen trui. Zet thee voor je kl
 
 Je kwam voor een frisse neus. Een lunch. Een wandeling. Maar ineens zit je aan een stamtafel. Vraag je of er nog plek is op het terras voor vanavond. Blader je door de B\&B-brochure.
 
-*Bekijk waar je straks zit.*
-
 #footer
   :::cta-button{arrow="true"}
-  [Het Broeker Huis op Maps](https://g.co/kgs/nQXELND)
+  [Home](/)
   :::
 
 #image
