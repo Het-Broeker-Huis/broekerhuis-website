@@ -71,6 +71,32 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
 ![250418\_Map HBH.jpg](/Screenshot%202025-04-18%20at%2014.32.02.png)
 ::
 
+::section-two-columns
+---
+tagline: Tot de drempel en erover.
+taglineComponent: h3
+title: Zo kom je in Het Broeker Huis
+titleComponent: h2
+---
+Vanaf **Amsterdam Centraal** brengen **bus 314 en 316** je in **een kwartiertje** elke 10 minuten naar [Broek in Waterland](/broek-in-waterland/broek-in-waterland-nl).
+
+Als je komt **fietsen** (raden we aan), dan sta vanaf de pont in Noord via de Broekermeerdijk op rustig tempo **in 25 minuten** bij ons op de stoep. Fiets dan op de terugweg via de Volgermeerpolder (raden we ook aan). Dan ben je iets langer bezig, maar die extra 10 minuten is het ruimschoots waard (echt).
+
+Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het Nieuwland.
+
+Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een half rondje om de kerk en vergaap je de laatste 100 meter naar [Het Broeker Huis](/het-broeker-huis) aan het oudste stukje **Broek in Waterland - het mooiste dorp van Nederland.**
+
+*Mindervaliden zijn in* [Het Broeker Huis ](/restaurant)*natuurlijk net zo welkom als ieder ander. Je kunt bij ons ook met een rolstoel naar de WC.*
+
+#footer
+  :::cta-button{arrow="true"}
+  [Terug naar Home](/)
+  :::
+
+#image
+![Ride, bus or drive to Broek in Waterland from Amsterdam within 15 minutes](/route-amsterdam-to-broek-in-waterland)
+::
+
 ::section-full-image{padding}
 ![250418_Map HBH.jpg](/250418_Map%20HBH.jpg)
 ::
