@@ -44,7 +44,7 @@ head:
 classComponent: h2
 ---
 #image
-![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/voorgevel-broekerhuis-broek-in-waterland.JPG)
+![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/voorgevel-broekerhuis-broek-in-waterland.jpg)
 ::
 
 ::section-intro
@@ -79,16 +79,16 @@ background: true
 background-position: bottom
 ---
 #Image_1
-![Wijn wordt ingeschonken op een gedekte tafel met prachtige lichtinval](/wijn-diner-grote-zaal-broeker-huis-broek-in-waterland.jpg.JPG)
+![Wijn wordt ingeschonken op een gedekte tafel met prachtige lichtinval](/wijn-diner-grote-zaal-broeker-huis-broek-in-waterland.jpg)
 
 #Image_2
-![Lichtinval op gedekte tafels in trouwopstelling door raam Grote Zaal Broeker Huis](/trouwen-grote-zaal-lichtinval-broeker-huis.jpg.JPG)
+![Lichtinval op gedekte tafels in trouwopstelling door raam Grote Zaal Broeker Huis](/trouwen-grote-zaal-lichtinval-broeker-huis.jpg)
 
 #Image_3
-![Opkomende rode zon in Broek in Waterland door molenwiek](/omgeving-broek-in-waterland-zonsopgang-broeker-huis.jpg.JPG)
+![Opkomende rode zon in Broek in Waterland door molenwiek](/omgeving-broek-in-waterland-zonsopgang-broeker-huis.jpg)
 
 #Image_4
-![Glazen en flessen wijn op een gedekte tafel in de Regentessenkamer in zachte belichting en mooie schaduwval](/intiem-huwelijk-private-dining-regentessenkamer-broeker-huis.jpg.JPG)
+![Glazen en flessen wijn op een gedekte tafel in de Regentessenkamer in zachte belichting en mooie schaduwval](/intiem-huwelijk-private-dining-regentessenkamer-broeker-huis.jpg)
 ::
 
 ::section-two-columns
@@ -118,7 +118,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
   :::
 
 #image
-![Bruiloft bij Het Broeker Huis – bruidspaar op trappen onder confetti](/bruiloft-broeker-huis-confetti-trap-broek-in-waterland.jpg.JPG)
+![Bruiloft bij Het Broeker Huis – bruidspaar op trappen onder confetti](/bruiloft-broeker-huis-confetti-trap-broek-in-waterland.jpg)
 ::
 
 ::section-two-columns
@@ -147,11 +147,11 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
   :::
 
 #image
-![Gegrilde prei van houtvuur met olijfolie in Restaurant De Broeker Huiskamere](/houtvuur-groenten-lunch-broeker-huiskamer-restaurant.jpg.JPG)
+![Gegrilde prei van houtvuur met olijfolie in Restaurant De Broeker Huiskamere](/houtvuur-groenten-lunch-broeker-huiskamer-restaurant.jpg)
 ::
 
 ::section-full-image{background}
-![Trouwopstelling met drie lange gedekte in de Grote Zaal van Het Broeker Huis](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg.JPG)
+![Trouwopstelling met drie lange gedekte in de Grote Zaal van Het Broeker Huis](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg)
 ::
 
 ::section-two-columns
@@ -202,5 +202,5 @@ titleComponent: h2
   :::
 
 #image
-![Uitzicht op karakteristiek Broeker grijs huis door raam van Het Broeker Huis](/uitzicht-grijs-huis-door-raam-broeker-huis.jpg.JPG)
+![Uitzicht op karakteristiek Broeker grijs huis door raam van Het Broeker Huis](/uitzicht-grijs-huis-door-raam-broeker-huis.jpg)
 ::
