@@ -52,7 +52,7 @@ title: Trouwen en feesten in Broek
 TitleComponent: H1
 ---
 #image
-![Bruid en bruidegom voor Het Broeker Huis – trouwlocatie in monumentaal dorpshuis](/bruidspaar-voor-het-broeker-huis-trouwlocatie-broek-in-waterland.jpg.png)
+![Bruid en bruidegom voor Het Broeker Huis – trouwlocatie in monumentaal dorpshuis](/bruidspaar-voor-het-broeker-huis-trouwlocatie-broek-in-waterland.jpg)
 ::
 
 ::section-intro
@@ -77,7 +77,7 @@ Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ert
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
-![Bruidspaar snijdt lachend een varken van het spit aan, in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](/bruidspaar-snijdt-varken-onder-slingers-binnenplaats-broeker-huis.jpg.JPG)
+![Bruidspaar snijdt lachend een varken van het spit aan, in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](/bruidspaar-snijdt-varken-onder-slingers-binnenplaats-broeker-huis.jpg)
 ::
 
 ::section-two-columns
@@ -106,7 +106,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
   :::
 
 #image
-![Elegant en feestelijk gedekte tafels voor het diner op je bruiloft in Het Broeker Huis](/strak-wit-gedekte-tafels-grote-zaal-broeker-huis)
+![Elegant en feestelijk gedekte tafels voor het diner op je bruiloft in Het Broeker Huis](/strak-wit-gedekte-tafels-grote-zaal-broeker-huis.jpg)
 ::
 
 ::section-two-columns
@@ -131,7 +131,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
   :::
 
 #image
-![Chef Thijs Steur (voormalig Vuurtoreneiland) voor de houtoven bij Het Broeker Huis – trouw- en feestlocatie](/chef-thijs-steur-broeker-huis-houtoven-feest.jpg.JPG)
+![Chef Thijs Steur (voormalig Vuurtoreneiland) voor de houtoven bij Het Broeker Huis – trouw- en feestlocatie](/chef-thijs-steur-broeker-huis-houtoven-feest.jpg)
 ::
 
 ::section-visual-transition
@@ -140,16 +140,16 @@ background: "true"
 backgroundPosition: top
 ---
 #image_1
-![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/dinertafel-met-bloemen-grote-zaal-broeker-huis.jpg.JPG)
+![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/dinertafel-met-bloemen-grote-zaal-broeker-huis.jpg)
 
 #image_2
-![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg.JPG)
+![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg)
 
 #Image_3
-![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-feestavond-broeker-huis)
+![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-feestavond-broeker-huis.jpg)
 
 #image_4
-![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg.JPG)
+![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg)
 ::
 
 ::section-two-columns
@@ -165,7 +165,7 @@ titleComponent: h2
 **Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt. Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
 
 #image
-![Strak wit gedekte tafels in de Grote Zaal – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg.JPG)
+![Strak wit gedekte tafels in de Grote Zaal – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg)
 
 #footer
   :::cta-button{arrow="true"}
