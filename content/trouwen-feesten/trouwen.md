@@ -57,6 +57,8 @@ TitleComponent: H1
 
 ::section-intro
 ---
+background: "true"
+backgroundPosition: top
 tagline: En als je wilt, hangen wij de slingers op.
 taglineComponent: h3
 title: Het is jouw feestje
@@ -104,7 +106,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
   :::
 
 #image
-![Een elegant en feestelijk gedekte tafel met prachtige lichtinval voor een oefendiner de avond voor je bruiloft](/witte-dinertafels-grote-zaal-trouwlocatie-broeker-huis.jpg.jpg)
+![Elegant en feestelijk gedekte tafels voor het diner op je bruiloft in Het Broeker Huis](/strak-wit-gedekte-tafels-grote-zaal-broeker-huis)
 ::
 
 ::section-two-columns
@@ -125,7 +127,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 
 #footer
   :::cta-button{arrow="true"}
-  [Mail ons voor beschikbaarheid](/)
+  [Mail ons voor beschikbaarheid](/mailto\:vieren@broekerhuis.nl?subject=Beschikbaarheid%20op%20%7Bdatum%7D\&body=Hi%20Jeppe%2C%0A%0AIk%20ben%20me%20aan%20het%20ori%C3%ABnteren%20op%20een%20geschikte%20locatie%20voor%20mijn%20%7Bgelegenheid%7D.%20Hebben%20jullie%20op%20%7Bdatum%7D%20van%20%7Bstarttijd%7D%20tot%20%7Beindtijd%7D%20plek%20voor%20%7Baantal%7D%20mensen%3F%0A%0AAlvast%20bedankt!%0A%0Agroetjes%2C%20%7Bnaam%7D)
   :::
 
 #image
@@ -143,11 +145,11 @@ backgroundPosition: top
 #image_2
 ![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg.JPG)
 
-#image_3
-![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg.JPG)
+#Image_3
+![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-feestavond-broeker-huis)
 
 #image_4
-![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-feestavond-broeker-huis)
+![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg.JPG)
 ::
 
 ::section-two-columns
