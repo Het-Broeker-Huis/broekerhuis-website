@@ -59,9 +59,11 @@ Als je komt **fietsen** (raden we aan), dan sta vanaf de pont in Noord via de Br
 
 Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het Nieuwland.
 
+*Deur tot deur plannen?*
+
 #footer
   :::cta-button{arrow="true"}
-  [Terug naar Home](/)
+  [HBH op GoogleMaps](/)
   :::
 
 #image
@@ -82,7 +84,7 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
 
 #footer
   :::cta-button{arrow="true"}
-  [Reserveer een tafel](/)
+  [Reserveer een tafel](/https://forms.gle/kZpJYkxqhCS2VyPw5)
   :::
 
 #image
