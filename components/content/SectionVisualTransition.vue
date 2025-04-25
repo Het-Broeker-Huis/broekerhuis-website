@@ -18,11 +18,15 @@ const slotNames = computed(() => Object.keys(slots).filter((slot) => slot.toLowe
 <style>
 .visual-transition {
   position: relative;
+  display: none;
   overflow: hidden;
-  display: flex;
   flex-flow: row nowrap;
   padding-block: 3rem 6rem;
   gap: var(--column-width, 3vw);
+
+  @media (width > 768px) {
+    dsiplay: flex;
+  }
 
   &__image {
     position: relative;
