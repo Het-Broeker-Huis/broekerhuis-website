@@ -69,7 +69,7 @@ Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het
 
 #footer
   :::cta-button{arrow="true"}
-  [HBH op GoogleMaps](/)
+  [HBH op GoogleMaps](https://g.co/kgs/xEekPqW)
   :::
 
 #image
