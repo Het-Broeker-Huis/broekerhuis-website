@@ -110,6 +110,18 @@ taglineComponent: h3
 title: Explore Broek in Waterland
 titleComponent: h2
 ---
+You don’t need a tour guide to enjoy Broek in Waterland. Just good shoes or a bike.
+
+### Wander the village
+
+Cross wooden bridges. Peek into pastel gardens. Hear your own footsteps for the first time in days. Broek moves slow, and so will you.
+
+### Bike the Waterland route  
+
+Flat, scenic, and quiet. Ride past cows, dykes and tiny villages like Zuiderwoude and Ransdorp. Stop for an apple or a beer – and return to Broek with a sun-flushed face, muddy shoes and an appetite for dinner.
+
+No tickets. No queues. Just go.
+
 #image
 ![Het Broeker Huis is located on a street woth the most beautiful heritage buildings in Broek in Waterland](/COLLAGES/TINYFIED_COLLAGES/red-blue-house-in-shadow-overhanging-trees-broeker-huis)
 ::
