@@ -25,7 +25,7 @@ const slotNames = computed(() => Object.keys(slots).filter((slot) => slot.toLowe
   gap: var(--column-width, 3vw);
 
   @media (width > 768px) {
-    dsiplay: flex;
+    display: flex;
   }
 
   &__image {
