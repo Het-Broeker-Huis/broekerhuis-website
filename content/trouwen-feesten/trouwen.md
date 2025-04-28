@@ -143,10 +143,10 @@ backgroundPosition: top
 ![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/dinertafel-met-bloemen-grote-zaal-broeker-huis.jpg)
 
 #image_2
-![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg.JPG)
+![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg)
 
 #Image_3
-![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-bruiloft-grote-zaal)
+![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-bruiloft-grote-zaal.jpg)
 
 #image_4
 ![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg)
