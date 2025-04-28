@@ -174,7 +174,7 @@ backgroundPosition: top
 ![Groene en grijze houten huizen en water in Broek in Waterland – rustgevend uitzicht ochtenddauw](/zonsopgang-grijzen-houten-huizen-broek-in-waterland-dagje-uit.jpg)
 
 #image_2
-![Restaurant De Broeker Huiskamer – voor koffie, kroket of kruimeltaart in het dorp](/trouwen-grote-zaal-lichtinval-broeker-huis.jpg.JPG)
+![Restaurant De Broeker Huiskamer – voor koffie, kroket of kruimeltaart in het dorp](/trouwen-grote-zaal-lichtinval-broeker-huis.jpg)
 
 #image_3
 ![Uitzicht op houten huizen, water en stilte in Broek in Waterland – even helemaal niks](/wandelpad-broek-in-waterland-langs-water-en-bruggetjes.jpg)
