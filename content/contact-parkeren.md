@@ -59,9 +59,11 @@ taglineComponent: h3
 title: Zo kom je vanuit Amsterdam in Broek in Waterland
 titleComponent: h2
 ---
-Vanaf **Amsterdam Centraal** brengen **bus 314 en 316** je in **een kwartiertje** elke 10 minuten naar [Broek in Waterland](/broek-in-waterland/dagje-uit-vlakbij-amsterdam).
+Het Broeker Huis is zeer goed te bereiken met het OV. **Vanaf Amsterdam Centraal en Amsterdam Station Noord**, brengen bus 314 en 316 richting Volendam en Edam je in een kwartiertje elke 10 minuten naar Broek in Waterland.
 
-Als je komt **fietsen** (raden we aan), dan sta vanaf de pont in Noord via de Broekermeerdijk op rustig tempo **in 25 minuten** bij ons op de stoep. Fiets dan op de terugweg via de Volgermeerpolder (raden we ook aan). Dan ben je iets langer bezig, maar die extra 10 minuten is het ruimschoots waard (echt).
+Vanaf de bushalte loop je door het mooiste dorp van Nederland in nog geen 10 minuten naar Het Broeker Huis.
+
+Als je komt **fietsen** (raden we aan), dan sta je vanaf de pont in Noord via de Broekermeerdijk op rustig tempo **in 25 minuten** bij ons op de stoep. Fiets dan op de terugweg via de Volgermeerpolder (raden we ook aan). Dan ben je iets langer bezig, maar die extra 10 minuten is het ruimschoots waard (echt).
 
 Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het Nieuwland.
 
