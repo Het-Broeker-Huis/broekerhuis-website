@@ -165,7 +165,7 @@ titleComponent: h2
 **Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt. Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
 
 #image
-![Strak wit gedekte tafels in de Grote Zaal – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg)
+![Strak wit gedekte tafel met kroonluchter in de Regentessenkamer – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg)
 
 #footer
   :::cta-button{arrow="true"}
