@@ -76,7 +76,7 @@ Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ert
   :::
 ::
 
-::section-full-image{background="true" backgroundPosition="bottom"}
+::section-full-image{background="true" background-position="bottom"}
 ![Bruidspaar snijdt lachend een varken van het spit aan, in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](/bruidspaar-snijdt-varken-onder-slingers-binnenplaats-broeker-huis.jpg)
 ::
 
