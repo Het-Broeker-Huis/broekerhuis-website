@@ -1,8 +1,4 @@
 <script setup lang="ts">
-/**
- * Show an arrow icon next to the button text.
- * @default false
- */
 const { variant = 'primary' } = defineProps<{
   arrow?: boolean
   variant?: 'primary' | 'secondary' | 'ghost'
