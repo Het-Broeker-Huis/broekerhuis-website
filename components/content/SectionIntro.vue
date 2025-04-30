@@ -64,6 +64,8 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
 
   &__footer {
     display: flex;
+    flex-flow: row wrap;
+    gap: 1rem;
     justify-content: center;
   }
 

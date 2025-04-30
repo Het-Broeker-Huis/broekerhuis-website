@@ -69,7 +69,7 @@ Just **15 minutes from Amsterdam**. But a whole world away.  No crowds. No plas
 **Welcome to Broek in Waterland** — the best-kept secret north of Amsterdam. Postcard-pretty. Quietly iconic. And yes — **it’s real.**
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Plan your trip](#navigation)
   :::
 ::
@@ -147,7 +147,7 @@ Locals eat here. So can you.
 ![Carrots roasted over open fire for lunch at Het Broeker Huis.](/20250331_BROEKERHUIS_1438.jpeg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Drop us a line](mailto\:contact@broekerhuis.nl?subject=We%20have%20a%20question\&body=Hi%20Jeppe%2C%0A%0AWe%E2%80%99d%20like%20to%20know%20more%20about%20your%20restaurant.%0A%0AGroetjes%2C%0A%5Bnaam%5D)
   :::
 ::
@@ -171,7 +171,7 @@ Just 15 minutes from Amsterdam, and a world away from the usual.
 *Want to know more about our venue and possibilities?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Drop us a line](mailto\:vieren@broekerhuis.nl?subject=We'd%20like%20to%20know%20more!\&body=Hi%20Jeppe%2C%0A%0A%7BInsert%20question%20here%7D%0A%0AGroetjes%2C%0A%7Byour%20name%7D%0A%7Byour%20contact%20details%7D)
   :::
 
@@ -195,7 +195,7 @@ Think: soft beds, your own kitchen and a breakfast that’s more like a feast. P
 *Want to get a heads-up when reservations open?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Drop us a line](mailto\:overnachten@broekerhuis.nl?subject=We'd%20like%20to%20know%20more!\&body=Hi%20Jeppe%2C%0A%0A%7BInsert%20question%20here%7D%0A%0AGroetjes%2C%0A%7Byour%20name%7D%0A%7Byour%20contact%20details%7D)
   :::
 
@@ -269,7 +269,7 @@ And it starts at **Het Broeker Huis. Your lunch stop. Dinner spot. Your village 
 ![Authentich wooden green painted house in the most beuatiful village in the Netherlands - Broek in Waterland](/fietsen-door-waterland-vanaf-broek-in-waterland.jpg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Take me to the top](#navigation)
   :::
 ::

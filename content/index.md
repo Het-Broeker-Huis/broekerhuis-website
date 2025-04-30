@@ -113,7 +113,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 *Lees meer over trouwen en vieren in Het Broeker Huis.*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Jouw dag, jouw plek](/trouwen-feesten/trouwen)
   :::
 
@@ -142,7 +142,7 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 *Benieuwd welke Broeker topchef er straks boven het vuur staat?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Kijk hier](/restaurant)
   :::
 
@@ -172,7 +172,7 @@ titleComponent: h2
 *Benieuwd wat je hier kunt organiseren?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Bekijk de mogelijkheden](/zakelijk)
   :::
 
@@ -197,7 +197,7 @@ titleComponent: h2
 *Alvast dagdromen?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Lees meer](/overnachten)
   :::
 

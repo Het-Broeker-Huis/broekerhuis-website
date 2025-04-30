@@ -60,7 +60,7 @@ Geen gids. Geen wachtrijen. Geen klompenwinkels. Geen ‘experience’. Geen rou
 Frisse lucht, stille paadjes, en koffie op het bankje bij het Havenrak. Broek is de ideale bestemming voor wie wil ontsnappen aan de drukte van de stad en wil genieten van rust, natuur en authentieke charme. Even helemaal weg — zonder ver te hoeven reizen.
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Zo kom je hier](/contact-parkeren)
   :::
 ::
@@ -84,7 +84,7 @@ Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindi
 ![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/wandelen-door-broek-in-waterland-leeteinde-oude-huizen.jpg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [*Ga naar wandelnetwerk NH*](https://www.wandelnetwerknoordholland.nl/startpunten/startpunt-broek-in-waterland/1127)
   :::
 ::
@@ -111,7 +111,7 @@ Geen haast. Geen route nodig. Alleen wind en een beetje richting. Maar wie wil: 
 ![Uitzicht op het Broeker Huis in Broek in Waterland, de perfecte pitstop voor een kop koffie en een stuk taart](/fietsen-broek-in-waterland-in-de-natuur)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Ga naar fietsnetwerk.nl](https://www.fietsnetwerk.nl/en/routes/cycle-route-just-a-stones-throw-from-amsterdam/)
   :::
 ::
@@ -133,7 +133,7 @@ Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van he
 ![Versgebakken brood door chef en bakker Thijs Steur, voormalig Toscainini en Vuurtoreneiland](/ontbijt-luch-diner-huisgebakken-brood-houtvuur-lokaal-seizoenen.JPG)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Naar de Broeker Huiskamer](/restaurant)
   :::
 ::
@@ -157,7 +157,7 @@ Kun je geen genoeg krijgen van Waterland? Broek in Waterland is onderdeel van de
 Kijk gerust even verder. Je komt toch wel terug.
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Naar Laag Holland](https://www.laagholland.com/nl/waterland)
   :::
 
@@ -195,7 +195,7 @@ Laat Amsterdam de kroon dragen. Broek draagt de wollen trui. Zet thee voor je kl
 Je kwam voor een frisse neus. Een lunch. Een wandeling. Maar ineens zit je aan een stamtafel. Vraag je of er nog plek is op het terras voor vanavond. Blader je door de B\&B-brochure.
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Home](/)
   :::
 
