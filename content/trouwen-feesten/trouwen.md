@@ -71,7 +71,7 @@ Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ert
 *Sparren over je idee? Onze feestfluisteraar zit voor je klaar.*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Bel Jeppe](tel:+31204031314)
   :::
 ::
@@ -101,7 +101,7 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *We vinden het leuk als je spontaan binnenwipt voor een tour*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Hier vind je ons](/contact-parkeren)
   :::
 
@@ -126,7 +126,7 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 *Weet je nog niet precies wat je wilt, maar wel wanneer?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Mail ons voor beschikbaarheid](/mailto\:vieren@broekerhuis.nl?subject=Beschikbaarheid%20op%20%7Bdatum%7D\&body=Hi%20Jeppe%2C%0A%0AIk%20ben%20me%20aan%20het%20ori%C3%ABnteren%20op%20een%20geschikte%20locatie%20voor%20mijn%20%7Bgelegenheid%7D.%20Hebben%20jullie%20op%20%7Bdatum%7D%20van%20%7Bstarttijd%7D%20tot%20%7Beindtijd%7D%20plek%20voor%20%7Baantal%7D%20mensen%3F%0A%0AAlvast%20bedankt!%0A%0Agroetjes%2C%20%7Bnaam%7D)
   :::
 
@@ -168,7 +168,7 @@ titleComponent: h2
 ![Strak wit gedekte tafel met kroonluchter in de Regentessenkamer – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Vliegensvlug een prijsindicatie](https://forms.gle/hcKaZm8pQmx9JsJr7)
   :::
 ::

@@ -70,7 +70,7 @@ Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het
 *Deur tot deur plannen?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [HBH op GoogleMaps](https://g.co/kgs/xEekPqW)
   :::
 
@@ -93,7 +93,7 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
 *Mindervaliden zijn in Het Broeker Huis natuurlijk net zo welkom als ieder ander. Je kunt bij ons ook met een rolstoel naar de WC.*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Reserveer een tafel](/https://forms.gle/kZpJYkxqhCS2VyPw5)
   :::
 
