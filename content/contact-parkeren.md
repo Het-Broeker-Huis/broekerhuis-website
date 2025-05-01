@@ -74,7 +74,7 @@ Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het
     ::::external-link
     ---
     href: https://g.co/kgs/xEekPqW
-    rel: noopener noreferrer
+    rel: noopener,noreferrer
     target: _blank
     ---
     HBH op GoogleMaps
@@ -104,7 +104,7 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
     ::::external-link
     ---
     href: https://g.co/kgs/xEekPqW
-    rel: noopener noreferrer
+    rel: noopener,noreferrer
     target: _blank
     ---
     Reserveer een tafel
