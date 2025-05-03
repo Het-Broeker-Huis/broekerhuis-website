@@ -1,9 +1,11 @@
 ---
 title: Het Broeker Huis – Broek in Waterland
-description: Restaurant, trouwlocatie, vergaderen & overnachten in het mooiste dorp van Nederland, vlakbij Amsterdam.
+description: Restaurant, trouwlocatie, vergaderen & overnachten in het mooiste
+  dorp van Nederland, vlakbij Amsterdam.
 seo:
   title: Trouwen, eten & vergaderen bij Het Broeker Huis – 15 min. van Amsterdam
-  description: Restaurant, trouwlocatie, vergaderen & overnachten in Broek in Waterland – het mooiste dorp van Nederland, op een kwartier van Amsterdam.
+  description: Restaurant, trouwlocatie, vergaderen & overnachten in Broek in
+    Waterland – het mooiste dorp van Nederland, op een kwartier van Amsterdam.
 ogImage:
   url: https://www.broekerhuis.nl/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg
   component: OgImage
@@ -48,7 +50,7 @@ head:
             "@type": "PostalAddress",
             "streetAddress": "Leeteinde 16",
             "addressLocality": "Broek in Waterland",
-            "postalCode": "1151 AN",
+            "postalCode": "1151 AK",
             "addressCountry": "NL"
           },
           "geo": {
@@ -177,7 +179,7 @@ taglineComponent: h3
 title: Trouwlocatie en feestlocatie vlakbij Amsterdam
 titleComponent: h2
 ---
-Trouwlocatie en feestlocatie Het Broekr Huis  in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
+Trouwlocatie en feestlocatie Het Broekr Huis in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
 
 Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
 
