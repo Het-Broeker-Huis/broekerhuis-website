@@ -16,9 +16,9 @@ ogImage:
     width: 1200
     height: 630
 sitemap:
-  loc: https://www.broekerhuis.nl/broek-in-waterland
+  loc: https://www.broekerhuis.nl/broek-in-waterland/dagje-uit-vlakbij-amsterdam
   changefreq: monthly
-  lastmod: 2025-04-22T00:00:00.000Z
+  lastmod: 2025-05-03T00:00:00.000Z
   priority: 0.8
   images:
     - loc: https://www.broekerhuis.nl/broek-in-waterland-laan-traditional-wooden-dutch-house.jpg
@@ -29,6 +29,54 @@ navigation:
   title: Broek in Waterland
   displayInTopNav: true
   topNavOrder: 20
+head:
+  script:
+    - type: application/ld+json
+      children: >
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "TouristDestination",
+              "@id": "https://www.broekerhuis.nl/broek-in-waterland/dagje-uit-vlakbij-amsterdam#tourism",
+              "name": "Broek in Waterland",
+              "url": "https://www.broekerhuis.nl/broek-in-waterland/dagje-uit-vlakbij-amsterdam",
+              "description": "Broek in Waterland – het mooiste dorp van Nederland. Stilte, karakter en historie, op een kwartier van Amsterdam.",
+              "image": "https://www.broekerhuis.nl/broek-in-waterland-laan-traditional-wooden-dutch-house.jpg",
+              "touristType": {
+                "@type": "Audience",
+                "audienceType": [
+                  "Dagjesmensen uit Amsterdam",
+                  "Internationale toeristen op zoek naar rust",
+                  "Fietsers en wandelaars"
+                ]
+              },
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.broekerhuis.nl/broek-in-waterland/dagje-uit-vlakbij-amsterdam"
+              }
+            },
+            {
+              "@type": "Place",
+              "@id": "https://www.broekerhuis.nl/#broekerhuis",
+              "name": "Het Broeker Huis",
+              "url": "https://www.broekerhuis.nl",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Leeteinde 16",
+                "addressLocality": "Broek in Waterland",
+                "postalCode": "1151 AK",
+                "addressCountry": "NL"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 52.4352,
+                "longitude": 4.9959
+              },
+              "telephone": "+31 20 4031314"
+            }
+          ]
+        }
 robots:
   index: true
   follow: true
