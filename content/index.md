@@ -23,7 +23,7 @@ sitemap:
   changefreq: always
   priority: 1
   images:
-    - loc: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
+    - loc: https://www.broekerhuis.nl/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg
       caption: Zicht op Het Broeker Huis in Broek in Waterland op een zonnige dag
       geo_location: Broek in Waterland, Nederland
       title: Het Broeker Huis aan het Leeteinde 16 in Broek in Waterland
