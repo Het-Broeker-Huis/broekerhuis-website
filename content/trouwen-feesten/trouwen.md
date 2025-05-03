@@ -36,7 +36,137 @@ navigation:
     karakter, zonder gedoe.
 head:
   script:
-    - {}
+    - type: "application/ld+json"
+      children: >
+        {
+          "@context": "https://schema.org",
+          "@type": "EventVenue",
+          "@id": "https://www.broekerhuis.nl/trouwen-feesten/trouwen#eventvenue",
+          "name": "Het Broeker Huis – Trouw- en feestlocatie",
+          "description": "Trouwlocatie en feestplek in de oude dorpskern van Broek in Waterland – vlakbij Amsterdam. Voor bruiloften, verjaardagen, jubilea en afscheidsceremonies.",
+          "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen",
+          "image": "https://www.broekerhuis.nl/trouwen-grote-zaal-lichtinval-broeker-huis.jpg",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Leeteinde 16",
+            "addressLocality": "Broek in Waterland",
+            "postalCode": "1151 AK",
+            "addressCountry": "NL"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.4352,
+            "longitude": 4.9959
+          },
+          "telephone": "+31 20 4031314",
+          "sameAs": [
+            "https://www.instagram.com/het.broeker.huis/",
+            "https://www.facebook.com/BroekerHuis/"
+          ],
+          "keywords": [
+            "trouwlocatie Broek in Waterland",
+            "feestlocatie Waterland",
+            "trouwen vlakbij Amsterdam",
+            "jubileumlocatie Broek in Waterland",
+            "monumentaal trouwen",
+            "trouwen zonder gedoe",
+            "feest in oude dorpskern",
+            "trouwzaal met karakter",
+            "bruiloft in monumentaal pand",
+            "trouwfeest Broek in Waterland",
+            "private dining trouwdag",
+            "ceremonie op binnenplaats",
+            "feestlocatie Broek in Waterland",
+            "diner bij trouwlocatie",
+            "huwelijksvoltrekking in stijl",
+            "trouwen met borrel en diner",
+            "intiem trouwen bij Amsterdam",
+            "trouwfeest met eigen invulling",
+            "trouwlocatie met binnenplaats",
+            "vier je bruiloft monumentaal"
+            "trouwen vlakbij Amsterdam",
+            "jubileumlocatie Broek in Waterland",
+            "unieke feestzaal Amsterdam",
+            "monumentaal trouwen",
+            "feestlocatie oude dorpskern"
+          ],
+          "publicAccess": "true",
+          "hasMap": "https://www.google.com/maps/place/Leeteinde+16,+1151+AK+Broek+in+Waterland",
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+            ],
+            "opens": "08:00",
+            "closes": "23:00"
+          },
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gratis parkeren",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Binnenplaats met buitenruimte",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Catering op locatie",
+              "value": true
+            }
+          ],
+          "potentialAction": {
+            "@type": "CommunicateAction",
+            "target": "mailto:vieren@broekerhuis.nl",
+            "description": "Neem contact op voor beschikbaarheid of een offerte",
+            "recipient": {
+              "@type": "Audience",
+              "audienceType": "Toekomstige bruidsparen en feestvierders"
+            }
+          },
+          "event": {
+            "@type": "Event",
+            "name": "Trouwen in Het Broeker Huis",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "startDate": "2025-06-01",
+            "endDate": "2025-06-01",
+            "description": "Trouwen in een monumentale locatie vlakbij Amsterdam – persoonlijk, sfeervol en zonder gedoe.",
+            "location": {
+              "@type": "Place",
+              "name": "Het Broeker Huis",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Leeteinde 16",
+                "addressLocality": "Broek in Waterland",
+                "postalCode": "1151 AK",
+                "addressCountry": "NL"
+              }
+            },
+            "image": [
+              "https://www.broekerhuis.nl/trouwen-grote-zaal-lichtinval-broeker-huis.jpg"
+            ],
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "EUR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen",
+              "validFrom": "2025-01-01T00:00"
+            },
+            "organizer": {
+              "@type": "Organization",
+              "name": "Het Broeker Huis",
+              "url": "https://www.broekerhuis.nl"
+            },
+            "performer": {
+              "@type": "Person",
+              "name": "Ceremoniemeester"
+            }
+          }
+        }
 robots:
   index: true
   follow: true
