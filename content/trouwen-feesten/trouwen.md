@@ -42,8 +42,8 @@ head:
           "@context": "https://schema.org",
           "@type": "EventVenue",
           "@id": "https://www.broekerhuis.nl/trouwen-feesten/trouwen#eventvenue",
-          "name": "Het Broeker Huis – Trouw- en feestlocatie",
-          "description": "Trouwlocatie en feestplek in de oude dorpskern van Broek in Waterland – vlakbij Amsterdam. Voor bruiloften, verjaardagen, jubilea en afscheidsceremonies.",
+          "name": "Trouwlocatie in Broek in Waterland – Het Broeker Huis",
+          "description": "Trouwen of feesten in een monumentaal dorpshuis vol karakter – midden in Broek in Waterland, op 15 minuten van Amsterdam. Voor bruiloften, jubilea, verjaardagen en afscheidsvieringen, persoonlijk en zonder gedoe."
           "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen",
           "image": "https://www.broekerhuis.nl/trouwen-grote-zaal-lichtinval-broeker-huis.jpg",
           "address": {
