@@ -20,10 +20,10 @@ ogImage:
 sitemap:
   loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen
   changefreq: weekly
-  lastmod: 2025-04-24T00:00:00.000Z
+  lastmod: 2025-05-03T00:00:00.000Z
   priority: 0.9
   images:
-    - loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg
+    - loc: https://broekerhuis.nl/trouwen-grote-zaal-lichtinval-broeker-huis.jpg
       geo_location: Broek in Waterland, Nederland
       caption: Prachtig gedekte tafels voor een diner voor 80 personen in de
         monumentale Grote Zaal van Het Broeker Huis
