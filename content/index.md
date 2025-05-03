@@ -200,7 +200,7 @@ taglineComponent: h3
 title: Trouwlocatie en feestlocatie vlakbij Amsterdam
 titleComponent: h2
 ---
-Trouwlocatie en feestlocatie Het Broekr Huis in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
+Trouwlocatie en feestlocatie Het Broeker Huis in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
 
 Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
 
