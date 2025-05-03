@@ -41,6 +41,34 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "Organization",
+              "@id": "https://www.broekerhuis.nl/#organization",
+              "name": "Het Broeker Huis",
+              "url": "https://www.broekerhuis.nl",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.broekerhuis.nl/favicon.png"
+              },
+              "sameAs": [
+                "https://www.instagram.com/het.broeker.huis/",
+                "https://www.facebook.com/BroekerHuis/"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.broekerhuis.nl/#website",
+              "url": "https://www.broekerhuis.nl",
+              "name": "Het Broeker Huis",
+              "publisher": {
+                "@id": "https://www.broekerhuis.nl/#organization"
+              },
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.broekerhuis.nl/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
+            },
+            {
               "@type": "LocalBusiness",
               "@id": "https://www.broekerhuis.nl/#localbusiness",
               "name": "Het Broeker Huis",
@@ -70,83 +98,51 @@ head:
                 "dayOfWeek": [
                   "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
                 ],
-                "opens": "10:00",
-                "closes": "00:00"
+                "opens": "08:00",
+                "closes": "23:00"
               },
               "amenityFeature": [
-                {
-                  "@type": "LocationFeatureSpecification",
-                  "name": "Gratis parkeren",
-                  "value": true
-                },
-                {
-                  "@type": "LocationFeatureSpecification",
-                  "name": "Binnenplaats met tuin",
-                  "value": true
-                },
-                {
-                  "@type": "LocationFeatureSpecification",
-                  "name": "Restaurant met houtvuur",
-                  "value": true
-                },
-                {
-                  "@type": "LocationFeatureSpecification",
-                  "name": "Trouwlocatie nabij Amsterdam",
-                  "value": true
-                }
+                { "@type": "LocationFeatureSpecification", "name": "Gratis parkeren", "value": true },
+                { "@type": "LocationFeatureSpecification", "name": "Binnenplaats met tuin", "value": true },
+                { "@type": "LocationFeatureSpecification", "name": "Restaurant met houtvuur", "value": true },
+                { "@type": "LocationFeatureSpecification", "name": "Trouwlocatie nabij Amsterdam", "value": true }
               ],
               "keywords": [
-                "restaurant Broek in Waterland",
-                "restaurant nabij Amsterdam",
-                "restaurant met houtvuur",
-                "eten in monumentaal pand",
-                "culinair Broek in Waterland",
-                "trouwlocatie Waterland",
-                "trouwlocatie nabij Amsterdam",
-                "huwelijksfeest Waterland",
-                "feestlocatie Waterland",
-                "evenementenlocatie Broek in Waterland",
-                "vergaderen bij Amsterdam",
-                "vergaderlocatie in monumentaal pand",
-                "vergaderen in het groen",
-                "sfeervol vergaderen",
-                "unieke locatie Amsterdam",
-                "dorpshuis Broek in Waterland",
-                "overnachten in Broek in Waterland",
-                "B&B Broek in Waterland",
-                "authentiek Waterland",
-                "rust en ruimte",
-                "het mooiste dorp van Nederland"
+                "restaurant Broek in Waterland", "restaurant nabij Amsterdam", "restaurant met houtvuur",
+                "eten in monumentaal pand", "culinair Broek in Waterland", "trouwlocatie Waterland",
+                "feestlocatie Waterland", "evenementenlocatie Broek in Waterland", "vergaderen bij Amsterdam",
+                "dorpshuis Broek in Waterland", "overnachten in Broek in Waterland", "authentiek Waterland",
+                "rust en ruimte", "het mooiste dorp van Nederland"
               ],
               "hasPart": [
-                {
-                  "@type": "WebPage",
-                  "@id": "https://www.broekerhuis.nl/restaurant",
-                  "name": "Restaurant",
-                  "url": "https://www.broekerhuis.nl/restaurant"
-                },
-                {
-                  "@type": "WebPage",
-                  "@id": "https://www.broekerhuis.nl/trouwen-feesten/trouwen",
-                  "name": "Trouwen",
-                  "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen"
-                },
-                {
-                  "@type": "WebPage",
-                  "@id": "https://www.broekerhuis.nl/zakelijk",
-                  "name": "Vergaderen",
-                  "url": "https://www.broekerhuis.nl/zakelijk"
-                },
-                {
-                  "@type": "WebPage",
-                  "@id": "https://www.broekerhuis.nl/overnachten",
-                  "name": "Overnachten",
-                  "url": "https://www.broekerhuis.nl/overnachten"
-                }
+                { "@type": "WebPage", "@id": "https://www.broekerhuis.nl/restaurant", "name": "Restaurant", "url": "https://www.broekerhuis.nl/restaurant" },
+                { "@type": "WebPage", "@id": "https://www.broekerhuis.nl/trouwen-feesten/trouwen", "name": "Trouwen", "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen" },
+                { "@type": "WebPage", "@id": "https://www.broekerhuis.nl/zakelijk", "name": "Vergaderen", "url": "https://www.broekerhuis.nl/zakelijk" },
+                { "@type": "WebPage", "@id": "https://www.broekerhuis.nl/overnachten", "name": "Overnachten", "url": "https://www.broekerhuis.nl/overnachten" }
               ],
               "mainEntityOfPage": {
                 "@type": "WebPage",
                 "@id": "https://www.broekerhuis.nl/"
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.7",
+                "reviewCount": 70
+              },
+              "review": {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Anoniem"
+                },
+                "datePublished": "2025-04-19",
+                "reviewBody": "Prachtige plek, heerlijk gegeten en fantastische bediening. Een van de mooiste locaties in Waterland.",
+                "name": "Heerlijk en sfeervol",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": 5,
+                  "bestRating": 5
+                }
               }
             }
           ]
