@@ -75,7 +75,11 @@ const mobileMenu = ref(false);
     right: 0;
     bottom: 0;
 
-    background: linear-gradient(180deg, rgba(46, 50, 45, 0.90) 0%, rgba(46, 50, 45, 0.80) 100%);
+    background: linear-gradient(180deg, color-mix(in srgb,
+          var(--color-primary) 90%,
+          transparent) 0%, color-mix(in srgb,
+          var(--color-primary) 80%,
+          transparent) 100%);
     backdrop-filter: blur(4px);
     animation: topnav-bar-progress auto linear;
     animation-timeline: --page-scroll;

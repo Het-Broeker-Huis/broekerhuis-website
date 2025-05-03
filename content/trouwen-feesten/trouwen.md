@@ -20,10 +20,10 @@ ogImage:
 sitemap:
   loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen
   changefreq: weekly
-  lastmod: 2025-04-18T00:00:00.000Z
+  lastmod: 2025-05-03T00:00:00.000Z
   priority: 0.9
   images:
-    - loc: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_187_optimized.jpg
+    - loc: https://broekerhuis.nl/trouwen-grote-zaal-lichtinval-broeker-huis.jpg
       geo_location: Broek in Waterland, Nederland
       caption: Prachtig gedekte tafels voor een diner voor 80 personen in de
         monumentale Grote Zaal van Het Broeker Huis
@@ -34,10 +34,14 @@ navigation:
   topNavOrder: 5
   description: Trouwen of feesten in het mooiste dorp van Nederland – met
     karakter, zonder gedoe.
-head: null
+head: ""
 robots:
   index: true
   follow: true
+design:
+  primaryColor: "#614c53"
+  secondaryColor: "#e0d3d6"
+  backgroundColor: "#f2ebe3"
 ---
 
 ::hero-header
@@ -48,11 +52,13 @@ title: Trouwen en feesten in Broek
 TitleComponent: H1
 ---
 #image
-![Bruid en bruidegom lopen hand in hand voor Het Broeker Huis in Broek in Waterland – trouwlocatie in monumentaal dorpshuis](2016-05-06-Sarah-Thomas-163.jpg)
+![Bruid en bruidegom voor Het Broeker Huis – trouwlocatie in monumentaal dorpshuis](/bruidspaar-voor-het-broeker-huis-trouwlocatie-broek-in-waterland.jpg)
 ::
 
 ::section-intro
 ---
+background: "true"
+backgroundPosition: full
 tagline: En als je wilt, hangen wij de slingers op.
 taglineComponent: h3
 title: Het is jouw feestje
@@ -65,13 +71,13 @@ Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ert
 *Sparren over je idee? Onze feestfluisteraar zit voor je klaar.*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Bel Jeppe](tel:+31204031314)
   :::
 ::
 
 ::section-full-image{background="true" background-position="bottom"}
-![Bruidspaar snijdt lachend een varken van het spit aan, in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](466686941_10230167123299992_4849252139870361658_n.JPG)
+![Bruidspaar snijdt lachend een varken van het spit aan, in plaats van taart onder slingerverlichting op binnenplaats van Het Broeker Huis in Broek in Waterland](/bruidspaar-snijdt-varken-onder-slingers-binnenplaats-broeker-huis.jpg)
 ::
 
 ::section-two-columns
@@ -95,12 +101,12 @@ Ons **monumentale pand** telt **vier karaktervolle zalen** een **intieme binnenp
 *We vinden het leuk als je spontaan binnenwipt voor een tour*
 
 #footer
-  :::cta-button{arrow="true"}
-  [Hier vind je ons](tel:+31204031314)
+  :::cta-button{arrow}
+  [Hier vind je ons](/contact-parkeren)
   :::
 
 #image
-![Een elegant en feestelijk gedekte tafel met prachtige lichtinval voor een oefendiner de avond voor je bruiloft](/20250310_BROEKERHUIS_REGENTESSEKAMER_303_optimized.jpg)
+![Elegant en feestelijk gedekte tafels voor het diner op je bruiloft in Het Broeker Huis](/wijn-diner-grote-zaal-broeker-huis-broek-in-waterland.jpg)
 ::
 
 ::section-two-columns
@@ -120,12 +126,12 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 *Weet je nog niet precies wat je wilt, maar wel wanneer?*
 
 #footer
-  :::cta-button{arrow="true"}
-  [Mail ons voor beschikbaarheid](mailto\:vieren@broekerhuis.nl?subject=Ik%20heb%20een%20idee\&body=Hoi%20Jeppe%2C%0A%0AIk%20wil%20op%20%7Bdatum%7D%20een%20%7Bgelegenheid%7D%20vieren%20met%20ongeveer%20%7Baantal%7D%20personen.%20Is%20er%20op%20die%20dag%20nog%20plek%3F%0A%0AGroet%2C%20%7BNaam%7D)
+  :::cta-button{arrow}
+  [Mail ons voor beschikbaarheid](/mailto\:vieren@broekerhuis.nl?subject=Beschikbaarheid%20op%20%7Bdatum%7D\&body=Hi%20Jeppe%2C%0A%0AIk%20ben%20me%20aan%20het%20ori%C3%ABnteren%20op%20een%20geschikte%20locatie%20voor%20mijn%20%7Bgelegenheid%7D.%20Hebben%20jullie%20op%20%7Bdatum%7D%20van%20%7Bstarttijd%7D%20tot%20%7Beindtijd%7D%20plek%20voor%20%7Baantal%7D%20mensen%3F%0A%0AAlvast%20bedankt!%0A%0Agroetjes%2C%20%7Bnaam%7D)
   :::
 
 #image
-![Chef Thijs, vormalig Toscanini staat tegen muur met blokken hout voor de oven met een lach om z'n mond](/20250331_BROEKERHUIS_1815.JPG)
+![Chef Thijs Steur (voormalig Vuurtoreneiland) voor de houtoven bij Het Broeker Huis – trouw- en feestlocatie](/chef-thijs-steur-broeker-huis-houtoven-feest.jpg)
 ::
 
 ::section-visual-transition
@@ -134,16 +140,16 @@ background: "true"
 backgroundPosition: top
 ---
 #image_1
-![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_093.JPG)
+![Gedekte dinertafel met bloemen in Grote Zaal van Het Broeker Huis](/dinertafel-met-bloemen-grote-zaal-broeker-huis.jpg)
 
 #image_2
-![Zicht op de romantische binnenplaats met bloemen op een tafel](/20250331_BROEKERHUIS_0825.JPG)
+![Zicht op de romantische binnenplaats met bloemen op een tafel](/romantische-binnenplaats-broeker-huis-trouwlocatie.jpg.JPG)
 
-#image_3
-![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/20250310_BROEKERHUIS_GROTEZAAL_250.JPG)
+#Image_3
+![DJ en lichtshow tijdens feest in de Grote Zaal van Het Broekerhuis](/dj-lichtshow-bruiloft-grote-zaal.jpg)
 
 #image_4
-![Strak wit gedekte tafels met witte bloem en wit bord](/20250310_BROEKERHUIS_GROTEZAAL_095.JPG)
+![Vier lange, prachtig gedekte tafels voor een trouwdiner van 80 man in de Grote Zaal](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg)
 ::
 
 ::section-two-columns
@@ -159,10 +165,10 @@ titleComponent: h2
 **Toosten, trouwen of je verjaardag vieren**: je wilt weten waar je aan toe bent. Snappen we. Daarom sturen we je graag een **snelle, vrijblijvende prijsindicatie**. Gebaseerd op je plannen, het aantal feestvierders en de ruimte(s) die je nodig hebt. Zonder opdringerig belletje of offerteverplichtingen. Gewoon een helder beginpunt.
 
 #image
-![Gedekte tafel met kaarslicht in de Regentessenkamer – intieme setting voor huwelijk of private dining in Het Broeker Huis](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
+![Strak wit gedekte tafel met kroonluchter in de Regentessenkamer – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Vliegensvlug een prijsindicatie](https://forms.gle/hcKaZm8pQmx9JsJr7)
   :::
 ::

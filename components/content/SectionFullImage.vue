@@ -9,7 +9,7 @@ const { padding = false } = defineProps<Props>()
 </script>
 
 <template>
-  <SectionBase :class="padding ? 'section--padding-full-width' : 'section--full-width'" :background
+  <SectionBase :class="['full-image', padding ? 'section--padding-full-width' : 'section--full-width']" :background
     :background-position>
     <div class="full-image__image">
       <slot mdc-unwrap="p" />
@@ -19,8 +19,13 @@ const { padding = false } = defineProps<Props>()
 
 <style>
 .full-image {
+  display: none;
   position: relative;
   padding-block: 3rem;
+
+  @media (width > 768px) {
+    display: block;
+  }
 
   &--background {
     &::after {

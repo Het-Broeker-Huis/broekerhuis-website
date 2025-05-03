@@ -5,7 +5,7 @@ description: Visit the most beautiful village in the Netherlands – Broek in
 navigation:
   title: Visit
   displayInTopNav: true
-  topNavOrder: 31
+  topNavOrder: 20
   description: What to do near Amsterdam? Visit Broek in Waterland – for walks,
     bikes, lunch or a quiet weekend away.
 seo:
@@ -45,7 +45,7 @@ title: Best things to do in the Amsterdam countryside
 TitleComponent: h1
 ---
 #image
-![2016-05-06-Sarah-Thomas-163.jpg](/Broek%20tourist%20image_5.jpg)
+![Wooden blue Duch heritage building in de village of broek in Waterland, just outside Amsterdam](/broek-in-waterland-laan-traditional-wooden-dutch-house.jpg)
 ::
 
 ::section-intro
@@ -58,7 +58,7 @@ title: Looking for “something different”?
 ---
 If you’re searching for:
 
-Authentic Dutch villages ✔️ Things to do near Amsterdam ✔️ A peaceful day trip that’s not Volendam or Zaanse Schans ✔️
+Authentic Dutch villages ✔️ Things to do near Amsterdam ✔️ A peaceful day trip that’s not Volendam or Zaanse Schans ✔️ The highest density of heritage buildings in the Netherlands **✔️**
 
 **The most beautiful village in The Netherlands** ✔️
 
@@ -69,7 +69,7 @@ Just **15 minutes from Amsterdam**. But a whole world away.  No crowds. No plas
 **Welcome to Broek in Waterland** — the best-kept secret north of Amsterdam. Postcard-pretty. Quietly iconic. And yes — **it’s real.**
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Plan your trip](#navigation)
   :::
 ::
@@ -95,7 +95,7 @@ titleComponent: h2
 **How to get here? →** [Practical info & tips](#get-here)
 
 #image
-![Busroute and bikeroute from Amsterdam Central Station to Broek in Waterland](/bike-and-bus-route-from-amsterdam-to-broek.png)
+![Refelction of the upcoming sun in a wooden Ditch heritage house in Broek in Waterland, 15 minutes from Amsterdam](/wooden-heritage-house-broek-in-waterland-sunrise)
 
 #footer
 ::
@@ -112,17 +112,9 @@ titleComponent: h2
 ---
 You don’t need a tour guide to enjoy Broek in Waterland. Just good shoes or a bike.
 
-:br
-
- 
-
 ### Wander the village
 
 Cross wooden bridges. Peek into pastel gardens. Hear your own footsteps for the first time in days. Broek moves slow, and so will you.
-
-:br
-
- 
 
 ### Bike the Waterland route  
 
@@ -131,7 +123,7 @@ Flat, scenic, and quiet. Ride past cows, dykes and tiny villages like Zuiderwoud
 No tickets. No queues. Just go.
 
 #image
-![Authentich Dutch wooden blue painted house in Broek in Waterland](/HOME/broek-in-water-roomeinde_9307984379_o.jpg)
+![Het Broeker Huis is located on a street woth the most beautiful heritage buildings in Broek in Waterland](/COLLAGES/TINYFIED_COLLAGES/red-blue-house-in-shadow-overhanging-trees-broeker-huis)
 ::
 
 ::section-two-columns
@@ -155,7 +147,7 @@ Locals eat here. So can you.
 ![Carrots roasted over open fire for lunch at Het Broeker Huis.](/20250331_BROEKERHUIS_1438.jpeg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Drop us a line](mailto\:contact@broekerhuis.nl?subject=We%20have%20a%20question\&body=Hi%20Jeppe%2C%0A%0AWe%E2%80%99d%20like%20to%20know%20more%20about%20your%20restaurant.%0A%0AGroetjes%2C%0A%5Bnaam%5D)
   :::
 ::
@@ -170,7 +162,7 @@ taglineComponent: h3
 title: Planning a wedding or meeting in Het Broeker Huis
 titleComponent: h2
 ---
-Our historic house and monumental rooms aren't just for weddings and birthdays. They're also a place for strategy sessions, off-sites, team lunches or a quiet brainstorm near the city.
+Our heritage building and monumental rooms aren't just for weddings and birthdays. They're also a place for strategy sessions, off-sites, team lunches or a quiet brainstorm near the city.
 
 Whether you're celebrating love, saying goodbye, or planning the next big idea – we host it all. With local food, honest hospitality and rooms full of character. Under the trees, in our 17th-century hall or in the garden with a fire pit and a plan.
 
@@ -179,12 +171,12 @@ Just 15 minutes from Amsterdam, and a world away from the usual.
 *Want to know more about our venue and possibilities?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Drop us a line](mailto\:vieren@broekerhuis.nl?subject=We'd%20like%20to%20know%20more!\&body=Hi%20Jeppe%2C%0A%0A%7BInsert%20question%20here%7D%0A%0AGroetjes%2C%0A%7Byour%20name%7D%0A%7Byour%20contact%20details%7D)
   :::
 
 #image
-![The table is set for a wedding dinner with  80 people in the main hall of Het Broeker Huis](/2016-05-06-Sarah-Thomas-163.jpg)
+![Het Broeker Huis boasts monumental rooms for patrties and weddings, a restaurant and a romantic courtyard](/COLLAGES/TINYFIED_COLLAGES/BROEKERHUIS_COLLAGES_1.png)
 ::
 
 ::section-two-columns
@@ -203,12 +195,12 @@ Think: soft beds, your own kitchen and a breakfast that’s more like a feast. P
 *Want to get a heads-up when reservations open?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Drop us a line](mailto\:overnachten@broekerhuis.nl?subject=We'd%20like%20to%20know%20more!\&body=Hi%20Jeppe%2C%0A%0A%7BInsert%20question%20here%7D%0A%0AGroetjes%2C%0A%7Byour%20name%7D%0A%7Byour%20contact%20details%7D)
   :::
 
 #image
-![The table is set for a wedding dinner with  80 people in the main hall of Het Broeker Huis](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_159_optimized.jpg)
+![Stay the night in the fairy tale village of Broek in Waterland, in the B\&B of Het Broeker Huis](/COLLAGES/TINYFIED_COLLAGES/sunrise-over-havenrak-broek-in-waterland)
 ::
 
 ::section-visual-transition
@@ -217,16 +209,16 @@ background: "true"
 backgroundPosition: bottom
 ---
 #image_1
-![20250310\_BROEKERHUIS\_SCENERY\_280.JPG](/20250310_BROEKERHUIS_SCENERY_382.JPG)
+![View from the window of the first B\&B in Het Broeker Huis](/images/20250310_BROEKERHUIS_REGENTESSENKAMER_013.JPG)
 
 #image_2
-![20250310\_BROEKERHUIS\_SCENERY\_316.JPG](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
+![See one of the 85 heritage buildings the small village of Broek in Waterland boasts](/wooden-dutch-heritage-building-in-broek-in-waterland-reflecting-sun)
 
 #image_3
-![20250310\_BROEKERHUIS\_SCENERY\_186.JPG](/20250310_BROEKERHUIS_SCENERY_378.JPG)
+![One of the many well maintained heritage farms in Broek in Waterland](/sun-on-wooden-heritage-house-broek-in-waterland)
 
 #image_4
-![20250310\_BROEKERHUIS\_SCENERY\_499.JPG](/20250310_BROEKERHUIS_SCENERY_499.JPG)
+![The Regentessenkamer in Het Broker Huis is exactly the same as it was in 1775, with a chandelier , high ceilings and crown moulding](/20250310_BROEKERHUIS_REGENTESSEKAMER_154.JPG)
 ::
 
 ::section-two-columns
@@ -252,8 +244,6 @@ Bus 312, 314 or 315 to Broek in Waterland (15 min). Better yet — rent a bike a
 
 *Never want to leave again? We understand.*
 
-#footer
-
 #image
 ![20250310\_BROEKERHUIS\_SCENERY\_612.JPG](/images/20250310_BROEKERHUIS_SCENERY_612.JPG)
 ::
@@ -267,19 +257,19 @@ taglineComponent: h3
 title: Amsterdam may be the destination
 titleComponent: h2
 ---
-Let Amsterdam wear the crown. broek in Waterland wears the wool sweater, offers you tea and tells better stories.
+Let Amsterdam wear the crown. Broek in Waterland wears the wool sweater, offers you tea and tells better stories.
 
 You came for a quick break from the city.  You found something slower, warmer, closer. Something you didn’t even know you were looking for.
 
-And it starts at Het Broeker Huis. Your lunch stop. Dinner spot. Your village living room.  
+And it starts at **Het Broeker Huis. Your lunch stop. Dinner spot. Your village living room.**  
 
-Your reason to stay a little longer.
+**Your reason to stay a little longer.**
 
 #image
-![Authentich wooden green painted house in the most beuatiful village in the Netherlands - Broek in Waterland](/broek-in-waterland-laan_9310768258_o.jpg)
+![Authentich wooden green painted house in the most beuatiful village in the Netherlands - Broek in Waterland](/fietsen-door-waterland-vanaf-broek-in-waterland.jpg)
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Take me to the top](#navigation)
   :::
 ::

@@ -1,26 +1,20 @@
 <script setup lang="ts">
-/**
- * Show an arrow icon next to the button text.
- * @default false
- */
-const { arrow } = defineProps<{
-  arrow?: boolean | string
+const { variant = 'primary' } = defineProps<{
+  arrow?: boolean
+  variant?: 'primary' | 'secondary' | 'ghost'
 }>();
-
-const hasArrow = computed<boolean>(() => typeof arrow === 'string' ? arrow === 'true' : !!arrow);
 </script>
 
 <template>
-  <div :class="['cta-button', { 'cta-button--icon': hasArrow }]">
+  <div :class="['cta-button', { 'cta-button--icon': arrow }, `cta-button--${variant}`]">
     <slot mdc-unwrap="p" />
-    <svgo-arrow v-if="hasArrow" class="cta-button__arrow" />
+    <svgo-arrow v-if="arrow" class="cta-button__arrow" />
   </div>
 </template>
 
 <style>
 .cta-button {
   position: relative;
-  color: var(--color-white, #FFFFFF);
 
   a {
     display: block;
@@ -31,6 +25,31 @@ const hasArrow = computed<boolean>(() => typeof arrow === 'string' ? arrow === '
     text-decoration: none;
     color: inherit;
     text-decoration: none;
+  }
+
+  &--primary {
+    color: var(--color-white, #FFFFFF);
+
+    a {
+      background-color: var(--color-primary, #2E322D);
+    }
+  }
+
+  &--secondary {
+    color: var(--color-primary, #2E322D);
+
+    a {
+      background-color: var(--color-secondary, #B9B59F);
+    }
+  }
+
+  &--ghost {
+    color: var(--color-primary, #2E322D);
+
+    a {
+      background-color: transparent;
+      border: 1px solid var(--color-primary, #2E322D);
+    }
   }
 
   &--icon {

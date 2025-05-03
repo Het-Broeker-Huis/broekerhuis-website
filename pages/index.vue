@@ -1,12 +1,15 @@
 <script setup lang="ts">
+import type { DesignState } from '~/types/design'
+
+const design = useState<DesignState>('design', () => ({}));
+
 const { data: home } = await useAsyncData(() =>
   queryCollection("content").path("/").first()
 );
 
-useSeoMeta({
-  title: home.value?.title,
-  description: home.value?.description,
-});
+design.value.primaryColor = home.value?.design?.primaryColor
+design.value.secondaryColor = home.value?.design?.secondaryColor
+design.value.backgroundColor = home.value?.design?.backgroundColor
 </script>
 
 <template>

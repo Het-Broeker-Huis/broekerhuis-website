@@ -8,7 +8,7 @@ seo:
   description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
     Nederland – op 15 min. van Amsterdam.
 ogImage:
-  url: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
+  url: https://www.broekerhuis.nl/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg
   component: OgImage
   props:
     alt: Het Broeker Huis in Broek in Waterland – eten, vieren, vergaderen & slapen
@@ -19,8 +19,8 @@ ogImage:
 topNav: false
 sitemap:
   loc: https://www.broekerhuis.nl/
-  lastmod: 2025-04-22T00:00:00.000Z
-  changefreq: weekly
+  lastmod: 2025-04-25T00:00:00.000Z
+  changefreq: always
   priority: 1
   images:
     - loc: https://www.broekerhuis.nl/HOME/2.%20HOME_H1_Het%20Broeker%20Huis_optimized_enhanced.jpg
@@ -30,6 +30,13 @@ sitemap:
 robots:
   index: true
   follow: true
+design:
+  primaryColor: "#47313c"
+  secondaryColor: "#baadaf"
+  backgroundColor: "#edece4"
+head:
+  script:
+    - {}
 ---
 
 ::home-header
@@ -37,7 +44,7 @@ robots:
 classComponent: h2
 ---
 #image
-![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/20250331_BROEKERHUIS_1550.JPG)
+![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg)
 ::
 
 ::section-intro
@@ -72,16 +79,16 @@ background: true
 background-position: bottom
 ---
 #Image_1
-![Wijn wordt ingeschonken op een gedekte tafel met prachtige lichtinval](/20250310_BROEKERHUIS_GROTEZAAL_262.JPG)
+![Wijn wordt ingeschonken op een gedekte tafel met prachtige lichtinval](/wijn-diner-grote-zaal-broeker-huis-broek-in-waterland.jpg)
 
 #Image_2
-![Lichtinval op gedekte tafels in trouwopstelling door raam Grote Zaal Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_237.JPG)
+![Lichtinval op gedekte tafels in trouwopstelling door raam Grote Zaal Broeker Huis](/trouwen-grote-zaal-lichtinval-broeker-huis.jpg)
 
 #Image_3
-![Opkomende rode zon in Broek in Waterland door molenwiek](/20250310_BROEKERHUIS_SCENERY_155.JPG)
+![Opkomende rode zon in Broek in Waterland door molenwiek](/omgeving-broek-in-waterland-zonsopgang-broeker-huis.jpg)
 
 #Image_4
-![Glazen en flessen wijn op een gedekte tafel in de Regentessenkamer in zachte belichting en mooie schaduwval](/20250310_BROEKERHUIS_REGENTESSENKAMER_073.JPG)
+![Glazen en flessen wijn op een gedekte tafel in de Regentessenkamer in zachte belichting en mooie schaduwval](/intiem-huwelijk-private-dining-regentessenkamer-broeker-huis.jpg)
 ::
 
 ::section-two-columns
@@ -106,12 +113,12 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 *Lees meer over trouwen en vieren in Het Broeker Huis.*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Jouw dag, jouw plek](/trouwen-feesten/trouwen)
   :::
 
 #image
-![Bruiloft bij Het Broeker Huis – bruidspaar op trappen onder confetti](/466644671_10230167122059961_7087218307852930656_n.JPG)
+![Bruiloft bij Het Broeker Huis – bruidspaar op trappen onder confetti](/bruiloft-broeker-huis-confetti-trap-broek-in-waterland.jpg)
 ::
 
 ::section-two-columns
@@ -135,16 +142,16 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 *Benieuwd welke Broeker topchef er straks boven het vuur staat?*
 
 #footer
-  :::cta-button{arrow="true"}
-  [Proef alvast sfeer](/restaurant)
+  :::cta-button{arrow}
+  [Kijk hier](/restaurant)
   :::
 
 #image
-![Gegrilde prei van houtvuur met olijfolie in Restaurant De Broeker Huiskamere](/20250331_BROEKERHUIS_0930.JPG)
+![Gegrilde prei van houtvuur met olijfolie in Restaurant De Broeker Huiskamere](/houtvuur-groenten-lunch-broeker-huiskamer-restaurant.jpg)
 ::
 
 ::section-full-image{background}
-![Trouwopstelling met drie lange gedekte in de Grote Zaal van Het Broeker Huis](/20250310_BROEKERHUIS_GROTEZAAL_160.JPG)
+![Trouwopstelling met drie lange gedekte in de Grote Zaal van Het Broeker Huis](/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg)
 ::
 
 ::section-two-columns
@@ -165,7 +172,7 @@ titleComponent: h2
 *Benieuwd wat je hier kunt organiseren?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Bekijk de mogelijkheden](/zakelijk)
   :::
 
@@ -190,10 +197,10 @@ titleComponent: h2
 *Alvast dagdromen?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow}
   [Lees meer](/overnachten)
   :::
 
 #image
-![Uitzicht op karakteristiek Broeker grijs huis door raam van Het Broeker Huis](/images/20250310_BROEKERHUIS_REGENTESSENKAMER_013.JPG)
+![Uitzicht op karakteristiek Broeker grijs huis door raam van Het Broeker Huis](/uitzicht-grijs-huis-door-raam-broeker-huis.jpg)
 ::
