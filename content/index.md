@@ -136,7 +136,7 @@ titleComponent: h1
 ---
 In het monumentale hart van Broek in Waterland ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen en waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
 
-**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, [restaurant](/restaurant)**,** [trouwlocatie](/trouwen-feesten/trouwen)**,** [vergaderlocatie](/zakelijk) **en**[ feestlocatie](/trouwen-feesten/trouwen) is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 **Wandel, verdwaal, onthaast, kom thui**s – Het Broeker Huis vertelt de rest.
 
@@ -193,7 +193,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 
 #footer
   :::cta-button{arrow}
-  [Jouw dag, jouw plek](/trouwen-feesten/trouwen)
+  [Trouwen en feesten](/trouwen-feesten/trouwen)
   :::
 
 #image
@@ -237,22 +237,22 @@ Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk t
 ---
 tagline: Zelfs PowerPoint krijgt lucht.
 taglineComponent: h3
-title: Vergaderen & workshops in Broek in Waterland
+title: Vergaderen & workshops vlakbij Amsterdam
 titleComponent: h2
 ---
-**Vlakbij Amsterdam**, tussen weiland en werkdruk, vind je onze **karaktervolle vergaderruimtes** – in een rijksmonument dat rust ademt, ruimte geeft en waar brainstormen écht iets oplevert.
+**In Broek in Waterland**, tussen weiland en werkdruk, vind je onze **karaktervolle vergaderruimtes** – in een rijksmonument dat rust ademt, ruimte geeft en waar brainstormen écht iets oplevert.
 
-**Vergaderen, trainen of creëren** op een plek die nooit voelt als werk. **Dichtbij de stad,** ver van hectiek, snel tot de kern.
+**Vergaderen, trainen of creëren** op een plek die nooit voelt als werk. Dichtbij de stad. Ver van hectiek. Snel tot de kern.
 
 :br
 
  
 
-*Benieuwd wat je hier kunt organiseren?*
+*Benieuwd naar de zakelijke mogelijkheden van Het Broeker Huis?*
 
 #footer
   :::cta-button{arrow}
-  [Bekijk de mogelijkheden](/zakelijk)
+  [Lees verder](/zakelijk)
   :::
 
 #image
@@ -264,10 +264,10 @@ titleComponent: h2
 reverse: true
 tagline: Dromers, nog even wakker blijven.
 taglineComponent: h3
-title: Overnachten in Broek in Waterland
+title: Overnachten in rust - een kwartiertje uit de stad
 titleComponent: h2
 ---
-**Vanaf zomer 2025** slaap je bij ons in stijl – een persoonlijke B\&B voor dromers die willen **overnachten in Broek in Waterland.**
+**Vanaf zomer 2025** slaap je in Broek in Waterland in stijl – een persoonlijke B\&B voor dromers die willen **overnachten in het mooiste dorp van Nederland**
 
 :br
 
