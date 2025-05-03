@@ -23,7 +23,7 @@ ogImage:
     width: 1200
     height: 630
 sitemap:
-  loc: https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside
+  loc: https://broekerhuis.nl/visit/things-to-do-countryside-amsterdam
   changefreq: monthly
   lastmod: 2025-04-23T00:00:00.000Z
   priority: 0.8
@@ -39,10 +39,10 @@ head:
         {
           "@context": "https://schema.org",
           "@type": "TouristDestination",
-          "@id": "https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside#destination",
+          "@id": "https://broekerhuis.nl/visit/things-to-do-countryside-amsterdam",
           "name": "Broek in Waterland – Best Day Trip from Amsterdam",
           "description": "Discover Broek in Waterland, just 15 minutes from Amsterdam. The most beautiful village in the Netherlands – with quiet canals, historic wooden houses, and Het Broeker Huis for lunch, events, and overnight stays.",
-          "url": "https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside",
+          "url": "https://broekerhuis.nl/visit/things-to-do-countryside-amsterdam",
           "image": "https://www.broekerhuis.nl/BROEK/20250310_BROEKERHUIS_SCENERY_653.JPG",
           "address": {
             "@type": "PostalAddress",
@@ -58,7 +58,7 @@ head:
           },
           "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside"
+            "@id": "https://broekerhuis.nl/visit/things-to-do-countryside-amsterdam"
           },
           "hasPart": [
             {
