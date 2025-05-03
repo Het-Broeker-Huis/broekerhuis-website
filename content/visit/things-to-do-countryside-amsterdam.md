@@ -32,6 +32,77 @@ sitemap:
       geo_location: Broek in Waterland, Netherlands
       caption: View of Broek in Waterland with canals and green wooden houses
       title: Broek in Waterland – best day trip from Amsterdam
+head:
+  script:
+    - type: application/ld+json
+      children: >
+        {
+          "@context": "https://schema.org",
+          "@type": "TouristDestination",
+          "@id": "https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside#destination",
+          "name": "Broek in Waterland – Best Day Trip from Amsterdam",
+          "description": "Discover Broek in Waterland, just 15 minutes from Amsterdam. The most beautiful village in the Netherlands – with quiet canals, historic wooden houses, and Het Broeker Huis for lunch, events, and overnight stays.",
+          "url": "https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside",
+          "image": "https://www.broekerhuis.nl/BROEK/20250310_BROEKERHUIS_SCENERY_653.JPG",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Leeteinde 16",
+            "addressLocality": "Broek in Waterland",
+            "postalCode": "1151 AK",
+            "addressCountry": "NL"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.4352,
+            "longitude": 4.9959
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.broekerhuis.nl/visit/things-to-do-amsterdam-countryside"
+          },
+          "hasPart": [
+            {
+              "@type": "FoodEstablishment",
+              "name": "Het Broeker Huis – Restaurant",
+              "description": "Lunch, dinner and coffee with locals – fire-cooked and house-roasted.",
+              "servesCuisine": ["Dutch", "Seasonal", "Local"],
+              "url": "https://www.broekerhuis.nl/restaurant",
+              "image": "https://www.broekerhuis.nl/20250331_BROEKERHUIS_1438.jpeg"
+            },
+            {
+              "@type": "EventVenue",
+              "name": "Het Broeker Huis – Weddings & Events",
+              "description": "Venue for weddings, meetings and celebrations in a 17th-century village house.",
+              "url": "https://www.broekerhuis.nl/trouwen-feesten/trouwen"
+            },
+            {
+              "@type": "BedAndBreakfast",
+              "name": "Het Broeker Huis – B&B",
+              "description": "Comfortable suite with breakfast, perfect for wedding guests or a countryside weekend.",
+              "url": "https://www.broekerhuis.nl/overnachten"
+            }
+          ],
+          "sameAs": [
+            "https://www.instagram.com/het.broeker.huis/",
+            "https://www.facebook.com/BroekerHuis/"
+          ],
+          "keywords": [
+            "Broek in Waterland",
+            "day trip from Amsterdam",
+            "Amsterdam countryside",
+            "authentic Dutch village",
+            "quiet village Netherlands",
+            "bike tour Waterland",
+            "things to do near Amsterdam",
+            "visit Broek in Waterland",
+            "Het Broeker Huis restaurant",
+            "best villages near Amsterdam"
+          ],
+          "publicAccess": "true",
+          "hasMap": "https://www.google.com/maps/place/Leeteinde+16,+1151+AK+Broek+in+Waterland",
+          "inLanguage": "en",
+          "dateModified": "2025-05-03"
+        }
 robots:
   index: true
   follow: true
