@@ -1,12 +1,9 @@
 ---
-title: Het Broeker Huis
-description: Vlakbij Amsterdam, midden in het groen – waar eten verbindt, stilte
-  spreekt en vieren vanzelf gaat.
+title: Het Broeker Huis – Broek in Waterland
+description: Restaurant, trouwlocatie, vergaderen & overnachten in het mooiste dorp van Nederland, vlakbij Amsterdam.
 seo:
-  title: Trouwen, vergaderen & eten in Het Broeker Huis in Broek in Waterland, het
-    mooiste dorp van Nederland.
-  description: Restaurant, trouwen, vergaderen & B&B in het mooiste dorp van
-    Nederland – op 15 min. van Amsterdam.
+  title: Trouwen, eten & vergaderen bij Het Broeker Huis – 15 min. van Amsterdam
+  description: Restaurant, trouwlocatie, vergaderen & overnachten in Broek in Waterland – het mooiste dorp van Nederland, op een kwartier van Amsterdam.
 ogImage:
   url: https://www.broekerhuis.nl/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg
   component: OgImage
@@ -36,7 +33,88 @@ design:
   backgroundColor: "#edece4"
 head:
   script:
-    - {}
+    - type: application/ld+json
+      children: >
+        {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "@id": "https://www.broekerhuis.nl/#localbusiness",
+          "name": "Het Broeker Huis",
+          "description": "Restaurant, trouwlocatie, vergaderen & overnachten in Broek in Waterland – het mooiste dorp van Nederland, op 15 minuten van Amsterdam.",
+          "url": "https://www.broekerhuis.nl/",
+          "image": "https://www.broekerhuis.nl/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg",
+          "priceRange": "€€",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Leeteinde 16",
+            "addressLocality": "Broek in Waterland",
+            "postalCode": "1151 AN",
+            "addressCountry": "NL"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 52.4352,
+            "longitude": 4.9959
+          },
+          "telephone": "+31 20 4031314",
+          "sameAs": [
+            "https://www.instagram.com/het.broeker.huis/",
+            "https://www.facebook.com/BroekerHuis/"
+          ],
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+            ],
+            "opens": "08:00",
+            "closes": "23:00"
+          },
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gratis parkeren",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Binnenplaats met tuin",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Restaurant met houtvuur",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Trouwlocatie nabij Amsterdam",
+              "value": true
+            }
+          ],
+          "keywords": [
+            "restaurant Broek in Waterland",
+            "restaurant nabij Amsterdam",
+            "restaurant met houtvuur",
+            "eten in monumentaal pand",
+            "culinair Broek in Waterland",
+            "trouwlocatie Waterland",
+            "trouwlocatie nabij Amsterdam",
+            "huwelijksfeest Waterland",
+            "feestlocatie Waterland",
+            "evenementenlocatie Broek in Waterland",
+            "vergaderen bij Amsterdam",
+            "vergaderlocatie in monumentaal pand",
+            "vergaderen in het groen",
+            "sfeervol vergaderen",
+            "unieke locatie Amsterdam",
+            "dorpshuis Broek in Waterland",
+            "overnachten in Broek in Waterland",
+            "B&B Broek in Waterland",
+            "authentiek Waterland",
+            "rust en ruimte",
+            "het mooiste dorp van Nederland"
+          ]
+        }
 ---
 
 ::home-header
@@ -49,13 +127,12 @@ classComponent: h2
 
 ::section-intro
 ---
-tagline: Vlakbij Amsterdam, midden in het groen - waar eten verbindt, stilte
-  spreekt en vieren vanzelf gaat.
+tagline: In een van de mooiste dorpen rond Amsterdam
 taglineComponent: h2
 title: Het Broeker Huis
 titleComponent: h1
 ---
-Een paar stappen voorbij het terras van de kerk, in het monumentale hart van Broek in Waterland, ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen.
+In het monumentale hart van Broek in Waterland ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen en waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
 
 **Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, **restaurant en vergader- en evenementenlocatie** is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
@@ -97,10 +174,10 @@ background: "true"
 backgroundPosition: full
 tagline: Trouw. Vier. Herinner.
 taglineComponent: h3
-title: Feestlocatie en trouwlocatie in Broek in Waterland
+title: Trouwlocatie en feestlocatie vlakbij Amsterdam
 titleComponent: h2
 ---
-Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
+Trouwlocatie en feestlocatie Het Broekr Huis  in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
 
 Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
 
@@ -110,7 +187,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 
  
 
-*Lees meer over trouwen en vieren in Het Broeker Huis.*
+*Benieuwd naar dé feestlocatie en trouwlocatie van Waterland?*
 
 #footer
   :::cta-button{arrow}
@@ -131,7 +208,7 @@ taglineComponent: h3
 title: Restaurant in Broek in Waterland
 titleComponent: h2
 ---
-**Wat kun je straks verwachten?** In **Restaurant De Broeker Huiskamer** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
+Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van drukte. In **Restaurant De Broeker Huiskamer** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
 Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk taart.
 
