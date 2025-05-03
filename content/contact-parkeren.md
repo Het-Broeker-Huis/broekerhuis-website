@@ -70,7 +70,7 @@ Met de auto kan natuurlijk ook - parkeer dan op de centrale parkeerplaats op het
 *Deur tot deur plannen?*
 
 #footer
-  :::cta-button{arrow="true"}
+  :::cta-button{arrow variant="primary"}
     ::::external-link
     ---
     href: https://g.co/kgs/xEekPqW

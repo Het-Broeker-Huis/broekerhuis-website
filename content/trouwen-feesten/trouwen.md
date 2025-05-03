@@ -168,7 +168,14 @@ titleComponent: h2
 ![Strak wit gedekte tafel met kroonluchter in de Regentessenkamer – trouwlocatie Broek in Waterland](/regentessenkamer-wijn-borrel-broeker-huis-broek-in-waterland.jpg)
 
 #footer
-  :::cta-button{arrow}
-  [Vliegensvlug een prijsindicatie](https://forms.gle/hcKaZm8pQmx9JsJr7)
+  :::cta-button{arrow variant="primary"}
+    ::::external-link
+    ---
+    href: https://forms.gle/epXKLu1SiwVWwkcd9
+    rel: noopener,noreferrer
+    target: _blank
+    ---
+    Vliegensvlug een indicatie
+    ::::
   :::
 ::
