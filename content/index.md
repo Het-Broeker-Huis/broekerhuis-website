@@ -4,7 +4,8 @@ description: Restaurant, trouwlocatie, vergaderen & overnachten in het mooiste
   dorp van Nederland, vlakbij Amsterdam.
 seo:
   title: Het Broeker Huis – restaurant, trouwen & vergaderen in Broek in Waterland
-  description: Vier, eet of vergader in een monumentaal huis vlakbij Amsterdam. Binnenplaats, houtvuur, stilte en stijl – in het mooiste dorp van Nederland.
+  description: Vier, eet of vergader in een monumentaal huis vlakbij Amsterdam.
+    Binnenplaats, houtvuur, stilte en stijl – in het mooiste dorp van Nederland.
 ogImage:
   url: https://www.broekerhuis.nl/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg
   component: OgImage
