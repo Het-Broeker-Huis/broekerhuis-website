@@ -54,7 +54,15 @@ head:
               "mainEntityOfPage": {
                 "@type": "WebPage",
                 "@id": "https://www.broekerhuis.nl/broek-in-waterland/dagje-uit-vlakbij-amsterdam"
-              }
+              },
+              "keywords": [
+                "Broek in Waterland",
+                "dagje uit nabij Amsterdam",
+                "mooiste dorp van Nederland",
+                "wandelen in Waterland",
+                "fietsen in Noord-Holland",
+                "rustige bestemming Amsterdam"
+              ]
             },
             {
               "@type": "Place",
@@ -73,7 +81,11 @@ head:
                 "latitude": 52.4352,
                 "longitude": 4.9959
               },
-              "telephone": "+31 20 4031314"
+              "telephone": "+31 20 4031314",
+              "sameAs": [
+                "https://www.instagram.com/het.broeker.huis/",
+                "https://www.facebook.com/BroekerHuis/"
+              ]
             }
           ]
         }
