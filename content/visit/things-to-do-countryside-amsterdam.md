@@ -10,7 +10,7 @@ navigation:
     bikes, lunch or a quiet weekend away.
 seo:
   title: Best things to do in the Amsterdam countryside | Broek in Waterland
-  description: Just 15 minutes from Amsterdam lies Broek in Waterland – the
+  description: Just 15 minutes from Amsterdam lies Broek in Waterlanxd – the
     Netherlands’ most beautiful village. Quieter than Volendam, more real than
     Zaanse Schans. Walk, bike, eat, exhale.
 ogImage:
