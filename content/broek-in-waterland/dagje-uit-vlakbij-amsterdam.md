@@ -8,7 +8,7 @@ seo:
   description: Tips voor een dag in Broek in Waterland – met lunch, wandelen,
     fietsen en niks doen. Alles wat Volendam niet is, op 15 minuten van de stad.
 ogImage:
-  url: https://www.broekerhuis.nl/BROEK/20250331_BROEKERHUIS_SCENERY_653.JPG
+  url: https://www.broekerhuis.nl/broek-in-waterland-laan-traditional-wooden-dutch-house.jpg
   component: OgImage
   props:
     alt: Uitzicht op het water, houten huizen en stilte in Broek in Waterland
@@ -21,7 +21,7 @@ sitemap:
   lastmod: 2025-04-22T00:00:00.000Z
   priority: 0.8
   images:
-    - loc: https://www.broekerhuis.nl/BROEK/20250331_BROEKERHUIS_SCENERY_653.JPG
+    - loc: https://www.broekerhuis.nl/broek-in-waterland-laan-traditional-wooden-dutch-house.jpg
       geo_location: Broek in Waterland, Nederland
       caption: Wandelpad door Broek in Waterland op een zonnige dag
       title: Wat te doen in Broek in Waterland – tips van Het Broeker Huis
@@ -84,8 +84,15 @@ Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindi
 ![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/wandelen-door-broek-in-waterland-leeteinde-oude-huizen.jpg)
 
 #footer
-  :::cta-button{arrow="true"}
-  [*Ga naar wandelnetwerk NH*](https://www.wandelnetwerknoordholland.nl/startpunten/startpunt-broek-in-waterland/1127)
+  :::cta-button{arrow variant="primary"}
+    ::::external-link
+    ---
+    href: https://www.wandelnetwerknoordholland.nl/startpunten/startpunt-broek-in-waterland/1127
+    rel: noopener,noreferrer
+    target: _blank
+    ---
+    Ga naar wandelnetwerk NH
+    ::::
   :::
 ::
 
@@ -111,8 +118,15 @@ Geen haast. Geen route nodig. Alleen wind en een beetje richting. Maar wie wil: 
 ![Uitzicht op het Broeker Huis in Broek in Waterland, de perfecte pitstop voor een kop koffie en een stuk taart](/fietsen-broek-in-waterland-in-de-natuur)
 
 #footer
-  :::cta-button{arrow="true"}
-  [Ga naar fietsnetwerk.nl](https://www.fietsnetwerk.nl/en/routes/cycle-route-just-a-stones-throw-from-amsterdam/)
+  :::cta-button{arrow variant="primary"}
+    ::::external-link
+    ---
+    href: https://www.fietsnetwerk.nl/en/routes/cycle-route-just-a-stones-throw-from-amsterdam/
+    rel: noopener,noreferrer
+    target: _blank
+    ---
+    Ga naar fietsnetwerk.nl
+    ::::
   :::
 ::
 
@@ -157,8 +171,15 @@ Kun je geen genoeg krijgen van Waterland? Broek in Waterland is onderdeel van de
 Kijk gerust even verder. Je komt toch wel terug.
 
 #footer
-  :::cta-button{arrow="true"}
-  [Naar Laag Holland](https://www.laagholland.com/nl/waterland)
+  :::cta-button{arrow variant="primary"}
+    ::::external-link
+    ---
+    href: https://www.laagholland.com/nl/waterland
+    rel: noopener,noreferrer
+    target: _blank
+    ---
+    Naar Laag Holland
+    ::::
   :::
 
 #image
