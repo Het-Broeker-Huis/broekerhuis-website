@@ -9,7 +9,7 @@ seo:
     dorpshuis vol karakter – in de oude dorpskern van Broek in Waterland,
     vlakbij Amsterdam. Persoonlijk, sfeervol en zonder gedoe.
 ogImage:
-  url: https://www.broekerhuis.nl/trouwen-feesten/trouwen/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_195_optimized.jpg
+  url: https://broekerhuis.nl/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg
   component: OgImage
   props:
     alt: Trouwen in de Grote Zaal van Het Broeker Huis – monumentale trouwlocatie in
@@ -23,7 +23,7 @@ sitemap:
   lastmod: 2025-05-03T00:00:00.000Z
   priority: 0.9
   images:
-    - loc: https://broekerhuis.nl/trouwen-grote-zaal-lichtinval-broeker-huis.jpg
+    - loc: https://broekerhuis.nl/trouwopstelling-met-drie-gedekte-tafels-in-de-grote-zaal.jpg
       geo_location: Broek in Waterland, Nederland
       caption: Prachtig gedekte tafels voor een diner voor 80 personen in de
         monumentale Grote Zaal van Het Broeker Huis
