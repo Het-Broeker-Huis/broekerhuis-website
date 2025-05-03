@@ -36,7 +36,7 @@ navigation:
     karakter, zonder gedoe.
 head:
   script:
-    - type: "application/ld+json"
+    - type: application/ld+json
       children: >
         {
           "@context": "https://schema.org",
