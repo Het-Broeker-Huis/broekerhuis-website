@@ -1,18 +1,19 @@
 ---
-title: Vergaderen vlakbij Amsterdam – rust, karakter en resultaat
-description: Unieke vergaderlocatie net buiten Amsterdam. Monumentaal, groen en
-  kleinschalig – met alles wat je nodig hebt voor een goede sessie, training of
-  teamdag.
+title: Vergaderen bij Amsterdam – rust, ruimte en resultaat
+description: Zoek je een vergaderruimte bij Amsterdam met stilte, karakter en
+  goede koffie? Ontdek onze monumentale locatie in Broek in Waterland – 15
+  minuten van de stad.
 seo:
-  title: Vergaderen vlakbij Amsterdam | Het Broeker Huis
-  description: Kleinschalige vergaderruimtes vlakbij Amsterdam – met rust,
-    karakter en goede koffie. Voor offsites, brainstorms en trainingen – 15 min
-    van de stad.
+  title: Vergaderruimte bij Amsterdam – rustig en karaktervol vergaderen in het groen
+  description: Rustige vergaderruimte bij Amsterdam huren? Monumentale locatie in
+    Broek in Waterland – voor trainingen, brainstorms en offsites met lunch of
+    borrel.
 ogImage:
-  url: https://www.broekerhuis.nl/zakelijk/vergaderen-vlakbij-amsterdam.jpg
+  url: https://www.broekerhuis.nl/seo/vergaderen-bij-amsterdam-rust-groen.jpeg
   component: OgImage
   props:
-    alt: Monumentale vergaderruimte met licht en karakter – net buiten Amsterdam
+    alt: Vergaderen bij Amsterdam in rustige, monumentale vergaderruimte met
+      daglicht en karakter
     type: image/jpeg
     width: 1200
     height: 630
@@ -21,9 +22,6 @@ sitemap:
   changefreq: monthly
   lastmod: 2025-05-04T00:00:00.000Z
   priority: 0.8
-robots:
-  index: true
-  follow: true
 navigation:
   title: Vergaderen bij Amsterdam
   displayInTopNav: false
@@ -34,10 +32,11 @@ head:
         {
           "@context": "https://schema.org",
           "@type": "MeetingRoom",
-          "name": "Vergaderlocatie vlakbij Amsterdam – Het Broeker Huis",
-          "description": "Unieke vergaderruimte op 15 minuten van Amsterdam – kleinschalig, monumentaal en midden in het groen. Alles geregeld, niets te veel.",
-          "image": "https://www.broekerhuis.nl/zakelijk/vergaderen-vlakbij-amsterdam.jpg",
+          "@id": "https://www.broekerhuis.nl/vergaderen-bij-amsterdam#meetingroom",
+          "name": "Vergaderruimte bij Amsterdam – Het Broeker Huis",
+          "description": "Vergaderen, trainen en brainstormen vlakbij Amsterdam – in een monumentaal dorpshuis in Broek in Waterland. Rust, karakter en alles geregeld.",
           "url": "https://www.broekerhuis.nl/vergaderen-bij-amsterdam",
+          "image": "https://www.broekerhuis.nl/seo/vergaderen-bij-amsterdam-rust-groen.jpeg",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Leeteinde 16",
@@ -50,228 +49,181 @@ head:
             "latitude": 52.4352,
             "longitude": 4.9959
           },
+          "telephone": "+31 20 4031314",
           "keywords": [
             "vergaderen bij Amsterdam",
-            "kleinschalige vergaderlocatie Amsterdam",
-            "vergaderruimte buiten de stad",
-            "training geven bij Amsterdam",
-            "offsite locatie Amsterdam",
-            "unieke vergaderlocatie",
-            "vergaderen in het groen",
-            "teamdag buiten Amsterdam",
-            "rustige vergaderplek Amsterdam"
-          ]
+            "vergaderruimte omgeving Amsterdam",
+            "vergaderlocatie vlakbij de stad",
+            "rustige vergaderruimte Amsterdam",
+            "training locatie bij Amsterdam",
+            "offsite in de buurt van Amsterdam",
+            "vergaderen buiten de stad"
+          ],
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"
+            ],
+            "opens": "07:00",
+            "closes": "22:00"
+          },
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Gratis parkeren",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Boottocht met schipper mogelijk",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Catering van eigen chef",
+              "value": true
+            }
+          ],
+          "potentialAction": {
+            "@type": "CommunicateAction",
+            "target": "mailto:zakelijk@broekerhuis.nl",
+            "description": "Neem contact op voor een offerte of beschikbaarheid",
+            "recipient": {
+              "@type": "Audience",
+              "audienceType": "Zakelijke klanten en teams"
+            }
+          }
         }
+robots:
+  index: true
+  follow: true
 ---
 
 ::hero-header
 ---
-tagline: Vlakbij de stad. Ver weg van ddrukte.
+tagline: Rust, ruimte, resultaat – net buiten de stad.
 TaglineComponent: h2
-title: Vergaderen vlakbij Amsterdam
+title: Vergaderen bij Amsterdam
 TitleComponent: h1
 ---
 #image
-![Kleinschalige vergaderlocatie vlakbij Amsterdam met daglicht en karakter](/zakelijk/vergaderen-vlakbij-amsterdam.jpg)
+![vergaderen bij amsterdam in rust en stilte in Broek in Waterland](/zakelijk/vergaderen-vlakbij-amsterdam.jpg)
 ::
 
 ::section-intro
 ---
-tagline: De stad uit. Je hoofd in.
+tagline: Geen haast. Geen ruis. Geen fratsen.
 taglineComponent: h3
-title: Zoek je een vergaderruimte bij Amsterdam – zonder de ruis?
+title: Vergaderruimte bij Amsterdam – maar dan zonder gedoe
+titleComponent: h2
 ---
-Broek in Waterland ligt op 15 minuten van Amsterdam. Maar voelt als 50 jaar geleden. Monumentale houten huizen. Lucht. Stilte. En **een vergaderplek waar je niks hoeft uit te leggen.**
+Vlakbij Amsterdam vind je iets wat zeldzaam is: stilte. Karakter. Tijd voor een goed idee. Bij **Het Broeker Huis** vergader je in een 250 jaar oud dorpshuis, met snelle wifi, verse koffie en rust in je hoofd.
 
-Geen systeemplafonds. Geen buffetkarren met saté. Geen TL-licht op vermoeide gezichten. Wel: een monumentaal dorpshuis met klassieke details, goede koffie, chef-kok Thijs en ruimte voor plannen die ertoe doen.
+Zonder parkeerstress. Zonder keuzestress. Zonder prikkels die je niks brengen.
 
-**Voor sessies, teamdagen, brainstorms, coaching en trainingen.** En: gewoon goed geregeld – **zonder gedoe**.
+Onze vergaderlocatie ligt op **15 minuten van Amsterdam**, midden in het groen. Ideaal voor wie met z’n team wil vertragen, verdiepen of versnellen – **zonder afleiding**.
+
+*Even sparren over de mogelijkheden? Of snel een indicatie van de kosten?*
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Vraag direct een offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Vraag kostenindicatie aan](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bekijk onze vergaderruimtes](/zakelijk)
+  [Bel Jeppe](tel:+31204031314)
   :::
 ::
 
 ::section-two-columns
 ---
-background: "true"
-backgroundPosition: full
-tagline: Monumentaal pand. Moderne voorzieningen.
+tagline: Monumentaal stil. Modern geregeld.
 taglineComponent: h3
-title: Zalen met karakter, stilte en daglicht
+title: Een vergaderruimte die klopt – tot in de details
+titleComponent: h2
 ---
-**Grote Zaal** – voor presentaties of groepstrainingen (tot 60 pers)
+Bij ons geen systeemplafond of afgetrapt tapijt. Maar monumentale zalen, hoge ramen en warme gastvrijheid.
 
-**Regentessenkamer** – voor strategiesessies, coaching, boardmeetings (8-14 pers)
+Je vergadert met uitzicht op de dorpskerk, luncht aan grote tafels van hout en sluit af in de binnentuin – of op het water. Onze **boot met schipper** is te boeken voor reflectie, borrel of brainstorm. Max 8 personen. Max ontspanning.
 
-**Tuinzaal** – voor creatieve workshops, break-outs of lunchopstelling
+**Praktisch?** Eigen parkeerplekken. Supersnelle wifi. Flip-overs, schermen en stilte. Lunches en diners van eigen chef – seizoensgebonden, lokaal en zonder gedoe.
 
-**Binnenplaats** – voor borrels, afsluitingen of een sessie in de zon
-
-**Bootje met schipper** – voor reflectie, brainstorm of varen na afloop (8 pers)
-
-Je kunt terecht voor een dagdeel, een dag of een meerdaagse met overnachting (vanaf zomer 2025). Techniek, catering, stilte en alles geregeld.
+**Teams tot 80 personen**. Te boeken per dagdeel, hele dag of meerdaags.
 
 #image
-![Karaktervolle Grote Zaal in Het Broeker Huis – U-opstelling voor trainingen of teamdagen](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_391_optimized.jpg)
+![brainstormen en wandelen in rust vlakbij Amsterdam](/brainstorm-tuinzaal-offsite-in-rust-vlakbij-amsterdam.jpg)
+::
+
+::section-full-image{background backgroundPosition="bottom"}
+![buiten vergaderen en napraten met borrel op het water](/rondvaart-waterland-borrel-na-vergaderdag.jpeg)
 ::
 
 ::section-two-columns
 ---
 reverse: true
-background: "true"
-backgroundPosition: full
-tagline: Vergaderen in het groen – zonder reistijd
+tagline: Meer dan een vergaderruimte.
 taglineComponent: h3
-title: Vlakbij Amsterdam. Mentaal mijlenver.
+title: Een plek waar plannen ontstaan
+titleComponent: h2
 ---
-Met de auto ben je er in 15 minuten. Met de bus vanaf CS zelfs sneller dan naar Zuid. Maar je stapt uit in een ander tempo. Geen stadsgeluid. Geen parkeerstress. Alleen stilte, een dorpsplein en het Broeker Huis.
+Onze klanten gebruiken Het Broeker Huis voor:
 
-**Perfect voor bedrijven in Amsterdam, Waterland, Zaanstreek en de regio Groot-Amsterdam.**
+- Strategiesessies met MT of directie
+- Teamdagen met inhoud én lucht
+- Offsites met overnachting (vanaf zomer 2025)
+- Coachingstrajecten, trainingen of heisessies
+- Presentaties of besloten diners
 
-En dus: het alternatief voor wie geen standaard locatie zoekt, maar wel resultaat wil.
+We denken mee over jouw doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
 
-*Even bellen met Jeppe of een offerte laten maken?*
-
-#footer
-  :::cta-button{arrow variant="primary"}
-  [Offerte aanvragen](https://forms.gle/aiEtiwAXoj2MywpKA)
-  :::
-
-  :::cta-button{arrow variant="ghost"}
-  [Bel ons](tel:+31204031314)
-  :::
+**Je regelt het makkelijk. En je blijft vaak langer dan je dacht.**
 
 #image
-![Vergaderlocatie Broek in Waterland – klassieke houten huizen en veel groen](/zakelijk/vergaderen-in-het-groen-bij-amsterdam.jpg)
-::
-
-::section-visual-transition
----
-background: "true"
-backgroundPosition: top
----
-#image_1
-![Lunch tijdens zakelijke meeting op binnenplaats Het Broeker Huis](/20250331_BROEKERHUIS_1588.JPG)
-
-#image_2
-![Uitzicht op groene omgeving Broek in Waterland](/COLLAGES/TINYFIED_COLLAGES/20250310_BROEKERHUIS_TUINZAAL_076.JPG)
-
-#image_3
-![Vergaderlocatie met monumentale sfeer](/COLLAGES/TINYFIED_COLLAGES/20250310_BROEKERHUIS_REGENTESSEKAMER_073.JPG)
-
-#image_4
-![Het Broeker Huis – aanzicht vanaf straatzijde in Broek in Waterland](/20250331_BROEKERHUIS_1550.JPG)
-::
-
-XXX
-
-::hero-header
----
-tagline: Vlakbij de stad. Ver weg van de drukte.
-TaglineComponent: h2
-title: Vergaderen vlakbij Amsterdam
-TitleComponent: h1
----
-#image
-![Kleinschalige vergaderlocatie vlakbij Amsterdam met daglicht en karakter](/omgeving-broek-in-waterland-zonsopgang-broeker-huis.jpg)
-::
-
-::section-intro
----
-tagline: De stad uit. Je hoofd in.
-taglineComponent: h3
-title: Zoek je een vergaderruimte bij Amsterdam – zonder de ruis?
----
-Broek in Waterland ligt op 15 minuten van Amsterdam. Maar voelt als 50 jaar geleden. Monumentale houten huizen. Lucht. Stilte. En **een vergaderplek waar je niks hoeft uit te leggen.**
-
-Geen systeemplafonds. Geen buffetkarren met saté. Geen TL-licht op vermoeide gezichten. Wel: een monumentaal dorpshuis met klassieke details, goede koffie, chef-kok Thijs en ruimte voor plannen die ertoe doen.
-
-**Voor sessies, teamdagen, brainstorms, coaching en trainingen.** En: gewoon goed geregeld – **zonder gedoe**.
-
-#footer
-  :::cta-button{arrow variant="primary"}
-  [Vraag direct een offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
-  :::
-
-  :::cta-button{arrow variant="ghost"}
-  [Bel ons](\(tel:0204031314\))
-  :::
+![coachingsessie groep in de Regentessenkamer van Het Broeker Huis](/coachingsessie-groep-broeker-huis.JPG)
 ::
 
 ::section-two-columns
 ---
-background: "true"
-backgroundPosition: full
-tagline: Monumentaal pand. Moderne voorzieningen.
+tagline: Wat kost het?
 taglineComponent: h3
-title: Zalen met karakter, stilte en daglicht
+title: Transparant en overzichtelijk
+titleComponent: h2
 ---
-**Grote Zaal** – voor presentaties of groepstrainingen (tot 80 pers)
+Zonder downloads. Zonder offerteformulier. Gewoon een idee:
 
-**Regentessenkamer** – voor strategiesessies, coaching, boardmeetings (8-14 pers)
+• Dagdeel + lunch → **vanaf €475**:br• Volle dag + borrel → **vanaf €795**:br• Boot met schipper (2 uur) → **vanaf €295**:br• Private dining 4 gangen → **vanaf €49,50 p.p.**
 
-**Tuinzaal** – voor creatieve workshops, break-outs of lunchopstelling (10-40 pers)
+Meerdaags met overnachting? Mogelijk vanaf zomer 2025.
 
-**Binnenplaats** – voor borrels, afsluitingen of een sessie in de zon
-
-**Bootje met schipper** – voor reflectie, brainstorm of varen na afloop (8 pers)
-
-Je kunt terecht voor een dagdeel, een dag of een meerdaagse met overnachting (vanaf zomer 2025). Techniek, catering, stilte en alles geregeld.
-
-#image
-![Karaktervolle Grote Zaal in Het Broeker Huis – U-opstelling voor trainingen of teamdagen](/grote-zaal/20250310_BROEKERHUIS_GROTEZAAL_391_optimized.jpg)
-::
-
-::section-two-columns
----
-reverse: true
-background: "true"
-backgroundPosition: full
-tagline: Vergaderen in het groen – zonder reistijd
-taglineComponent: h3
-title: Vlakbij Amsterdam. Mentaal mijlenver.
----
-Met de auto ben je er in 15 minuten. Met de bus vanaf CS zelfs sneller dan naar Zuid. Maar je stapt uit in een ander tempo. Geen stadsgeluid. Geen parkeerstress. Alleen stilte, een dorpsplein en het Broeker Huis.
-
-**Perfect voor bedrijven in Amsterdam, Waterland, Zaanstreek en de regio Groot-Amsterdam.**
-
-En dus: het alternatief voor wie geen standaard locatie zoekt, maar wel resultaat wil.
-
-*Even bellen met Jeppe of een offerte laten maken?*
+*Wil je weten wat jouw dag kost? Vraag snel een vrijblijvende offerte aan of bel met Jeppe.*
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Offerte aanvragen](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Vraag offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bel ons](tel:+31204031314)
+  [Mail Jeppe](mailto\:zakelijk@broekerhuis.nl)
   :::
 
 #image
-![Vergaderlocatie Broek in Waterland – klassieke houten huizen en veel groen](/zakelijk/vergaderen-in-het-groen-bij-amsterdam.jpg)
+![prive diner na vergaderdag bij Amsterdam in karaktervolle ruimte](/prive-diner-na-vergadering.jpeg)
 ::
 
 ::section-visual-transition
 ---
-background: "true"
+background: true
 backgroundPosition: top
 ---
 #image_1
-![Lunch tijdens zakelijke meeting op binnenplaats Het Broeker Huis](/20250331_BROEKERHUIS_1588.JPG)
+![vergaderen vlakbij amsterdam op karaktervolle locatie in Waterland](/vergaderen-vlakbij-amsterdam.jpeg)
 
 #image_2
-![Uitzicht op groene omgeving Broek in Waterland](/COLLAGES/TINYFIED_COLLAGES/20250310_BROEKERHUIS_TUINZAAL_076.JPG)
+![diner onder bomen na teamdag bij Het Broeker Huis](/diner-met-bedrijf-onder-bomen.jpg)
 
 #image_3
-![Vergaderlocatie met monumentale sfeer](/COLLAGES/TINYFIED_COLLAGES/20250310_BROEKERHUIS_REGENTESSEKAMER_073.JPG)
+![wandelen door historisch centrum in lunchpauze](/wandelen-historisch-centrum-tijdens-lunchpauze.jpeg)
 
 #image_4
-![Het Broeker Huis – aanzicht vanaf straatzijde in Broek in Waterland](/20250331_BROEKERHUIS_1550.JPG)
+![rustige setting vlakbij amsterdam voor zakelijke meetings](/rust-ruimte-dichtbij-amsterdam.jpeg)
 ::
