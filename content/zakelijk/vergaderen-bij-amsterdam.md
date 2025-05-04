@@ -107,7 +107,7 @@ title: Vergaderen bij Amsterdam
 TitleComponent: h1
 ---
 #image
-![groen.jpeg Vergaderen bij Amsterdam in rust en stilte in Broek in Waterland](/zakelijk/vergaderen-vlakbij-amsterdam.jpg)
+![Vergaderen bij Amsterdam in rust en stilte in Broek in Waterland](/zakelijk/vergaderen-vlakbij-amsterdam.jpg)
 ::
 
 ::section-intro
@@ -135,6 +135,10 @@ Onze vergaderlocatie ligt op **15 minuten van Amsterdam**, midden in het groen. 
   :::
 ::
 
+::section-full-image{background background-position="bottom"}
+![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/grote-zaal-groot-scherm-lichtinval-grote-ramen.jpg)
+::
+
 ::section-two-columns
 ---
 tagline: Monumentaal stil. Modern geregeld.
@@ -142,20 +146,16 @@ taglineComponent: h3
 title: Een vergaderruimte die klopt – tot in de details
 titleComponent: h2
 ---
-Bij ons geen systeemplafond of afgetrapt tapijt. Maar monumentale zalen, hoge ramen en warme gastvrijheid.
+Bij ons geen systeemplafonds of afgetrapt tapijt. Maar monumentale zalen, hoge ramen en warme gastvrijheid.
 
-Je vergadert met uitzicht op de dorpskerk, luncht aan grote tafels van hout en sluit af in de binnentuin – of op het water. Onze **boot met schipper** is te boeken voor reflectie, borrel of brainstorm. Max 8 personen. Max ontspanning.
+Je vergadert met uitzicht op een grachtje met rijksmonumenten, luncht aan grote tafels van hout en sluit af in de binnentuin – of op het water. Onze **boot met stille- of verhalenvertellende schipper** is te boeken voor reflectie, borrel of brainstorm. Max 8 personen. Max ontspanning.
 
-**Praktisch?** Genoeg gratis parkeerplaatsen Supersnelle wifi. Flip-overs, schermen en stilte. Lunches en diners van eigen chef – van het houtvuur, seizoensgebonden, lokaal en ambachtelijk
+**Praktisch?** Genoeg gratis parkeerplekken. Supersnelle wifi. Flip-overs, schermen en stilte. Lunches en diners van eigen topchef Thijs (Vuurtoreneiland, Toscanini) – van het houtvuur, seizoensgebonden, lokaal en ambachtelijk.
 
 **Teams tot 200 personen**. Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
 
 #image
-![brainstormen en wandelen in rust vlakbij Amsterdam](/brainstorm-tuinzaal-offsite-in-rust-vlakbij-amsterdam.jpg)
-::
-
-::section-full-image{background background-position="bottom"}
-![buiten vergaderen en napraten met borrel op het water](/rondvaart-waterland-borrel-na-vergaderdag.jpeg)
+![Buiten vergaderen en napraten met borrel op het water](/zakelijk/rondvaart-waterland-borrel-met-schipper-na-vergaderdag.jpeg)
 ::
 
 ::section-two-columns
