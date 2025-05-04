@@ -189,9 +189,7 @@ Thijs kookt voor je. Jeppe ontvangt je. Peter vaart verhalenvertellend (of muiss
 
 **Lunch** aan lange tafels of informeel buffet - **Borrel op de binnenplaats** - **Private dining** in de Regentessenkamer - **Rondvaart** met picknick of borrelplank.
 
-En jullie? Alleen maar aanschuiven.
-
-**Lekker makkelijk. Goed geregeld.**
+En jullie? Alleen maar aanschuiven. Lekker makkelijk. **Goed geregeld.**
 
 #footer
   :::cta-button{arrow variant="primary"}
@@ -208,16 +206,18 @@ En jullie? Alleen maar aanschuiven.
 
 ::section-two-columns
 ---
-tagline: Wat kost het?
+tagline: Transparant en opverzichtelijk.
 taglineComponent: h3
-title: Transparant en overzichtelijk
+title: Wat kost vergaderen vlakbij Amsterdam?
 titleComponent: h2
 ---
-Zonder downloads. Zonder offerteformulier. Gewoon een idee:
+lke vergadering is anders. Maar we geven je graag een idee, zonder dat je meteen je telefoonnummer hoeft achter te laten. Dit kiezen onze gasten het vaakst:
 
 Dagdeel + lunch → **vanaf €475**:br Volle dag + borrel → **vanaf €795**:br Boot met schipper (2 uur) → **vanaf €295**:br Private dining 4 gangen → **vanaf €49,50 p.p.**
 
 [Meerdaags met overnachting](/overnachten)? Mogelijk vanaf zomer 2025.
+
+Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
 
 *Wil je weten wat jouw dag kost? Vraag snel een vrijblijvende offerte aan of bel met Jeppe.*
 
