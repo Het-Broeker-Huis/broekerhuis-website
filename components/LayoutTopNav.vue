@@ -1,12 +1,34 @@
 <script lang="ts" setup>
 import type { ContentNavigationItem } from '@nuxt/content';
 
-const { items } = defineProps<{
-  items: ContentNavigationItem[]
-}>();
+const { data: items } = useAsyncData('navigation', async () => {
+  const nav = await queryCollectionNavigation('content');
 
-const firstNavItems = computed(() => items.slice(0, Math.ceil(items.length / 2)));
-const secondNavItems = computed(() => items.slice(Math.ceil(items.length / 2)));
+  const flattenNav = (items: ContentNavigationItem[]) => {
+    return items.reduce((acc: ContentNavigationItem[], item: ContentNavigationItem) => {
+      if (item.displayInTopNav === true) {
+        acc.push(item);
+      }
+      if (item.children && item.children.length > 0) {
+        acc = acc.concat(flattenNav(item.children));
+      }
+      return acc;
+    }, []);
+  };
+
+  const flatNav = flattenNav(nav);
+
+  const uniqueNav: ContentNavigationItem[] = flatNav.filter(
+    (item, index, self) => index === self.findIndex((t) => t.path === item.path)
+  );
+
+  const result = uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
+
+  return result;
+});
+
+const firstNavItems = computed(() => items.value?.slice(0, Math.ceil(items.value?.length / 2)));
+const secondNavItems = computed(() => items.value?.slice(Math.ceil(items.value?.length / 2)));
 
 const mobileMenu = ref(false);
 </script>
