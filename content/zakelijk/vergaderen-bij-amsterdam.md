@@ -107,14 +107,14 @@ title: Vergaderen bij Amsterdam
 TitleComponent: h1
 ---
 #image
-![vergaderen bij amsterdam in rust en stilte in Broek in Waterland](/zakelijk/vergaderen-vlakbij-amsterdam.jpg)
+![groen.jpeg Vergaderen bij Amsterdam in rust en stilte in Broek in Waterland](/zakelijk/vergaderen-vlakbij-amsterdam.jpg)
 ::
 
 ::section-intro
 ---
 tagline: Geen haast. Geen ruis. Geen fratsen.
 taglineComponent: h3
-title: Vergaderruimte bij Amsterdam – maar dan zonder gedoe
+title: Vergaderruimte bij Amsterdam – zonder gedoe
 titleComponent: h2
 ---
 Vlakbij Amsterdam vind je iets wat zeldzaam is: stilte. Karakter. Tijd voor een goed idee. Bij **Het Broeker Huis** vergader je in een 250 jaar oud dorpshuis, met snelle wifi, verse koffie en rust in je hoofd.
@@ -146,15 +146,15 @@ Bij ons geen systeemplafond of afgetrapt tapijt. Maar monumentale zalen, hoge ra
 
 Je vergadert met uitzicht op de dorpskerk, luncht aan grote tafels van hout en sluit af in de binnentuin – of op het water. Onze **boot met schipper** is te boeken voor reflectie, borrel of brainstorm. Max 8 personen. Max ontspanning.
 
-**Praktisch?** Eigen parkeerplekken. Supersnelle wifi. Flip-overs, schermen en stilte. Lunches en diners van eigen chef – seizoensgebonden, lokaal en zonder gedoe.
+**Praktisch?** Genoeg gratis parkeerplaatsen Supersnelle wifi. Flip-overs, schermen en stilte. Lunches en diners van eigen chef – van het houtvuur, seizoensgebonden, lokaal en ambachtelijk
 
-**Teams tot 80 personen**. Te boeken per dagdeel, hele dag of meerdaags.
+**Teams tot 200 personen**. Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
 
 #image
 ![brainstormen en wandelen in rust vlakbij Amsterdam](/brainstorm-tuinzaal-offsite-in-rust-vlakbij-amsterdam.jpg)
 ::
 
-::section-full-image{background backgroundPosition="bottom"}
+::section-full-image{background background-position="bottom"}
 ![buiten vergaderen en napraten met borrel op het water](/rondvaart-waterland-borrel-na-vergaderdag.jpeg)
 ::
 
@@ -191,7 +191,7 @@ titleComponent: h2
 ---
 Zonder downloads. Zonder offerteformulier. Gewoon een idee:
 
-• Dagdeel + lunch → **vanaf €475**:br• Volle dag + borrel → **vanaf €795**:br• Boot met schipper (2 uur) → **vanaf €295**:br• Private dining 4 gangen → **vanaf €49,50 p.p.**
+• Dagdeel + lunch → **vanaf €475**:br • Volle dag + borrel → **vanaf €795**:br • Boot met schipper (2 uur) → **vanaf €295**:br • Private dining 4 gangen → **vanaf €49,50 p.p.**
 
 Meerdaags met overnachting? Mogelijk vanaf zomer 2025.
 
