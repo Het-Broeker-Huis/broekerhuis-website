@@ -286,7 +286,7 @@ titleComponent: h2
   :::
 
 #image
-![U vergaderopstelling voor 30 personen in de Grote Zaal van Het Broeker Huis](/grote-zaal-groot-scherm-lichtinval-grote-ramen.jpg)
+![U vergaderopstelling voor 30 personen in de Grote Zaal van Het Broeker Huis](/zakelijk/vergaderen-grote-zaal-30-personen-broeker-huis.jpg)
 ::
 
 ::section-two-columns
