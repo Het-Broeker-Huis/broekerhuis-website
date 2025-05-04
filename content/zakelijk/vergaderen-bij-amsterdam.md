@@ -101,7 +101,7 @@ robots:
 
 ::hero-header
 ---
-tagline: Rust, ruimte, resultaat – net buiten de stad.
+tagline: Weg van de drukte, dichtbij resultaat.
 TaglineComponent: h2
 title: Vergaderen bij Amsterdam
 TitleComponent: h1
@@ -112,47 +112,58 @@ TitleComponent: h1
 
 ::section-intro
 ---
-tagline: Geen haast. Geen ruis. Geen fratsen.
+tagline: Sessie. Offsite. Brainstorm. Boottocht.
 taglineComponent: h3
-title: Vergaderruimte bij Amsterdam – zonder gedoe
+title: Net buiten Amsterdam – een vergaderplek die klopt
 titleComponent: h2
 ---
-Vlakbij Amsterdam vind je iets wat zeldzaam is: stilte. Karakter. Tijd voor een goed idee. Bij **Het Broeker Huis** vergader je in een 250 jaar oud dorpshuis, met snelle wifi, verse koffie en rust in je hoofd.
+Zoek je een plek om te vergaderen bij Amsterdam – maar dan zónder rumoer, parkeerproblemen of liftenmuziek? Hier. Bij ons.
 
-Zonder parkeerstress. Zonder keuzestress. Zonder prikkels die je niks brengen.
+In Het Broeker Huis vergader je in monumentale zalen, met uitzicht op bomen, stilte en je eigen gedachten. Vlak bij de stad. Ver van de standaard.
 
-Onze vergaderlocatie ligt op **15 minuten van Amsterdam**, midden in het groen. Ideaal voor wie met z’n team wil vertragen, verdiepen of versnellen – **zonder afleiding**.
+Geen rinkelende koffieautomaten, maar een dorpskeuken met houtvuur. Geen rolgordijnen, maar kroonlijsten. Geen gejaagde lunch en kleffe bollen, maar in alle rust huisgebakken brood van chef Thijs (Vuurtoreneiland, Toscanini).
 
 *Even sparren over de mogelijkheden? Of snel een indicatie van de kosten?*
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Vraag kostenindicatie aan](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Vraag direct offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bel Jeppe](tel:+31204031314)
+  [Bel Jeppe](%5Btel:+31204031314%5D)
   :::
 ::
 
-::section-full-image{background background-position="bottom"}
+::section-full-image{padding background="true" background-position="bottom"}
 ![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/grote-zaal-groot-scherm-lichtinval-grote-ramen.jpg)
 ::
 
 ::section-two-columns
 ---
-tagline: Monumentaal stil. Modern geregeld.
+background: "true"
+backgroundPosition: full
+tagline: Monumentaal stil. Flexibel en compleet.
 taglineComponent: h3
-title: Een vergaderruimte die klopt – tot in de details
+title: Van strategiesessie tot trainingsdag
 titleComponent: h2
 ---
-Bij ons geen systeemplafonds of afgetrapt tapijt. Maar monumentale zalen, hoge ramen en warme gastvrijheid.
+Onze zalen zijn flexibel in te richten – en combineren karakter met comfort. Alleen of tot 250 personen. Binnen, buiten en zelfs op het water.
 
-Je vergadert met uitzicht op een grachtje met rijksmonumenten, luncht aan grote tafels van hout en sluit af in de binnentuin – of op het water. Onze **boot met stille- of verhalenvertellende schipper** is te boeken voor reflectie, borrel of brainstorm. Max 8 personen. Max ontspanning.
+Grote Zaal (90 m²) – voor teamsessies of plenaire trainingen :br Regentessenkamer (30 m²) – focus, coaching en overleg :br Tuinzaal (60 m²) – licht, lucht, los: ideaal voor workshops en creatieve sessies :br Binnenplaats (240 m²) – met borrel, zon en stilte (of rumoer) :br Sloep met schipper – max 8 personen, max effect
 
-**Praktisch?** Genoeg gratis parkeerplekken. Supersnelle wifi. Flip-overs, schermen en stilte. Lunches en diners van eigen topchef Thijs (Vuurtoreneiland, Toscanini) – van het houtvuur, seizoensgebonden, lokaal en ambachtelijk.
+Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
 
-**Teams tot 200 personen**. Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
+*Snel weten of je datum nog vrij is, of direct een offerte?*
+
+#footer
+  :::cta-button{arrow variant="primary"}
+  [Direct een offerte](/zakelijk)
+  :::
+
+  :::cta-button{arrow variant="ghost"}
+  [Check beschikbaarheid](%5Btel:+31204031314%5D)
+  :::
 
 #image
 ![Buiten vergaderen en napraten met borrel op het water](/zakelijk/rondvaart-waterland-borrel-met-schipper-na-vergaderdag.jpeg)
@@ -161,25 +172,38 @@ Je vergadert met uitzicht op een grachtje met rijksmonumenten, luncht aan grote 
 ::section-two-columns
 ---
 reverse: true
-tagline: Meer dan een vergaderruimte.
+background: "true"
+backgroundPosition: full
+tagline: Meer dan vergaderzalen
 taglineComponent: h3
-title: Een plek waar plannen ontstaan
+title: Een plek waar plannen ontstaan.
 titleComponent: h2
 ---
-Onze klanten gebruiken Het Broeker Huis voor:
+Onze zakelijke gasten gebruiken Het Broeker Huis voor:
 
-- Strategiesessies met MT of directie
-- Teamdagen met inhoud én lucht
-- Offsites met overnachting (vanaf zomer 2025)
-- Coachingstrajecten, trainingen of heisessies
-- Presentaties of besloten diners
+**Strategiesessies** met MT of directie - **Teamdagen** met inhoud én lucht - Offsites [met overnachting](/overnachten) (vanaf zomer 2025) - **Coachingstrajecten, trainingen** en **heisessies** - **Presentaties** en besloten **diners**. We denken met je mee over doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
 
-We denken mee over jouw doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
+*Uitgeluld?*
 
-**Je regelt het makkelijk. En je blijft vaak langer dan je dacht.**
+Thijs kookt voor je. Jeppe ontvangt je. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet naar huis willen.
+
+**Lunch** aan lange tafels of informeel buffet - **Borrel op de binnenplaats** - **Private dining** in de Regentessenkamer - **Rondvaart** met picknick of borrelplank.
+
+En jullie? Alleen maar aanschuiven.
+
+**Lekker makkelijk. Goed geregeld.**
+
+#footer
+  :::cta-button{arrow variant="primary"}
+  [Vraag een offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
+  :::
+
+  :::cta-button{arrow variant="ghost"}
+  [Overleg met Jeppe](mailto\:zakelijk@broekerhuis.nl)
+  :::
 
 #image
-![coachingsessie groep in de Regentessenkamer van Het Broeker Huis](/coachingsessie-groep-broeker-huis.JPG)
+![coachingsessie met koffie in de Regentessenkamer van Het Broeker Huis](/zakelijk/boardroom-meeting-met-huisgebrande-koffie.jpg)
 ::
 
 ::section-two-columns
@@ -191,9 +215,9 @@ titleComponent: h2
 ---
 Zonder downloads. Zonder offerteformulier. Gewoon een idee:
 
-• Dagdeel + lunch → **vanaf €475**:br • Volle dag + borrel → **vanaf €795**:br • Boot met schipper (2 uur) → **vanaf €295**:br • Private dining 4 gangen → **vanaf €49,50 p.p.**
+Dagdeel + lunch → **vanaf €475**:br Volle dag + borrel → **vanaf €795**:br Boot met schipper (2 uur) → **vanaf €295**:br Private dining 4 gangen → **vanaf €49,50 p.p.**
 
-Meerdaags met overnachting? Mogelijk vanaf zomer 2025.
+[Meerdaags met overnachting](/overnachten)? Mogelijk vanaf zomer 2025.
 
 *Wil je weten wat jouw dag kost? Vraag snel een vrijblijvende offerte aan of bel met Jeppe.*
 
@@ -205,25 +229,4 @@ Meerdaags met overnachting? Mogelijk vanaf zomer 2025.
   :::cta-button{arrow variant="ghost"}
   [Mail Jeppe](mailto\:zakelijk@broekerhuis.nl)
   :::
-
-#image
-![prive diner na vergaderdag bij Amsterdam in karaktervolle ruimte](/prive-diner-na-vergadering.jpeg)
-::
-
-::section-visual-transition
----
-background: true
-backgroundPosition: top
----
-#image_1
-![vergaderen vlakbij amsterdam op karaktervolle locatie in Waterland](/vergaderen-vlakbij-amsterdam.jpeg)
-
-#image_2
-![diner onder bomen na teamdag bij Het Broeker Huis](/diner-met-bedrijf-onder-bomen.jpg)
-
-#image_3
-![wandelen door historisch centrum in lunchpauze](/wandelen-historisch-centrum-tijdens-lunchpauze.jpeg)
-
-#image_4
-![rustige setting vlakbij amsterdam voor zakelijke meetings](/rust-ruimte-dichtbij-amsterdam.jpeg)
 ::
