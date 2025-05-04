@@ -135,8 +135,19 @@ Geen rinkelende koffieautomaten, maar een dorpskeuken met houtvuur. Geen rolgord
   :::
 ::
 
+::section-visual-transition
+#image_1
+![Opgaande zon en rust in broek in waterland](/zakelijk/weg-van-hectiek-nabij-amsterdam.jpg)
+
+#image_2
+![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_154.JPG](/20250310_BROEKERHUIS_REGENTESSEKAMER_154.JPG)
+
+#image_3
+![private dining na een dag vergaderen in de regentessenkamer](/zakelijk/prive-diner-na-vergadering.jpg)
+::
+
 ::section-full-image{padding background="true" background-position="bottom"}
-![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/grote-zaal-groot-scherm-lichtinval-grote-ramen.jpg)
+![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/vergaderen-vlakbij-amsterdam-broek-in-waterland.jpg)
 ::
 
 ::section-two-columns
@@ -166,7 +177,7 @@ Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
   :::
 
 #image
-![Buiten vergaderen en napraten met borrel op het water](/zakelijk/rondvaart-waterland-borrel-met-schipper-na-vergaderdag.jpeg)
+![Buiten vergaderen en napraten met borrel op het water](/zakelijk/boardroom-meeting-met-huisgebrande-koffie.jpg)
 ::
 
 ::section-two-columns
@@ -201,7 +212,7 @@ En jullie? Alleen maar aanschuiven. Lekker makkelijk. **Goed geregeld.**
   :::
 
 #image
-![coachingsessie met koffie in de Regentessenkamer van Het Broeker Huis](/zakelijk/boardroom-meeting-met-huisgebrande-koffie.jpg)
+![coachingsessie met koffie in de Regentessenkamer van Het Broeker Huis](/zakelijk/rondvaart-waterland-borrel-met-schipper-na-vergaderdag.jpeg)
 ::
 
 ::section-two-columns
@@ -211,7 +222,7 @@ taglineComponent: h3
 title: Wat kost vergaderen vlakbij Amsterdam?
 titleComponent: h2
 ---
-lke vergadering is anders. Maar we geven je graag een idee, zonder dat je meteen je telefoonnummer hoeft achter te laten. Dit kiezen onze gasten het vaakst:
+Elke vergadering is anders. Maar we geven je graag een idee, zonder dat je meteen je telefoonnummer hoeft achter te laten. Dit kiezen onze gasten het vaakst:
 
 Dagdeel + lunch → **vanaf €475**:br Volle dag + borrel → **vanaf €795**:br Boot met schipper (2 uur) → **vanaf €295**:br Private dining 4 gangen → **vanaf €49,50 p.p.**
 
@@ -229,4 +240,27 @@ Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
   :::cta-button{arrow variant="ghost"}
   [Mail Jeppe](mailto\:zakelijk@broekerhuis.nl)
   :::
+
+#image
+![u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg](/zakelijk/u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg)
+::
+
+::section-two-columns
+---
+reverse: true
+tagline: Zo dichtbij dat je het bijna vergeet.
+taglineComponent: h2
+title: Reistijd? Minder dan je koffiepauze.
+titleComponent: h1
+---
+**Vanaf Amsterdam Centraal:**  
+
+Bus 312, 314 of 315 → **15 minuten** :brAuto via N247 → **12 minuten** :br Taxi → **v.a. € 20,-** :brFiets → **35 minuten** :br**Gratis parkeren** op 1 of 5 minuten lopen.
+
+En bij vertrek sta je in 10 minuten weer op de ring. Zonder stress. Zonder files. Zonder parkeerapp. Of kom lekker fietsen.
+
+#footer
+
+#image
+![Met de bus, fiests of auto ben je in 15 minuten vanuit Amsterdam in Broek in Waterland](/zakelijk/vergaderen-een-kwartier-van-amsterdam-in-broek-in-waterland.jpg)
 ::
