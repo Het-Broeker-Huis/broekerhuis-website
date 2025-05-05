@@ -141,7 +141,7 @@ Geen rinkelende koffieautomaten, maar **koffie van huisgebrande bonen.** Geen ro
   :::
 ::
 
-::section-full-image{background="true" backgroundPosition="top"}
+::section-full-image{background="true" background-position="top"}
 ![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg)
 ::
 
@@ -236,7 +236,7 @@ titleComponent: h2
 ---
 Elke vergadering is anders. Maar we geven je graag een idee, zonder dat je meteen je telefoonnummer hoeft achter te laten. Dit kiezen onze gasten vaak:
 
-**Dagdeel + lunch →** *vanaf €475*:br **Volle dag + borrel →** *vanaf €795*:br **Boot met schipper (2 uur)** *→ vanaf €295*:br **Private dining 4 gangen →** *vanaf €49,50 p.p.* :br**Meerdaags met overnachting?** ***→*** [Mogelijk vanaf zomer 2025.](/overnachten)
+**Dagdeel + lunch →** *vanaf €475*:br **Volle dag + borrel →** *vanaf €795*:br **Boot met schipper (2 uur)** *→ vanaf €295*:br **Private dining 4 gangen →** *vanaf €49,50 p.p.*:br **Meerdaags met overnachting?** ***→*** [Mogelijk vanaf zomer 2025.](/overnachten)
 
 Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
 
@@ -263,7 +263,7 @@ taglineComponent: h2
 title: Makkelijk bereikbaar. Moeilijk te vergeten.
 titleComponent: h3
 ---
-**Vanaf Amsterdam Centraal:** :brBus 312, 314 of 315 → **15 minuten** :br Auto via N247 → **12 minuten**:br Taxi → **v.a. € 20,-** :br Fietsen → **35 minuten**:br **Gratis parkeren** op 1 of 5 minuten lopen.
+**Vanaf Amsterdam Centraal:** :br-bus 312, 314 of 315 → **15 minuten**:br Auto via N247 → **12 minuten**:br Taxi → **v.a. € 20,-**:br Fietsen → **35 minuten**:br **Gratis parkeren** op 1 of 5 minuten lopen.
 
 Bij vertrek rij je in 5 minuten weer fluitend op de ring. Zonder stress. Zonder files. Zonder parkeerapp. Of kom lekker fietsen.
 
