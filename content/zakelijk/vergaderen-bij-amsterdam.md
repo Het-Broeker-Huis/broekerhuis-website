@@ -4,7 +4,7 @@ description: Zoek je een vergaderruimte bij Amsterdam met stilte, karakter en
   goede koffie? Ontdek onze monumentale locatie in Broek in Waterland – 15
   minuten van de stad.
 seo:
-  title: Vergaderruimte bij Amsterdam – rustig en karaktervol vergaderen in het groen
+  title: Vergaderruimte bij Amsterdam – rust en karakter buiten de stad
   description: Rustige vergaderruimte bij Amsterdam huren? Monumentale locatie in
     Broek in Waterland – voor trainingen, brainstorms en offsites met lunch of
     borrel.
@@ -122,7 +122,7 @@ taglineComponent: h3
 title: Net buiten Amsterdam – een vergaderplek die klopt
 titleComponent: h2
 ---
-Zoek je **onder de rook van Amsterdam** een plek om te vergaderen – maar dan zónder rumoer, parkeerproblemen of bouwputten? Hier. Bij ons. In het **mooiste dorp ten noorden van de IJtunnel.** Waar de tijd stilstaat, en het dus precies goed voelt voor vooruitgang.
+Zoek je **onder de rook van Amsterdam** een plek om te vergaderen – maar dan zónder rumoer, parkeerproblemen of bouwputten? Hier. Bij ons. In het **mooiste dorp ten noorden van de stad.** Waar de tijd stilstaat, en het dus precies goed voelt voor vooruitgang.
 
 In **Het Broeker Huis** vergader je in monumentale stilte, **in zalen met karakter,** uitzicht op bomen, rust en je eigen gedachten. **Vlakbij de stad**. Ver van deadlines.
 
@@ -207,7 +207,7 @@ Onze zakelijke gasten gebruiken Het Broeker Huis voor:
 
 **MT-sessie** of **directieoverleg**- **Teamretraite** met inhoud én lucht - **Offsite** [met overnachting](/overnachten) (vanaf zomer 2025) - **Coachingstrajecten, training** en **heidag** - **Presentaties** en private dining. We denken met je mee over doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
 
-Thijs kookt voor je. Jeppe ontvangt juliie Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
+Thijs kookt voor je. Jeppe ontvangt julie. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
 
 **Lunch** aan lange tafels of informeel buffet - **Borrel op de binnenplaats** - **Private dining** in de Regentessenkamer - **Rondvaart** met picknick of borrelplank.
 
@@ -282,7 +282,7 @@ background: "true"
 backgroundPosition: full
 tagline: Verander een sessie in een herinnering.
 taglineComponent: h3
-title: Plan je dag buiten de stad –kom thuis met meer
+title: Plan je dag buiten de stad – kom thuis met meer
 titleComponent: h2
 ---
 Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precies waar je team aan toe is.
@@ -292,11 +292,11 @@ Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precie
 Rust. Ritme. Resultaat.
 
 #footer
-  :::cta-button{arrow variant="primary"}
+  :::cta-button{arrow variant="ghost"}
   [Vind ons op Maps](https://g.co/kgs/354vkBj)
   :::
 
-  :::cta-button{arrow variant="ghost"}
-  [Vandaag een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
+  :::cta-button{arrow variant="primairy"}
+  [Binnen 8 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 ::
