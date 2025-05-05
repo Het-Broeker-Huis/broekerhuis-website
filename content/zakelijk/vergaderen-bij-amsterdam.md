@@ -186,7 +186,7 @@ Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bel voor beschikbaarheid](%5Btel:+31204031314%5D)
+  [Bel voor beschikbaarheid](tel:+31204031314)
   :::
 
 #image
@@ -249,7 +249,7 @@ Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Mail Jeppe](mailto\:zakelijk@broekerhuis.nl)
+  [Mail Jeppe](/)
   :::
 
 #image
@@ -287,7 +287,7 @@ titleComponent: h2
 ---
 Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precies waar je team aan toe is.
 
-**15 minuten buiten Amsterdam**:br Midden in de stilte :br **Eten van een topchef**:br **Zalen met smoel**:br Varend borrelen :br **Eén contactpersoon,** alles geregeld
+**15 minuten buiten Amsterdam**:br Midden in **de stilte** :br **Eten van een topchef**:br **Zalen met smoel**:br **Varend** borrelen :br **Eén contactpersoon,** alles geregeld
 
 Rust. Ritme. Resultaat.
 
