@@ -97,6 +97,10 @@ head:
 robots:
   index: true
   follow: true
+design:
+  primaryColor: "#47313c"
+  secondaryColor: "#badaaf"
+  backgroundColor: "#edece4"
 ---
 
 ::hero-header
