@@ -282,7 +282,7 @@ titleComponent: h2
 
 #footer
   :::cta-button{arrow}
-  [Lees verder](/zakelijk)
+  [Lees verder](/zakelijk/vergaderen-bij-amsterdam)
   :::
 
 #image

@@ -292,11 +292,11 @@ Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precie
 Rust. Ritme. Resultaat.
 
 #footer
-  :::cta-button{arrow variant="ghost"}
-  [Vind ons op Maps](https://g.co/kgs/354vkBj)
+  :::cta-button{arrow variant="primary"}
+  [Binnen 8 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
-  :::cta-button{arrow variant="primairy"}
-  [Binnen 8 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
+  :::cta-button{arrow variant="ghost"}
+  [Vind ons op Maps](https://g.co/kgs/354vkBj)
   :::
 ::
