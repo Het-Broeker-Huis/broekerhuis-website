@@ -27,9 +27,7 @@ const mobileMenu = ref(false);
         </nuxt-link>
       </div>
     </div>
-    <nuxt-link to="/">
-      <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
-    </nuxt-link>
+
     <div class="top-nav__items top-nav__items--right">
       <div v-for="item in secondNavItems" :key="item.path" class="top-nav__item">
         <nuxt-link :to="item.path" class="top-nav__link">

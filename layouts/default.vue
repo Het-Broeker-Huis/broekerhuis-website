@@ -37,7 +37,7 @@ const backgroundColor = computed(() => design.value?.backgroundColor || '#E5E9E9
 
 <template>
   <div class="layout">
-    <NewTopNav />
+    <LayoutTopNav />
     <main class="main">
       <slot />
     </main>
