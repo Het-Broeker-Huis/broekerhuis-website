@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// import type { ContentNavigationItem } from '@nuxt/content';
+import type { ContentNavigationItem } from '@nuxt/content';
 import type { DesignState } from '~/types/design';
 
 const design = useState<DesignState>('design')
@@ -8,36 +8,37 @@ const primaryColor = computed(() => design.value?.primaryColor || '#2E322D');
 const secondaryColor = computed(() => design.value?.secondaryColor || '#B9B59F');
 const backgroundColor = computed(() => design.value?.backgroundColor || '#E5E9E9');
 
-// const { data } = useAsyncData('navigation', async () => {
-//   const nav = await queryCollectionNavigation('content');
 
-//   const flattenNav = (items: ContentNavigationItem[]) => {
-//     return items.reduce((acc: ContentNavigationItem[], item: ContentNavigationItem) => {
-//       if (item.displayInTopNav === true) {
-//         acc.push(item);
-//       }
-//       if (item.children && item.children.length > 0) {
-//         acc = acc.concat(flattenNav(item.children));
-//       }
-//       return acc;
-//     }, []);
-//   };
+const { data } = useAsyncData('navigation', async () => {
+  const nav = await queryCollectionNavigation('content');
 
-//   const flatNav = flattenNav(nav);
+  const flattenNav = (items: ContentNavigationItem[]) => {
+    return items.reduce((acc: ContentNavigationItem[], item: ContentNavigationItem) => {
+      if (item.displayInTopNav === true) {
+        acc.push(item);
+      }
+      if (item.children && item.children.length > 0) {
+        acc = acc.concat(flattenNav(item.children));
+      }
+      return acc;
+    }, []);
+  };
 
-//   const uniqueNav: ContentNavigationItem[] = flatNav.filter(
-//     (item, index, self) => index === self.findIndex((t) => t.path === item.path)
-//   );
+  const flatNav = flattenNav(nav);
 
-//   const result = uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
+  const uniqueNav: ContentNavigationItem[] = flatNav.filter(
+    (item, index, self) => index === self.findIndex((t) => t.path === item.path)
+  );
 
-//   return result;
-// });
+  const result = uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
+
+  return result;
+});
 </script>
 
 <template>
   <div class="layout">
-    <LayoutTopNav />
+    <LayoutTopNav v-if="data" :items="data" />
     <main class="main">
       <slot />
     </main>
