@@ -127,7 +127,7 @@ Geen rinkelende koffieautomaten, maar een dorpskeuken met houtvuur. Geen rolgord
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Vraag direct offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Binnen 24 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
   :::cta-button{arrow variant="ghost"}
@@ -147,7 +147,7 @@ Geen rinkelende koffieautomaten, maar een dorpskeuken met houtvuur. Geen rolgord
 ::
 
 ::section-full-image{padding background="true" background-position="bottom"}
-![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/vergaderen-vlakbij-amsterdam-broek-in-waterland.jpg)
+![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg)
 ::
 
 ::section-two-columns
@@ -255,7 +255,7 @@ titleComponent: h1
 ---
 **Vanaf Amsterdam Centraal:**  
 
-Bus 312, 314 of 315 → **15 minuten** :brAuto via N247 → **12 minuten** :br Taxi → **v.a. € 20,-** :brFiets → **35 minuten** :br**Gratis parkeren** op 1 of 5 minuten lopen.
+Bus 312, 314 of 315 → **15 minuten** :br-auto via N247 → **12 minuten**:br Taxi → **v.a. € 20,-** :br-fiets → **35 minuten**:br **Gratis parkeren** op 1 of 5 minuten lopen.
 
 En bij vertrek sta je in 10 minuten weer op de ring. Zonder stress. Zonder files. Zonder parkeerapp. Of kom lekker fietsen.
 
@@ -263,4 +263,27 @@ En bij vertrek sta je in 10 minuten weer op de ring. Zonder stress. Zonder files
 
 #image
 ![Met de bus, fiests of auto ben je in 15 minuten vanuit Amsterdam in Broek in Waterland](/zakelijk/vergaderen-een-kwartier-van-amsterdam-in-broek-in-waterland.jpg)
+::
+
+::section-intro
+---
+background: "true"
+backgroundPosition: full
+tagline: Verander een sessie in een herinnering.
+taglineComponent: h3
+title: Vergaderen buiten de stad – boek vandaag nog
+titleComponent: h2
+---
+Broek in Waterland is dichterbij dan je denkt. En misschien wel precies waar je team aan toe is.
+
+Rust. Ritme. Resultaat.
+
+#footer
+  :::cta-button{arrow variant="primary"}
+  [Plan je dag](/)
+  :::
+
+  :::cta-button{arrow variant="ghost"}
+  [Meer zakelijk](/zakelijk)
+  :::
 ::
