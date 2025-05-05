@@ -122,9 +122,9 @@ taglineComponent: h3
 title: Net buiten Amsterdam – een vergaderplek die klopt
 titleComponent: h2
 ---
-Zoek je **vlakbij bij Amsterdam** een plek om te vergaderen – maar dan zónder rumoer, parkeerproblemen of bouwputten? Hier. Bij ons. In het **mooiste dorp bij de A12**. Waar de tijd stilstaat, en het dus precies goed voelt voor vooruitgang.
+Zoek je **onder de rook van Amsterdam** een plek om te vergaderen – maar dan zónder rumoer, parkeerproblemen of bouwputten? Hier. Bij ons. In het **mooiste dorp ten noorden van de IJtunnel.** Waar de tijd stilstaat, en het dus precies goed voelt voor vooruitgang.
 
-In Het Broeker Huis vergader je in monumentale stilte, **in zalen met karakter,** uitzicht op bomen, rust en je eigen gedachten. **Vlakbij de stad**. Ver van deadlines.
+In **Het Broeker Huis** vergader je in monumentale stilte, **in zalen met karakter,** uitzicht op bomen, rust en je eigen gedachten. **Vlakbij de stad**. Ver van deadlines.
 
 Geen rinkelende koffieautomaten, maar **koffie van huisgebrande bonen.** Geen rolgordijnen, maar kroonluchters. Geen gejaagde lunch en kleffe bollen, maar houtvuur en huisgebakken brood van **topchef Thijs (oa. Vuurtoreneiland, Toscanini, Bussia).**
 
@@ -136,7 +136,7 @@ Geen rinkelende koffieautomaten, maar **koffie van huisgebrande bonen.** Geen ro
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bekijk de zalen](/#ruimtes-rust)
+  [Bekijk de zalen](#ruimtes-rust)
   :::
 ::
 
@@ -285,7 +285,7 @@ taglineComponent: h3
 title: Plan je dag buiten de stad –kom thuis met meer
 titleComponent: h2
 ---
-Broek in Waterland is dichterbij Amsterdamdan je denkt. En misschien wel precies waar je team aan toe is.
+Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precies waar je team aan toe is.
 
 **15 minuten buiten Amsterdam**:br Midden in de stilte :br **Eten van een topchef**:br **Zalen met smoel**:br Varend borrelen :br **Eén contactpersoon,** alles geregeld
 
