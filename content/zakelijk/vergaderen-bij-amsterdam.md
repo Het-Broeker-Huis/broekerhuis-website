@@ -116,7 +116,6 @@ TitleComponent: h1
 
 ::section-intro
 ---
-background: "true"
 backgroundPosition: full
 tagline: Sessie. Offsite. Brainstorm. Boottocht.
 taglineComponent: h3
@@ -137,16 +136,17 @@ Geen rinkelende koffieautomaten, maar **koffie van huisgebrande bonen.** Geen ro
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bekijk de zalen](/)
+  [Bekijk de zalen](/#ruimtes-rust)
   :::
 ::
 
-::section-full-image{background="true" background-position="top"}
+::section-full-image{background="true" background-position="bottom"}
 ![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg)
 ::
 
 ::section-two-columns
 ---
+background: "true"
 backgroundPosition: full
 id: ruimtes-rust
 tagline: Monumentaal stil. Flexibel en compleet.
@@ -196,6 +196,7 @@ Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
 ::section-two-columns
 ---
 reverse: true
+background: "true"
 backgroundPosition: full
 tagline: Een plek waar plannen ontstaan
 taglineComponent: h3
@@ -206,9 +207,7 @@ Onze zakelijke gasten gebruiken Het Broeker Huis voor:
 
 **MT-sessie** of **directieoverleg**- **Teamretraite** met inhoud én lucht - **Offsite** [met overnachting](/overnachten) (vanaf zomer 2025) - **Coachingstrajecten, training** en **heidag** - **Presentaties** en private dining. We denken met je mee over doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
 
-*Uitgeluld?*
-
-Thijs kookt voor je. Jeppe ontvangt je. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
+Thijs kookt voor je. Jeppe ontvangt juliie Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
 
 **Lunch** aan lange tafels of informeel buffet - **Borrel op de binnenplaats** - **Private dining** in de Regentessenkamer - **Rondvaart** met picknick of borrelplank.
 
@@ -229,6 +228,8 @@ En jullie? Aankomen, aanschuiven. Lekker makkelijk. **Goed geregeld.**
 
 ::section-two-columns
 ---
+background: "true"
+backgroundPosition: full
 tagline: Transparant en overzichtelijk.
 taglineComponent: h3
 title: Wat kost vergaderen vlakbij Amsterdam?
@@ -252,12 +253,14 @@ Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
   :::
 
 #image
-![u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg](/zakelijk/u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg)
+![u-opstelling-tuinzaal-broeker-huis-vergaderen.jpg](/brainstorm-tuinzaal-offsite-in-rust-vlakbij-amsterdam.jpg)
 ::
 
 ::section-two-columns
 ---
 reverse: true
+background: "true"
+backgroundPosition: full
 tagline: 15 minuten uit de stad – een andere wereld.
 taglineComponent: h2
 title: Makkelijk bereikbaar. Moeilijk te vergeten.
