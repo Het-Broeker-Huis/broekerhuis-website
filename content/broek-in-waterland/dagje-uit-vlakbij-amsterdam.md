@@ -199,7 +199,7 @@ taglineComponent: span
 title: Koffie, kroket of kruimeltaart
 titleComponent: h3
 ---
-Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. Topchef Thijs kookt op houtvuur en brandt bonen voor onze koffie. Restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, eetcafé, restaurant, [feestlocatie](/trouwen-feesten/trouwen), toevluchtsoord.
+Loop voorbij het pannenkoekenhuis. Doe een rondje om de kerk. In het hart van het dorp: [Het Broeker Huis](/het-broeker-huis). Geen poespas. Geen “passie”. Wel vuur. **Topchef Thijs (Vuurtoreneiland, Lastage)** kookt op houtvuur en brandt bonen voor onze koffie. Restaurant De Broeker Huiskamer is een plek waar kinderen onder de tafel spelen en iemand je krant al gelezen heeft. Dorpshuiskamer, [vergaderlocatie ](/zakelijk/vergaderen-bij-amsterdam)eetcafé, restaurant, [feestlocatie](/trouwen-feesten/trouwen), toevluchtsoord.
 
 *Kom binnen kijken.*
 

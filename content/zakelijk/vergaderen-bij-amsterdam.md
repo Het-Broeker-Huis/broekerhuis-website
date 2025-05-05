@@ -287,7 +287,7 @@ titleComponent: h2
 ---
 Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precies waar je team aan toe is.
 
-**15 minuten buiten Amsterdam**:br Midden in **de stilte** :br **Eten van een topchef**:br **Zalen met smoel**:br **Varend** borrelen :br **Eén contactpersoon,** alles geregeld
+**15 minuten buiten Amsterdam**:br Midden in **de stilte**:br **Eten van een topchef**:br **Zalen met smoel**:br **Varend** borrelen :br **Eén contactpersoon,** alles geregeld
 
 Rust. Ritme. Resultaat.
 
