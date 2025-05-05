@@ -99,7 +99,7 @@ robots:
   follow: true
 design:
   primaryColor: "#47313c"
-  secondaryColor: "#badaaf"
+  secondaryColor: "#baadaf"
   backgroundColor: "#edece4"
 ---
 
@@ -116,56 +116,65 @@ TitleComponent: h1
 
 ::section-intro
 ---
+background: "true"
+backgroundPosition: full
 tagline: Sessie. Offsite. Brainstorm. Boottocht.
 taglineComponent: h3
 title: Net buiten Amsterdam – een vergaderplek die klopt
 titleComponent: h2
 ---
-Zoek je een plek om te vergaderen bij Amsterdam – maar dan zónder rumoer, parkeerproblemen of liftenmuziek? Hier. Bij ons.
+Zoek je **vlakbij bij Amsterdam** een plek om te vergaderen – maar dan zónder rumoer, parkeerproblemen of bouwputten? Hier. Bij ons. In het **mooiste dorp bij de A12**. Waar de tijd stilstaat, en het dus precies goed voelt voor vooruitgang.
 
-In Het Broeker Huis vergader je in monumentale zalen, met uitzicht op bomen, stilte en je eigen gedachten. Vlak bij de stad. Ver van de standaard.
+In Het Broeker Huis vergader je in monumentale stilte, **in zalen met karakter,** uitzicht op bomen, rust en je eigen gedachten. **Vlakbij de stad**. Ver van deadlines.
 
-Geen rinkelende koffieautomaten, maar een dorpskeuken met houtvuur. Geen rolgordijnen, maar kroonlijsten. Geen gejaagde lunch en kleffe bollen, maar in alle rust huisgebakken brood van chef Thijs (Vuurtoreneiland, Toscanini).
+Geen rinkelende koffieautomaten, maar **koffie van huisgebrande bonen.** Geen rolgordijnen, maar kroonluchters. Geen gejaagde lunch en kleffe bollen, maar houtvuur en huisgebakken brood van **topchef Thijs (oa. Vuurtoreneiland, Toscanini, Bussia).**
 
-*Even sparren over de mogelijkheden? Of snel een indicatie van de kosten?*
+*Sparren over de mogelijkheden? Of vandaag nog een indicatie van de kosten?*
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Binnen 24 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Binnen 8 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Bel Jeppe](%5Btel:+31204031314%5D)
+  [Bekijk de zalen](/)
   :::
 ::
 
-::section-visual-transition
-#image_1
-![Opgaande zon en rust in broek in waterland](/zakelijk/weg-van-hectiek-nabij-amsterdam.jpg)
-
-#image_2
-![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_154.JPG](/20250310_BROEKERHUIS_REGENTESSEKAMER_154.JPG)
-
-#image_3
-![private dining na een dag vergaderen in de regentessenkamer](/zakelijk/prive-diner-na-vergadering.jpg)
-::
-
-::section-full-image{padding background="true" background-position="bottom"}
+::section-full-image{background="true" backgroundPosition="top"}
 ![brainstormen, vergaderen, workshoppen en wandelen in rust nabij Amsterdam](/zakelijk/u-opstelling-grote-zaal-broeker-huis-vergaderen.jpg)
 ::
 
 ::section-two-columns
 ---
-background: "true"
 backgroundPosition: full
+id: ruimtes-rust
 tagline: Monumentaal stil. Flexibel en compleet.
 taglineComponent: h3
-title: Van strategiesessie tot trainingsdag
+title: Ruimtes met rust – voor sessie of traject
 titleComponent: h2
 ---
 Onze zalen zijn flexibel in te richten – en combineren karakter met comfort. Alleen of tot 250 personen. Binnen, buiten en zelfs op het water.
 
-Grote Zaal (90 m²) – voor teamsessies of plenaire trainingen :br Regentessenkamer (30 m²) – focus, coaching en overleg :br Tuinzaal (60 m²) – licht, lucht, los: ideaal voor workshops en creatieve sessies :br Binnenplaats (240 m²) – met borrel, zon en stilte (of rumoer) :br Sloep met schipper – max 8 personen, max effect
+### Grote Zaal (90 m²) :br
+
+Trainingen, workshops of plenaire sessies  :br
+
+### Regentessenkamer (30 m²) :br
+
+Besloten overleg, leiderschapscoaching of private dining  :br
+
+### Tuinzaal (60 m²) :br
+
+Lucht, licht, los: workshops en creatieve sessies :br
+
+### Binnenplaats (240 m²) :br
+
+Ontvangst, borrel of buitenbreak \:br
+
+### Sloep met schipper :br
+
+Max 8 personen, max effect
 
 Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
 
@@ -177,7 +186,7 @@ Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Check beschikbaarheid](%5Btel:+31204031314%5D)
+  [Bel voor beschikbaarheid](%5Btel:+31204031314%5D)
   :::
 
 #image
@@ -187,24 +196,23 @@ Te boeken per dagdeel, hele dag [of meerdaags.](/overnachten)
 ::section-two-columns
 ---
 reverse: true
-background: "true"
 backgroundPosition: full
-tagline: Meer dan vergaderzalen
+tagline: Een plek waar plannen ontstaan
 taglineComponent: h3
-title: Een plek waar plannen ontstaan.
+title: Meer dan vergaderzalen
 titleComponent: h2
 ---
 Onze zakelijke gasten gebruiken Het Broeker Huis voor:
 
-**Strategiesessies** met MT of directie - **Teamdagen** met inhoud én lucht - Offsites [met overnachting](/overnachten) (vanaf zomer 2025) - **Coachingstrajecten, trainingen** en **heisessies** - **Presentaties** en besloten **diners**. We denken met je mee over doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
+**MT-sessie** of **directieoverleg**- **Teamretraite** met inhoud én lucht - **Offsite** [met overnachting](/overnachten) (vanaf zomer 2025) - **Coachingstrajecten, training** en **heidag** - **Presentaties** en private dining. We denken met je mee over doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
 
 *Uitgeluld?*
 
-Thijs kookt voor je. Jeppe ontvangt je. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet naar huis willen.
+Thijs kookt voor je. Jeppe ontvangt je. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
 
 **Lunch** aan lange tafels of informeel buffet - **Borrel op de binnenplaats** - **Private dining** in de Regentessenkamer - **Rondvaart** met picknick of borrelplank.
 
-En jullie? Alleen maar aanschuiven. Lekker makkelijk. **Goed geregeld.**
+En jullie? Aankomen, aanschuiven. Lekker makkelijk. **Goed geregeld.**
 
 #footer
   :::cta-button{arrow variant="primary"}
@@ -221,16 +229,14 @@ En jullie? Alleen maar aanschuiven. Lekker makkelijk. **Goed geregeld.**
 
 ::section-two-columns
 ---
-tagline: Transparant en opverzichtelijk.
+tagline: Transparant en overzichtelijk.
 taglineComponent: h3
 title: Wat kost vergaderen vlakbij Amsterdam?
 titleComponent: h2
 ---
-Elke vergadering is anders. Maar we geven je graag een idee, zonder dat je meteen je telefoonnummer hoeft achter te laten. Dit kiezen onze gasten het vaakst:
+Elke vergadering is anders. Maar we geven je graag een idee, zonder dat je meteen je telefoonnummer hoeft achter te laten. Dit kiezen onze gasten vaak:
 
-Dagdeel + lunch → **vanaf €475**:br Volle dag + borrel → **vanaf €795**:br Boot met schipper (2 uur) → **vanaf €295**:br Private dining 4 gangen → **vanaf €49,50 p.p.**
-
-[Meerdaags met overnachting](/overnachten)? Mogelijk vanaf zomer 2025.
+**Dagdeel + lunch →** *vanaf €475*:br **Volle dag + borrel →** *vanaf €795*:br **Boot met schipper (2 uur)** *→ vanaf €295*:br **Private dining 4 gangen →** *vanaf €49,50 p.p.* :br**Meerdaags met overnachting?** ***→*** [Mogelijk vanaf zomer 2025.](/overnachten)
 
 Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
 
@@ -252,21 +258,34 @@ Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
 ::section-two-columns
 ---
 reverse: true
-tagline: Zo dichtbij dat je het bijna vergeet.
+tagline: 15 minuten uit de stad – een andere wereld.
 taglineComponent: h2
-title: Reistijd? Minder dan je koffiepauze.
-titleComponent: h1
+title: Makkelijk bereikbaar. Moeilijk te vergeten.
+titleComponent: h3
 ---
-**Vanaf Amsterdam Centraal:**  
+**Vanaf Amsterdam Centraal:** :brBus 312, 314 of 315 → **15 minuten** :br Auto via N247 → **12 minuten**:br Taxi → **v.a. € 20,-** :br Fietsen → **35 minuten**:br **Gratis parkeren** op 1 of 5 minuten lopen.
 
-Bus 312, 314 of 315 → **15 minuten** :br-auto via N247 → **12 minuten**:br Taxi → **v.a. € 20,-** :br-fiets → **35 minuten**:br **Gratis parkeren** op 1 of 5 minuten lopen.
-
-En bij vertrek sta je in 10 minuten weer op de ring. Zonder stress. Zonder files. Zonder parkeerapp. Of kom lekker fietsen.
+Bij vertrek rij je in 5 minuten weer fluitend op de ring. Zonder stress. Zonder files. Zonder parkeerapp. Of kom lekker fietsen.
 
 #footer
 
 #image
 ![Met de bus, fiests of auto ben je in 15 minuten vanuit Amsterdam in Broek in Waterland](/zakelijk/vergaderen-een-kwartier-van-amsterdam-in-broek-in-waterland.jpg)
+::
+
+::section-visual-transition
+---
+background: "true"
+backgroundPosition: bottom
+---
+#image_1
+![Opgaande zon en rust in broek in waterland](/zakelijk/weg-van-hectiek-nabij-amsterdam.jpg)
+
+#image_2
+![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_154.JPG](/20250310_BROEKERHUIS_REGENTESSEKAMER_154.JPG)
+
+#image_3
+![private dining na een dag vergaderen in de regentessenkamer](/zakelijk/prive-diner-na-vergadering.jpg)
 ::
 
 ::section-intro
@@ -275,7 +294,7 @@ background: "true"
 backgroundPosition: full
 tagline: Verander een sessie in een herinnering.
 taglineComponent: h3
-title: Vergaderen buiten de stad – boek vandaag nog
+title: Plan je dag buiten de stad –kom thuis met meer
 titleComponent: h2
 ---
 Broek in Waterland is dichterbij dan je denkt. En misschien wel precies waar je team aan toe is.
