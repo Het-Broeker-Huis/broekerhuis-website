@@ -276,21 +276,6 @@ Bij vertrek rij je in 5 minuten weer fluitend op de ring. Zonder stress. Zonder 
 ![Met de bus, fiests of auto ben je in 15 minuten vanuit Amsterdam in Broek in Waterland](/zakelijk/vergaderen-een-kwartier-van-amsterdam-in-broek-in-waterland.jpg)
 ::
 
-::section-visual-transition
----
-background: "true"
-backgroundPosition: bottom
----
-#image_1
-![Opgaande zon en rust in broek in waterland](/zakelijk/weg-van-hectiek-nabij-amsterdam.jpg)
-
-#image_2
-![20250310\_BROEKERHUIS\_REGENTESSEKAMER\_154.JPG](/20250310_BROEKERHUIS_REGENTESSEKAMER_154.JPG)
-
-#image_3
-![private dining na een dag vergaderen in de regentessenkamer](/zakelijk/prive-diner-na-vergadering.jpg)
-::
-
 ::section-intro
 ---
 background: "true"
@@ -300,16 +285,18 @@ taglineComponent: h3
 title: Plan je dag buiten de stad –kom thuis met meer
 titleComponent: h2
 ---
-Broek in Waterland is dichterbij dan je denkt. En misschien wel precies waar je team aan toe is.
+Broek in Waterland is dichterbij Amsterdamdan je denkt. En misschien wel precies waar je team aan toe is.
+
+**15 minuten buiten Amsterdam** :br Midden in de stilte :br **Eten van een topchef** :br **Zalen met smoel** :br Varend borrelen :br **Eén contactpersoon,** alles geregeld
 
 Rust. Ritme. Resultaat.
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Plan je dag](/)
+  [Vind ons op Maps](https://g.co/kgs/354vkBj)
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Meer zakelijk](/zakelijk)
+  [Vandaag een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 ::
