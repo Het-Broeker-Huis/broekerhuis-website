@@ -132,7 +132,7 @@ Geen rinkelende koffieautomaten, maar **koffie van huisgebrande bonen.** Geen ro
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Binnen 8 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Binnen 24 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
   :::cta-button{arrow variant="ghost"}
@@ -207,7 +207,7 @@ Onze zakelijke gasten gebruiken Het Broeker Huis voor:
 
 **MT-sessie** of **directieoverleg**- **Teamretraite** met inhoud én lucht - **Offsite** [met overnachting](/overnachten) (vanaf zomer 2025) - **Coachingstrajecten, training** en **heidag** - **Presentaties** en private dining. We denken met je mee over doel, energie en ritme. Van opstelling tot sfeer, van timing tot techniek.
 
-Thijs kookt voor je. Jeppe ontvangt julie. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
+Thijs kookt voor je. Jeppe ontvangt jullie. Peter vaart verhalenvertellend (of muisstil) uit. Een warm bed wacht als jullie nog niet terug naar de drukke hoofdstad willen.
 
 **Lunch** aan lange tafels of informeel buffet - **Borrel op de binnenplaats** - **Private dining** in de Regentessenkamer - **Rondvaart** met picknick of borrelplank.
 
@@ -239,7 +239,7 @@ Elke vergadering is anders. Maar we geven je graag een idee, zonder dat je metee
 
 **Dagdeel + lunch →** *vanaf €475*:br **Volle dag + borrel →** *vanaf €795*:br **Boot met schipper (2 uur)** *→ vanaf €295*:br **Private dining 4 gangen →** *vanaf €49,50 p.p.*:br **Meerdaags met overnachting?** ***→*** [Mogelijk vanaf zomer 2025.](/overnachten)
 
-Beamer, microfoon of flipover? Regelen we. Andere wensen? Bel gerust.
+Beamer, microfoon of flip-over? Standaard inbegrepen. Andere wensen? Regelen we.
 
 *Wil je weten wat jouw dag kost? Vraag snel een vrijblijvende offerte aan of bel met Jeppe.*
 
@@ -271,6 +271,13 @@ titleComponent: h3
 Bij vertrek rij je in 5 minuten weer fluitend op de ring. Zonder stress. Zonder files. Zonder parkeerapp. Of kom lekker fietsen.
 
 #footer
+  :::cta-button{arrow variant="primary"}
+  [Vraag offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
+  :::
+
+  :::cta-button{arrow variant="ghost"}
+  [Vind ons op Maps](https://g.co/kgs/354vkBj)
+  :::
 
 #image
 ![Met de bus, fiests of auto ben je in 15 minuten vanuit Amsterdam in Broek in Waterland](/zakelijk/vergaderen-een-kwartier-van-amsterdam-in-broek-in-waterland.jpg)
@@ -291,12 +298,11 @@ Broek in Waterland is dichterbij Amsterdam dan je denkt. En misschien wel precie
 
 Rust. Ritme. Resultaat.
 
+*Binnen 24 uur een offerte, of even komen kijken?*
+
 #footer
   :::cta-button{arrow variant="primary"}
-  [Binnen 8 uur een offerte](https://forms.gle/aiEtiwAXoj2MywpKA)
+  [Vraag offerte aan](https://forms.gle/aiEtiwAXoj2MywpKA)
   :::
 
-  :::cta-button{arrow variant="ghost"}
-  [Vind ons op Maps](https://g.co/kgs/354vkBj)
-  :::
 ::
