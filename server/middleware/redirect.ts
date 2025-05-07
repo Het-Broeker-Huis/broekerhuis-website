@@ -11,7 +11,7 @@ const redirects = [
   },
   {
     from: "/trouwen",
-    to: "/trouwen-and-feesten/trouwen",
+    to: "/trouwen-feesten/trouwen",
   },
   {
     from: "/eten-en-drinken",
@@ -23,11 +23,11 @@ const redirects = [
   },
   {
     from: "/contact",
-    to: "/het-broeker-huis",
+    to: "/contact-parkeren",
   },
   {
     form: "/info.htm",
-    to: "/het-broeker-huis",
+    to: "/contact-parkeren",
   },
   {
     form: "/broek-in-waterland",
