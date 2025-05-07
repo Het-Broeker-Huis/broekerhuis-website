@@ -84,22 +84,13 @@ const mobileMenu = ref(false);
     right: 0;
     bottom: 0;
 
-    background: linear-gradient(180deg, color-mix(in srgb,
-          var(--color-primary) 90%,
-          transparent) 0%, color-mix(in srgb,
-          var(--color-primary) 80%,
-          transparent) 100%);
-    backdrop-filter: blur(4px);
-    animation: grow-progress auto linear;
-    animation-timeline: --page-scroll;
-    transition: min-height 0.3s ease-in-out;
   }
 
   &--open {
     &:before {
       animation: none;
       opacity: 1;
-      min-height: 100svh;
+      min-height: 100vh;
     }
   }
 
@@ -187,9 +178,9 @@ const mobileMenu = ref(false);
   }
 
   &__mobile {
-    width: 100svw;
+    width: 100vw;
     /* 98px is the height of the top-nav */
-    height: calc(100svh - 98px);
+    height: calc(100vh - 98px);
     top: 98px;
     display: grid;
     place-items: center;
