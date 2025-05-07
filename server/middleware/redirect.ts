@@ -29,6 +29,10 @@ const redirects = [
     form: "/info.htm",
     to: "/het-broeker-huis",
   },
+  {
+    form: "/broek-in-waterland",
+    to: "broek-in-waterland/dagje-uit-vlakbij-amsterdam/",
+  },
 ];
 
 export default defineEventHandler(async (event) => {
