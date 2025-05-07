@@ -19,19 +19,23 @@ const redirects = [
   },
   {
     from: "/nieuwsbrief",
-    to: "/voor-broekers",
+    to: "/contact-parkeren",
   },
   {
     from: "/contact",
     to: "/contact-parkeren",
   },
   {
-    form: "/info.htm",
+    from: "/info.htm",
     to: "/contact-parkeren",
   },
   {
-    form: "/broek-in-waterland",
-    to: "broek-in-waterland/dagje-uit-vlakbij-amsterdam/",
+    from: "/broek-in-waterland",
+    to: "broek-in-waterland/dagje-uit-vlakbij-amsterdam",
+  },
+  {
+    from: "/visit/things-to-do-amsterdam-countryside",
+    to: "/visit/things-to-do-countryside-amsterdam",
   },
 ];
 
