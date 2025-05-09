@@ -204,10 +204,10 @@ background-position: bottom
 ---
 background: "true"
 backgroundPosition: full
-tagline: Trouw. Vier. Herinner.
-taglineComponent: h3
-title: Trouwlocatie en feestlocatie vlakbij Amsterdam
-titleComponent: h2
+tagline: Trouwlocatie en feestlocatie vlakbij Amsterdam.
+taglineComponent: h2
+title: Trouw. Vier. Herinner.
+titleComponent: h3
 ---
 Trouwlocatie en feestlocatie Het Broeker Huis in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
 
