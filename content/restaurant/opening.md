@@ -50,7 +50,8 @@ TitleComponent: h1
 
 ::section-intro
 ---
-backgroundPosition: bottom
+background: "true"
+backgroundPosition: full
 tagline: Zondag 15 juni vanaf 15:00.
 taglineComponent: h3
 title: Broeker openingsfeest
@@ -79,7 +80,7 @@ Kun je 15 juni niet, maar wil je wel komen kijken en proeven? Reserveer dan een 
 ::section-visual-transition
 ---
 background: "true"
-backgroundPosition: bottom
+backgroundPosition: top
 ---
 #image_1
 ![Thijs Steur, oud chefkok van Vuurtorenveiland en zijn vader en meesterbakker Sjaak](/20250331_BROEKERHUIS_0609.JPG)
