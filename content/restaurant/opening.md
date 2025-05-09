@@ -60,19 +60,19 @@ Op 15 juni opent in de oude bibliotheek aan het Leeteinde 18 de plek waar het do
 
 Een **ontmoetingsplek voor alle Broekers** én bezoekers waar je **het hele jaar**, van **woensdag t/m zondag van 10:00 tot laat** kunt binnenwandelen voor een retegoeie kop **koffie van huisgebrande bonen** en verschrikkelijk **goed eten** van **topchef** én Broeker **Thijs Steur (oa. Vuurtoreneiland, Toscanini).** Maar vooral: een plek waar bekend en onbekend Broek elkaar ontmoet: jong, oud, niet meer weg te denken, net verhuisd - **er is plek voor elke Broeker**.
 
-Op 15 juni is iedereen vanaf 15:00 van harte welkom in je nieuwe tweede huis. Er is eten, drinken en vertier voor grote- én kleinere Broekers. Ook onthullen we de permanente expositie **Het mooiste dorp van Nederland** - een roulerende serie portretten en verhalen van jullie: Broekers.
+Op **15 juni** is iedereen **vanaf 15:00** van harte welkom in je nieuwe tweede huis. Er is eten, drinken en vertier voor grote- én kleinere Broekers. Ook onthullen we de permanente expositie **Het mooiste dorp van Nederland** - een roulerende serie portretten en verhalen van jullie: Broekers.
 
 Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken als je wilt.
 
-*Hoeft niet, wel fijn: meld je hieronder aan. Kun je 15 juni niet, maar wil je toch komen kijken en proeven? Reserveer dan een plekje voor het proefdiner op vrijdag 23 mei.*
+### Proefdiner op 23 mei
+
+Kun je 15 juni niet, maar wil je wel komen kijken en proeven? Reserveer dan een plekje voor het **proefdiner op vrijdag 23 mei.**
+
+*Hoeft niet, wel fijn: meld je hieronder aan voor 15 juni.*:br *Voor 23 mei graag wel reserveren. Allebei kan natuurlijk ook.*
 
 #footer
   :::cta-button{arrow}
-  [Meld je aan voor 15 juni](https://forms.gle/NaF2rATarNHxtJZh8)
-  :::
-
-  :::cta-button{arrow variant="secondary"}
-  [Reserveer voor 23 mei](/)
+  [Meld je aan voor 15 juni en/of 23 mei](/)
   :::
 ::
 
@@ -92,57 +92,4 @@ backgroundPosition: bottom
 
 #Image_4
 ![Zwartgeblakerde bloemkool van het houtvuur](/bloemkool-van-de-bbq-de-broeker-huiskamer-restaurant.JPG)
-::
-
-::section-two-columns
----
-background: true
-background-position: full
-tagline: Eet zoals Broek leeft.
-taglineComponent: h3
-title: Houtvuur, seizoenen & nul fratsen
-titleComponent: h2
----
-**Trouwen** met je soulmate, **uit eten gaan** met mams of met je hele hut **vergaderen** – overal in **Het Broeker Huis** eet je zoals Broek leeft: **pretentieloos en vol karakter**.
-
-**Chef Thijs Steur – geboren Broeker**, jarenlang zwetend boven de kachels van **Vuurtoreneiland, Bussia, Toscanini en Lastage** – kookt in zijn open keuken seizoensgebonden op houtvuur, met vakmanschap, zónder fratsen. Voor chef Thijs draait goed eten niet om duur en chic, maar om **liefde en verbinding**.
-
-Van de eerste kop (zelfgebrande) koffie tot de laatste hap (huisgebakken) taart: **één smaak, altijd raak.**
-
-Benieuwd naar de man achter de legende?
-
-#footer
-  :::cta-button{arrow}
-  [Thijs' roots](/het-broeker-huis#wie-zijn-wij)
-  :::
-
-#image
-![Chef Thijs Steur in de open keuken van De Broeker Huiskamer](/20250331_BROEKERHUIS_0242.JPG)
-::
-
-::section-two-columns
----
-reverse: true
-background: "true"
-backgroundPosition: full
-tagline: (G)een restaurant.
-taglineComponent: h3
-title: Voor iedereen, op elk moment
-titleComponent: h2
----
-**De Broeker Huiskamer** is geen traditioneel **restaurant** – het is een plek die meedeint met de golven van het moment en onze gasten: een kindvriendelijk restaurant waar je uitbundig kunt dineren en óók in stilte kunt genieten? Bij ons kan het.
-
-**Ontbijt** met een bakkie in de zon **in het mooiste dorp van Nederland**. Verlies tijdens de **lunch aan de leestafel** zorgeloos je kinderen uit het oog in de speelhoek. **Dineer** aan een mooi gedekte tafel met een **stevige daghap** – of **eet vijf gangen** aan de bar.
-
-Van ontbijt tot borrel: De Broeker Huiskamer is hét restaurant in Broek waar je je nooit hoeft af te vragen of je erbij hoort. **Kom als gast, ga als Broeker.**
-
-*Alvast spieken met een bakkie?*
-
-#image
-![Bekende Broeker Dirk Posch met koffie en hand kaarten bij het raam in de Grote Zaal](/20250331_BROEKERHUIS_0727.JPG)
-
-#footer
-  :::cta-button{arrow}
-  [Kom langs](/contact-parkeren)
-  :::
 ::
