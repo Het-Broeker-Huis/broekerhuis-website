@@ -62,9 +62,9 @@ Een **ontmoetingsplek voor alle Broekers** én bezoekers waar je **het hele jaar
 
 Op **15 juni** is iedereen **vanaf 15:00** van harte welkom in je nieuwe tweede huis. Er is eten, drinken en vertier voor grote- én kleinere Broekers. Ook onthullen we de permanente expositie **Het mooiste dorp van Nederland** - een roulerende serie portretten en verhalen van jullie: Broekers.
 
-Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken als je wilt.
+Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken als je wilt. :br
 
-### Proefdiner op 23 mei
+### Proefdiner op 23 mei :br
 
 Kun je 15 juni niet, maar wil je wel komen kijken en proeven? Reserveer dan een plekje voor het **proefdiner op vrijdag 23 mei.**
 
