@@ -73,7 +73,7 @@ Kun je 15 juni niet, maar wil je wel komen kijken en proeven? Reserveer dan een 
 
 #footer
   :::cta-button{arrow}
-  [Meld je aan voor 15 juni en/of 23 mei](/)
+  [Meld je aan voor 15 juni en/of 23 mei](https://forms.gle/phewrE374zhurcf5A)
   :::
 ::
 
