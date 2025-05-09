@@ -70,6 +70,7 @@ Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken a
   :::cta-button{arrow}
   [Meld je aan voor 15 juni](https://forms.gle/NaF2rATarNHxtJZh8)
   :::
+
   :::cta-button{arrow variant="secondary"}
   [Reserveer voor 23 mei](/)
   :::
