@@ -159,14 +159,14 @@ classComponent: h2
 
 ::section-intro
 ---
-tagline: In een van de mooiste dorpen rond Amsterdam
+tagline: In het mooiste dorp rond Amsterdam
 taglineComponent: h2
 title: Het Broeker Huis
 titleComponent: h1
 ---
 In het monumentale hart van Broek in Waterland ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen en waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
 
-**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, [restaurant](/restaurant)**,** [trouwlocatie](/trouwen-feesten/trouwen)**,** [vergaderlocatie](/zakelijk) **en**[ feestlocatie](/trouwen-feesten/trouwen) is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
+**Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, [restaurant](/restaurant)**,** [trouwlocatie](/trouwen-feesten/trouwen)**,** [vergaderlocatie](/zakelijk) en[ feestlocatie](/trouwen-feesten/trouwen) is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
 **Wandel, verdwaal, onthaast, kom thui**s – Het Broeker Huis vertelt de rest.
 
