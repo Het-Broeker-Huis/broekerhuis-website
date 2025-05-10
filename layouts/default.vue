@@ -8,7 +8,8 @@ const primaryColor = computed(() => design.value?.primaryColor || '#2E322D');
 const secondaryColor = computed(() => design.value?.secondaryColor || '#B9B59F');
 const backgroundColor = computed(() => design.value?.backgroundColor || '#E5E9E9');
 
-const { data } = await useAsyncData('navigation', async () => {
+
+const { data } = useAsyncData('navigation', async () => {
   const nav = await queryCollectionNavigation('content');
 
   const flattenNav = (items: ContentNavigationItem[]) => {
@@ -29,15 +30,15 @@ const { data } = await useAsyncData('navigation', async () => {
     (item, index, self) => index === self.findIndex((t) => t.path === item.path)
   );
 
-  return uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
+  const result = uniqueNav.sort((a, b) => (a.topNavOrder as number) - (b.topNavOrder as number));
 
+  return result;
 });
-
 </script>
 
 <template>
   <div class="layout">
-    <LayoutTopNav :items="data" />
+    <LayoutTopNav v-if="data" :items="data" />
     <main class="main">
       <slot />
     </main>
@@ -48,6 +49,8 @@ const { data } = await useAsyncData('navigation', async () => {
 <style>
 .layout {
   --color-primary: v-bind(primaryColor);
+  --color-primary-rgb: 46, 50, 45;
+  /* Default RGB values for #2E322D */
   --color-secondary: v-bind(secondaryColor);
   --color-background: v-bind(backgroundColor);
   --color-body: color-mix(in srgb,

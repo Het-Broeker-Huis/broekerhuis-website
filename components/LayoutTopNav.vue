@@ -20,9 +20,7 @@ const mobileMenu = ref(false);
         </nuxt-link>
       </div>
     </div>
-    <nuxt-link to="/">
-      <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
-    </nuxt-link>
+
     <div class="top-nav__items top-nav__items--right">
       <div v-for="item in secondNavItems" :key="item.path" class="top-nav__item">
         <nuxt-link :to="item.path" class="top-nav__link">
@@ -49,16 +47,6 @@ const mobileMenu = ref(false);
 </template>
 
 <style>
-@keyframes grow-progress {
-  0% {
-    opacity: 0;
-  }
-
-  2% {
-    opacity: 1;
-  }
-}
-
 .top-nav {
   --logo-width: clamp(37px, 3.33vw, 48px);
 
@@ -72,7 +60,6 @@ const mobileMenu = ref(false);
 
   @media (width > 768px) {
     padding: 1.5rem 0;
-    ;
   }
 
   &:before {
@@ -92,7 +79,7 @@ const mobileMenu = ref(false);
           var(--color-primary) 80%,
           transparent) 100%);
     backdrop-filter: blur(4px);
-    animation: grow-progress auto linear;
+    animation: topnav-bar-progress auto linear;
     animation-timeline: --page-scroll;
     transition: min-height 0.3s ease-in-out;
   }
