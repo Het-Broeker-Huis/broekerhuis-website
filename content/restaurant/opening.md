@@ -67,6 +67,8 @@ Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken a
 
 :br
 
+ 
+
 ### Proefdiner op 23 mei
 
 Kun je 15 juni niet, maar wil je wel komen kijken en proeven? Reserveer dan een plekje voor het proefdiner op vrijdag 23 mei. :br :br
