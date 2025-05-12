@@ -23,7 +23,7 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
         </div>
 
         <div class="two-column__footer">
-          <slot name="footer" />
+          <slot name="footer" mdc-unwrap="p" />
         </div>
       </div>
     </div>
@@ -104,6 +104,8 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
   &__footer {
     display: flex;
     justify-content: center;
+    flex-flow: row wrap;
+    gap: 1rem;
   }
 }
 </style>

@@ -16,7 +16,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
       </div>
 
       <div class="intro__footer">
-        <slot name="footer" />
+        <slot name="footer" mdc-unwrap="p" />
       </div>
 
       <SvgoHome class="intro__icon" />
