@@ -8,7 +8,7 @@ const primaryColor = computed(() => design.value?.primaryColor || '#2E322D');
 const secondaryColor = computed(() => design.value?.secondaryColor || '#B9B59F');
 const backgroundColor = computed(() => design.value?.backgroundColor || '#E5E9E9');
 
-const { data } = await useAsyncData('navigation', async () => {
+const { data } = useAsyncData('navigation', async () => {
   const nav = await queryCollectionNavigation('content');
 
   const flattenNav = (items: ContentNavigationItem[]) => {
@@ -37,7 +37,7 @@ const { data } = await useAsyncData('navigation', async () => {
 
 <template>
   <div class="layout">
-    <LayoutTopNav :items="data" />
+    <LayoutTopNav v-if="data" :items="data" />
     <main class="main">
       <slot />
     </main>
