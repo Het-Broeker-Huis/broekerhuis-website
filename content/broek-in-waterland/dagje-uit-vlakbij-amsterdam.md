@@ -136,6 +136,8 @@ titleComponent: h2
 ---
 Laat [Google Maps](https://g.co/kgs/Z51P8M6) even voor wat het is. Geen routebordjes. Geen drukte. Gewoon gaan. Loop over bruggetjes, langs het water, tussen tuinen waar je de geur van koffie, rozen en koeistront ruikt. Schuurtjes met een ziel. Over klinkers en keien. Stop bij de ouderensoos die staat te jeu-de-boulen bij de kerk. Lees de namen op een oud hek. Kijk omhoog – een ooievaar. Kijk omlaag – een stoeptegel uit 1786. Kijk rond. Wandelen in Broek is verdwalen in een dorp dat zichzelf niet belangrijk vindt. En juist daarom blijft hangen.
 
+### [Test]{class=""}
+
 Zoek je toch een beetje houvast? Er is een route die begint bij de kerk en eindigt waar het stil is. Langs gekleurde huizen, een scheef schuurtje, en een waterkant waar je jezelf hoort denken. Officieel is dit de **Noordmeerroute**. Ongeveer een uur, soms iets langer – als je blijft hangen bij een brug. Startpunt? De lantaarnpaal tegenover het Broeker Huis. Geen bordje, wel een gevoel.
 
 *Meer wandelroutes?*
