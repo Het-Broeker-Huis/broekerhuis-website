@@ -15,7 +15,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
         <slot />
       </div>
 
-      <div class="intro__footer">
+      <div class="intro__footer content__footer">
         <slot name="footer" mdc-unwrap="p" />
       </div>
 
@@ -60,13 +60,6 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
   &__footer,
   &__icon {
     grid-column: 1 / -1;
-  }
-
-  &__footer {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 1rem;
-    justify-content: center;
   }
 
   &__icon {
