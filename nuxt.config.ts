@@ -26,6 +26,7 @@ export default defineNuxtConfig({
     ],
     "nuxt-svgo",
     "@nuxt/scripts",
+    "@nuxtjs/critters",
   ],
   $production: {
     scripts: {
