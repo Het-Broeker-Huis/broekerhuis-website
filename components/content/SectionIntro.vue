@@ -11,7 +11,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
         <component :is="titleComponent" class="intro__title title__main">{{ title }}</component>
         <component :is="taglineComponent" v-if="tagline" class="intro__subtitle title__sub">{{ tagline }}</component>
       </div>
-      <div class="intro__body">
+      <div class="intro__body content__body">
         <slot />
       </div>
 

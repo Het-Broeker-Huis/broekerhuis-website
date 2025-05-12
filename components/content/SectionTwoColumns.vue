@@ -18,7 +18,7 @@ const { background = false, reverse = false, titleComponent = 'h1', taglineCompo
           <component :is="titleComponent" class="title__main">{{ title }}</component>
           <component :is="taglineComponent" v-if="tagline" class="title__sub">{{ tagline }}</component>
         </div>
-        <div class="two-column__body">
+        <div class="two-column__body content__body">
           <slot />
         </div>
 

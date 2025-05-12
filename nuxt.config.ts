@@ -38,6 +38,9 @@ export default defineNuxtConfig({
     preview: {
       api: "https://api.nuxt.studio",
     },
+    renderer: {
+      anchorLinks: false,
+    },
   },
   image: {
     provider: process.env.IS_NETLIFY === "1" ? "netlify" : "ipx",
