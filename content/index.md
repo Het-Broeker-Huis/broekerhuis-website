@@ -297,13 +297,13 @@ taglineComponent: h3
 title: Overnachten in rust - een kwartiertje uit de stad
 titleComponent: h2
 ---
-**Vanaf zomer 2025** slaap je in Broek in Waterland in stijl – een persoonlijke B\&B voor dromers die willen **overnachten in het mooiste dorp van Nederland**
+**Je slaapt** in Broek in Waterland in stijl – een persoonlijke B\&B voor dromers die willen **overnachten in het mooiste dorp van Nederland**
 
 :br
 
  
 
-*Alvast dagdromen?*
+*Binnen kijken of reserveren?*
 
 #footer
   :::cta-button{arrow}
