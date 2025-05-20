@@ -5,6 +5,7 @@
 
 html {
   scroll-timeline: --page-scroll block;
+  scroll-padding-block-start: var(--top-padding-offset, 130px);
 }
 
 .logo {

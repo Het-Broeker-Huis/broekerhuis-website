@@ -53,5 +53,17 @@ There’s a bakery, a school, a theatre club and volunteer firefighters. And a w
 
 #sidebar
   :::table-of-contents
+  ---
+  title: "Table of contents"
+  items:
+    - name: "1. Slow down"
+      to: "#a-village-where-time-slows-down"
+    - name: "2. Close to Amsterdam"
+      to: "#so-close-to-amsterdam-but-nothing-like-it"
+    - name: "3. Fall in love with us"
+      to: "#why-people-fall-in-love-with-broek-in-waterland"
+    - name: "4. What to do?"
+      to: "#things-to-do-in-broek-in-waterland-local-tips"
+  ---
   :::
 ::

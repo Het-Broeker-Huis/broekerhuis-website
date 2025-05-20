@@ -1,3 +1,9 @@
+<script setup lang="ts">
+import type { BaseSectionProps } from '@/types/props'
+
+defineProps<BaseSectionProps>()
+</script>
+
 <template>
   <SectionBase class="section--padding-full-width content-sidebar__section" :background :background-position>
     <div class="content-sidebar">
@@ -26,7 +32,13 @@
   }
 
   &__body {
-    grid-column: span 11;
+    grid-column: 1 / -1;
+    grid-row: 2;
+
+    @media (width > 1024px) {
+      grid-column: span 11;
+      grid-row: 1;
+    }
 
     h2 {
       font-size: 2rem;
@@ -69,7 +81,12 @@
   }
 
   &__sidebar {
-    grid-column: span 7 / -1;
+    grid-column: 1 / -1;
+    grid-row: 1;
+
+    @media (width > 1024px) {
+      grid-column: span 7 / -1;
+    }
   }
 
   &__section {
@@ -83,27 +100,5 @@
     }
   }
 
-  /* 
-  &__title,
-  &__subtitle,
-  &__head {
-    grid-column: 1 / -1;
-  }
-
-  
-
-  &__body,
-  &__footer,
-  &__icon {
-    grid-column: 1 / -1;
-  }
-
-  &__icon {
-    margin-top: 7.5rem;
-    width: 43px;
-    height: 35px;
-    color: var(--color-primary, #2E322D);
-    place-self: center;
-  } */
 }
 </style>
