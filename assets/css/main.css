@@ -1,91 +1,10 @@
-:root {
-  --color-primary: #2E322D;
-  --color-secondary: #B9B59F;
-  --color-background: #E5E9E9;
-
-
-
-  --base-font-family: Inter, serif;
-  --title-font-family: "Noto Serif", serif;
-  --tagline-font-family: "Reenie Beanie", cursive;
-  --columns: 24;
-  --column-width: calc(100vw / var(--columns));
-
-  font-family: var(--base-font-family);
-  letter-spacing: -0.02rem;
-  line-height: 1.5;
-  font-weight: 350;
-
-  font-synthesis: none;
-  font-optical-sizing: auto;
-  font-feature-settings: "dlig" on;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+@import "variables.css";
+@import "reset.css";
+@import "typography.css";
+@import "content.css";
 
 html {
   scroll-timeline: --page-scroll block;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: var(--title-font-family);
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-  font-weight: 350;
-  color: var(--color-primary);
-  text-wrap: balance;
-}
-
-h1 {
-  font-size: 2rem;
-
-  @media (width > 768px) {
-    font-size: 3rem;
-  }
-}
-
-.title{
-  &__main,
-  &__sub {
-    grid-column: 1 / -1;
-    font-family: var(--title-font-family, 'Suisse Int', sans-serif);
-    font-weight: 350;
-    color: var(--color-primary);
-    text-wrap: balance;
-  }
-
-  &__main {
-    font-size: 2rem;
-
-    @media (width > 768px) {
-      font-size: 3rem;
-    }
-  }
-
-  &__sub {
-    font-size: 1.4rem;
-    color: color-mix(
-      in srgb,
-      var(--color-primary) 70%,
-      var(--color-background)
-    );
-
-    @media (width > 768px) {
-      font-size: 2rem;
-    }
-  }
 }
 
 .logo {
@@ -105,50 +24,5 @@ h1 {
 
   &--padding-full-width {
     padding-inline: var(--column-width);
-  }
-}
-
-p {
-  font-size: 1rem;
-  line-height: 1.5;
-  font-weight: 350;
-
-  a {
-    color: var(--color-primary,#2E322D);
-  }
-
-  + p {
-    margin-top: 1rem;
-  }
-}
-
-.content{ 
-  &__body { 
-    h1 {
-      font-size: 2rem;
-
-      @media (width > 768px) {
-        font-size: 3rem;
-      }
-    }
-    h2 {
-      font-size: 1.4rem;
-      @media (width > 768px) {
-        font-size: 2rem;
-      }
-    }
-    h3 {
-      font-size: 1.2rem;
-      @media (width > 768px) {
-        font-size: 1.5rem;
-      }
-    }
-  }
-  
-  &__footer {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 1rem;
-    justify-content: center;
   }
 }
