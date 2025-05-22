@@ -1,0 +1,29 @@
+:root {
+  --color-primary: #2E322D;
+  --color-secondary: #B9B59F;
+  --color-background: #E5E9E9;
+  
+  --color-primary-30: color-mix(in srgb, var(--color-primary) 30%, transparent);
+
+  --base-font-family: Inter, serif;
+  --title-font-family: "Noto Serif", serif;
+  --tagline-font-family: "Reenie Beanie", cursive;
+  --columns: 24;
+  --column-width: calc(100vw / var(--columns));
+  
+  --top-padding-offset: calc(106px + 2rem); 
+
+  font-family: var(--base-font-family);
+  letter-spacing: -0.02rem;
+  line-height: 1.5;
+  font-weight: 350;
+  
+  font-synthesis: none;
+  font-optical-sizing: auto;
+  font-feature-settings: "dlig" on;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  scroll-behavior: smooth;
+}
