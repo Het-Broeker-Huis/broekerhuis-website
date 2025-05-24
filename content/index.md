@@ -154,7 +154,7 @@ head:
 classComponent: h2
 ---
 #image
-![Zijaanzicht van Het Broeker Huis vanaf bruggetje Leeteinde in Broek in Waterland](/restaurant-trouwlocatie-vergaderen-overnachten-broeker-huis-broek-in-waterland.jpg)
+![Het Broeker Huis vanaf het water Leeteinde Broek in Waterland](/broeker-huis-vanaf-water.jpg)
 ::
 
 ::section-intro
