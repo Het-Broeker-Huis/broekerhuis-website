@@ -235,28 +235,33 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 reverse: true
 background: "true"
 backgroundPosition: full
-tagline: Vuurwerk. Bijna open.
+tagline: Vuurwerk. 18 juni open.
 taglineComponent: h3
 title: Restaurant in Broek in Waterland
 titleComponent: h2
 ---
 Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van drukte. In **Restaurant De Broeker Huiskamer** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
-Wandel tot die tijd vooral binnen voor een kop koffie, een broodje of een stuk taart.
-
-:br
-
- 
-
-*Benieuwd welke Broeker topchef er straks boven het vuur staat?*
+*Benieuwd welke gerenommeerd topchef én Broeker er boven het vuur staat?*
 
 #footer
   :::cta-button{arrow}
   [Kijk hier](/restaurant)
   :::
 
+  :::cta-button{arrow variant="ghost"}
+    ::::external-link
+    ---
+    href: "true"
+    rel: https://forms.gle/wsb24fnF5RsU4eL56
+    target: _blank
+    ---
+    [Reserveer een tafel](https://forms.gle/wsb24fnF5RsU4eL56)
+    ::::
+  :::
+
 #image
-![Gegrilde prei van houtvuur met olijfolie in Restaurant De Broeker Huiskamere](/houtvuur-groenten-lunch-broeker-huiskamer-restaurant.jpg)
+![Geroosterde asperges van houtvuur met pistou en dille in restaurant Broeker Huiskamer](/fransje-geroosterde-asperges-pistou-broeker-huis.jpg)
 ::
 
 ::section-full-image{background}
