@@ -107,7 +107,7 @@ Hoe je ook komt - wandel via het Havenrak langs het huis van de eendjes, doe een
     rel: noopener,noreferrer
     target: _blank
     ---
-    Reserveer een tafel
+    [Reserveer een tafel](https://forms.gle/wsb24fnF5RsU4eL56)
     ::::
   :::
 
