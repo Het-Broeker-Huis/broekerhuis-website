@@ -54,30 +54,20 @@ background: "true"
 backgroundPosition: full
 tagline: Zondag 15 juni vanaf 15:00.
 taglineComponent: h3
-title: Broeker openingsfeest
+title: Openingsfeest De Broeker Huiskamer
 titleComponent: h2
 ---
 Op 15 juni opent in de oude bibliotheek aan het Leeteinde 18 de plek waar het dorp al jaren om schreeuwt: **De Broeker Huiskamer.**
 
-Een **ontmoetingsplek voor alle Broekers** én bezoekers waar je **het hele jaar**, van **woensdag t/m zondag van 10:00 tot laat** kunt binnenwandelen voor een retegoeie kop **koffie van huisgebrande bonen** en verschrikkelijk **goed eten** van **topchef** én Broeker **Thijs Steur (oa. Vuurtoreneiland, Toscanini ).** Maar vooral: een plek waar bekend en onbekend Broek elkaar ontmoet: jong, oud, niet meer weg te denken, net verhuisd - **er is plek voor elke Broeker**.
+Een **ontmoetingsplek voor alle Broekers** én bezoekers waar je **het hele jaar**, van **woensdag t/m zondag van 10:00 tot laat** kunt binnenwandelen voor een retegoeie kop **koffie van huisgebrande bonen** en verschrikkelijk **goed eten** van **topchef** én Broeker **Thijs Steur (oa. Vuurtoreneiland, Toscanini ).** Maar vooral: een plek waar bekende en onbekende Broekers en bezoekers elkaar ontmoeten: jong, oud, niet meer weg te denken, net verhuisd - **er is plek voor iedereen**.
 
-Op **15 juni** is iedereen **vanaf 15:00** van harte welkom in je nieuwe tweede huis. Er is eten, drinken en vertier voor grote- én kleinere Broekers. Ook onthullen we de permanente expositie **Het mooiste dorp van Nederland** - een roulerende serie portretten en verhalen van jullie: Broekers.
+Op **15 juni** ben je **vanaf 15:00** van harte welkom in je nieuwe tweede huis. Er is eten, drinken en vertier voor groot én klein. Ook onthullen we de permanente expositie **Het mooiste dorp van Nederland** - een roulerende serie portretten en verhalen van en door Broekers.
 
 Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken als je wilt.
 
-:br
-
- 
-
-### Proefdiner op 23 mei
-
-Kun je 15 juni niet, maar wil je wel komen kijken en proeven? Reserveer dan een plekje voor het proefdiner op vrijdag 23 mei. :br :br
-
-*Hoeft niet, wel fijn: meld je hieronder aan voor 15 juni.*:br *Voor 23 mei graag wel reserveren. Allebei kan natuurlijk ook.*
-
 #footer
-  :::cta-button{arrow}
-  [Meld je aan voor 15 juni en/of 23 mei](https://forms.gle/phewrE374zhurcf5A)
+  :::cta-button{arrow variant="primary"}
+  [Meld je aan voor 15 juni](https://forms.gle/phewrE374zhurcf5A)
   :::
 
   :::cta-button{arrow variant="ghost"}
