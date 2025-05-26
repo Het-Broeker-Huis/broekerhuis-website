@@ -67,7 +67,7 @@ Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken a
 
 #footer
   :::cta-button{arrow variant="primary"}
-  [Meld je aan voor 15 juni](https://forms.gle/phewrE374zhurcf5A)
+  [Het menu van de Huiskamer](https://broekerhuis.nl/menu-broeker-huiskamer-wk18-juni.pdf)
   :::
 
   :::cta-button{arrow variant="ghost"}
