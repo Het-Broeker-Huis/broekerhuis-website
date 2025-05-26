@@ -195,11 +195,18 @@ In **Het Broeker Huis** – dé trouw- en feestlocatie van [het mooiste dorp van
 
 Wat je ook viert, ons Huis is van jou. **Van toosten tot tranen – en alles ertussen.**
 
-*Sparren over je idee? Onze feestfluisteraar zit voor je klaar.*
+*Sparren over je idee? Plan een belafspraak met onze feestfluisteraar.*
 
 #footer
   :::cta-button{arrow}
-  [Bel Jeppe](tel:+31204031314)
+    ::::external-link
+    ---
+    href: https://calendar.app.google/Ux1Cc7spw7HmaqyW9
+    rel: noopener,noreferer
+    target: _blank
+    ---
+    Bel Thomas
+    ::::
   :::
 ::
 
