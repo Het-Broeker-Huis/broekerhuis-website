@@ -256,7 +256,7 @@ Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van d
     rel: noopener,noreferer
     target: _blank
     ---
-    [Reserveer een tafel](https://forms.gle/wsb24fnF5RsU4eL56)
+    Reserveer een tafel
     ::::
   :::
 
