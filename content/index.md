@@ -245,15 +245,15 @@ Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van d
 *Benieuwd welke gerenommeerd topchef én Broeker er boven het vuur staat?*
 
 #footer
-  :::cta-button{arrow}
+  :::cta-button{arrow variant="primary"}
   [Kijk hier](/restaurant)
   :::
 
   :::cta-button{arrow variant="ghost"}
     ::::external-link
     ---
-    href: "true"
-    rel: https://forms.gle/wsb24fnF5RsU4eL56
+    href: https://forms.gle/wsb24fnF5RsU4eL56
+    rel: noopener,noreferer
     target: _blank
     ---
     [Reserveer een tafel](https://forms.gle/wsb24fnF5RsU4eL56)
