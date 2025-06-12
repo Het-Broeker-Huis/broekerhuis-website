@@ -58,6 +58,14 @@ export default defineNuxtConfig({
   app: {
     head: {
       link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
+      script: [
+        {
+          src: "https://live.tebi.co/ecom/widget-manager.js",
+          "data-widget-token":
+            "282764_1c335c43f9bf49b6cd50699f5307d58d7ad017a588c85ebe4cbe4afcbd997891",
+          id: "tebi",
+        },
+      ],
     },
   },
   runtimeConfig: {
