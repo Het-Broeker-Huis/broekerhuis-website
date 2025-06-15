@@ -261,7 +261,7 @@ Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van d
   :::
 
 #image
-![Geroosterde asperges van houtvuur met pistou en dille in restaurant Broeker Huiskamer](/fransje-geroosterde-asperges-pistou-broeker-huis.jpg)
+![Geroosterde asperges van houtvuur met pistou en dille in restaurant Broeker Huiskamer](/broekerhuiskamer-interieur-01.jpg)
 ::
 
 ::section-full-image{background}
