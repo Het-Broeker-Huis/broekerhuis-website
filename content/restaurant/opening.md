@@ -71,7 +71,7 @@ Tussen 15:00 en 17:00 eet en drink je op onze kosten. Je mag het zo laat maken a
   :::
 
   :::cta-button{arrow variant="ghost"}
-  [Lees meer over de Huiskamer](/restaurant)
+  [Reserveer een tafel](https://live.tebi.co/ecom/reservations/282764_0a523a1d3711c0523566f753f2cb25e5f14ed781117e8ef82016152d6ff5c2c2)
   :::
 ::
 
