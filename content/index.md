@@ -252,8 +252,8 @@ Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van d
   :::cta-button{arrow variant="ghost"}
     ::::external-link
     ---
-    href: https://forms.gle/wsb24fnF5RsU4eL56
-    rel: noopener,noreferer
+    href: https://live.tebi.co/ecom/reservations/282764_0a523a1d3711c0523566f753f2cb25e5f14ed781117e8ef82016152d6ff5c2c2
+    rel: '["noopener,noreferer"]'
     target: _blank
     ---
     Reserveer een tafel
