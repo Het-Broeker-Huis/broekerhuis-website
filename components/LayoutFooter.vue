@@ -8,11 +8,7 @@
         <a href="tel:+31204031314" class="footer__link footer__link--large" target="_blank"
           rel="noopener noreferrer">020-4031314</a>
 
-        <div class="footer__opening-hours">
-          <ProseP><strong>Wo - Zo van 10:00 - 00:00 uur</strong><br />
-            Maandag & dinsdag altijd beschikbaar. <a href="mailto:contact@broekerhuis.nl">Maak een afspraak.</a>
-          </ProseP>
-        </div>
+
       </div>
     </div>
     <div class="footer__bottom">
@@ -33,6 +29,13 @@
           <br />
           <a href="mailto:contact@broekerhuis.nl">contact@broekerhuis.nl</a>
         </ProseP>
+        <h4 class="footer__title">Ook handig</h4>
+        <ul>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/contact-parkeren">Parkeren in broek in
+              Waterland</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/contact-parkeren">Toegankelijkheid</nuxt-link>
+          </li>
+        </ul>
       </div>
 
       <div class="footer__column">
@@ -50,13 +53,19 @@
       </div>
 
       <div class="footer__column">
-        <h4 class="footer__title">Ook handig</h4>
+        <h4 class="footer__title">Openingstijden Het Broeker Huis & De Broeker Huiskamer</h4>
         <ul>
-          <li class="footer__item"><nuxt-link class="footer__link" to="/contact-parkeren">Parkeren in broek in
-              Waterland</nuxt-link></li>
-          <li class="footer__item"><nuxt-link class="footer__link" to="/contact-parkeren">Toegankelijkheid</nuxt-link>
-          </li>
+          <li class="footer__item"><em>Maandag - gesloten</em></li>
+          <li class="footer__item"><em>Dinsdag - gesloten</em></li>
+          <li class="footer__item">Woensdag - 10:00 - 18:00</li>
+          <li class="footer__item">Donderdag - 10:00 - 00:00</li>
+          <li class="footer__item">Vrijdag - 10:00 - 01:00</li>
+          <li class="footer__item">Zaterdag 10:00 - 01:00</li>
+          <li class="footer__item">Zondag 10:00 - 18:00</li>
         </ul>
+
+        <ProseP><em>Het Broeker Huis bezichtigen? Dat kan altijd, ook op maandag & dinsdag. Bel of mail ons daarvoor
+            even</em></ProseP>
       </div>
     </div>
   </footer>
