@@ -64,7 +64,9 @@
           <li class="footer__item">Zondag 10:00 - 18:00</li>
         </ul>
 
-        <ProseP><em>Het Broeker Huis bezichtigen? Dat kan altijd, ook op maandag & dinsdag. Bel of mail ons daarvoor
+        <ProseP><em>Het Broeker Huis bezichtigen? Dat kan altijd, ook op maandag & dinsdag. <a href="tel:+31204031314"
+              class="footer__link" target="_blank" rel="noopener noreferrer">Bel</a> of <a target="_blank"
+              class="footer__link" rel="noopener noreferrer" href="mailto:contact@broekerhuis.nl">mail</a> ons daarvoor
             even</em></ProseP>
       </div>
     </div>
