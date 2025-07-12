@@ -12,9 +12,9 @@ title: 750 jaar Amsterdam
 ---
 ::hero-header
 ---
-tagline: 750 jaar Amsterdam. Dat moet gevierd worden.
+tagline: In Het Broeker Huis, natuurlijk.
 TaglineComponent: span
-title: Restaurant Het Broeker Huis
+title: Vier 750 jaar Amsterdam in Broek in Waterland
 TitleComponent: h1
 ---
 #image
@@ -24,12 +24,12 @@ TitleComponent: h1
 ::section-intro
 ---
 backgroundPosition: bottom
-tagline: Vuurwerk.
+tagline: Speciaal voor jou.
 taglineComponent: h3
-title: Wat je kunt verwachten
+title: 750 jaar Amsterdam met SpecialIn
 titleComponent: h2
 ---
-Aan de rand van onze hoofdstad, tussen groen en droom, eet je in **Restaurant Het Broeker Huis** herkenbare gerechten, zonder poespas, maar met bakken karakter. Van de eerste kop (zelfgebrande) koffie tot de laatste hap (huisgebakken) brood: **één smaak, altijd raak.**
+Leuk dat je ons hebt gevonden! Als je deze pagina laat zien als je in **Restaurant Het Broeker Huis** komt dineren, krijg je bij een viergangendiner het dessert voor nop. Da's mooi meegenomen. 
 
 *Een voorbeeldmenu bekijken? Of direct reserveren?*
 
