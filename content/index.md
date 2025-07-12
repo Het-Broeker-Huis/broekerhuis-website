@@ -240,7 +240,7 @@ taglineComponent: h3
 title: Restaurant in Broek in Waterland
 titleComponent: h2
 ---
-Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van drukte. In **Restaurant De Broeker Huiskamer** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
+Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van drukte. In **Restaurant Het Broeker Huis** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
 *Benieuwd welke gerenommeerd topchef én Broeker er boven het vuur staat?*
 
