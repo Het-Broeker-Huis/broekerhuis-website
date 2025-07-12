@@ -10,6 +10,7 @@ sitemap:
 description: SpecialIn_750_jaar-amsterdam
 title: 750 jaar Amsterdam
 ---
+
 ::hero-header
 ---
 tagline: In Het Broeker Huis, natuurlijk.
@@ -29,7 +30,7 @@ taglineComponent: h3
 title: 750 jaar Amsterdam met SpecialIn
 titleComponent: h2
 ---
-Leuk dat je ons hebt gevonden! Als je deze pagina laat zien als je in **Restaurant Het Broeker Huis** komt dineren, krijg je bij een viergangendiner het dessert voor nop. Da's mooi meegenomen. 
+Leuk dat je ons hebt gevonden! Als je deze pagina laat zien als je in **Restaurant Het Broeker Huis** komt dineren, krijg je bij een viergangendiner het dessert voor nop. Da's mooi meegenomen.
 
 *Een voorbeeldmenu bekijken? Of direct reserveren?*
 
@@ -46,5 +47,9 @@ Leuk dat je ons hebt gevonden! Als je deze pagina laat zien als je in **Restaura
     ---
     Voorbeeldmenu
     ::::
+  :::
+
+  :::section-full-image
+  ![vlaflip-restaurant-broeker-huis.jpg](/vlaflip-restaurant-broeker-huis.jpg)
   :::
 ::
