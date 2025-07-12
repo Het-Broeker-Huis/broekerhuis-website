@@ -13,9 +13,8 @@ title: 750 jaar Amsterdam
 
 ::hero-header
 ---
-tagline: In Het Broeker Huis, natuurlijk.
 TaglineComponent: span
-title: Vier 750 jaar Amsterdam in Broek in Waterland
+title: Vier 750 jaar Amsterdam in Het Broeker Huis
 TitleComponent: h1
 ---
 #image
