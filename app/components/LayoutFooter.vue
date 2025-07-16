@@ -1,4 +1,4 @@
-<script>
+<script setup lang="ts">
 import BroekerHuisWordMark from '~/assets/icons/het-broeker-huis-wordmark.svg'
 </script>
 
