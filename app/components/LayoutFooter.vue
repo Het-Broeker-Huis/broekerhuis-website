@@ -1,7 +1,11 @@
+<script setup lang="ts">
+import BroekerHuisWordMark from '~/assets/icons/het-broeker-huis-wordmark.svg'
+</script>
+
 <template>
   <footer class="footer">
     <div class="footer__top">
-      <SvgoHetBroekerHuisWordmark :font-controlled="false" class="logo__wordmark footer__logo" />
+      <BroekerHuisWordMark :font-controlled="false" class="logo__wordmark footer__logo" />
       <div class="footer__contact">
         <a href="mailto:contact@broekerhuis.nl" class="footer__link footer__link--large" target="_blank"
           rel="noopener noreferrer">contact@broekerhuis.nl</a>

@@ -1,4 +1,6 @@
 <script lang="ts" setup>
+import BroekerHuisLogo from "~/assets/icons/het-broeker-huis-logo.svg";
+
 import type { ContentNavigationItem } from '@nuxt/content';
 
 const { items } = defineProps<{
@@ -21,7 +23,7 @@ const mobileMenu = ref(false);
       </div>
     </div>
     <nuxt-link to="/">
-      <SvgoHetBroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
+      <BroekerHuisLogo :font-controlled="false" class="top-nav__logo" />
     </nuxt-link>
     <div class="top-nav__items top-nav__items--right">
       <div v-for="item in secondNavItems" :key="item.path" class="top-nav__item">

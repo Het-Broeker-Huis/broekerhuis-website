@@ -1,5 +1,9 @@
 <script lang="ts" setup>
-import type { BaseProps } from '@/types/props'
+// Icons
+import Home from '~/assets/icons/home.svg'
+
+// Types
+import type { BaseProps } from '~~/shared/types/props'
 
 const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps>()
 </script>
@@ -19,7 +23,7 @@ const { titleComponent = 'h1', taglineComponent = 'h2' } = defineProps<BaseProps
         <slot name="footer" mdc-unwrap="p" />
       </div>
 
-      <SvgoHome class="intro__icon" />
+      <Home class="intro__icon" />
     </div>
   </SectionBase>
 </template>

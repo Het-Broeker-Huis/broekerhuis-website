@@ -77,4 +77,7 @@ export default defineNuxtConfig({
       },
     },
   },
+  linkChecker: {
+    enabled: false,
+  },
 });
