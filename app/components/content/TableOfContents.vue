@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Arrow from '~/assets/icons/arrow.svg';
 import Branch from '~/assets/branch.svg?component';
 
 const { title = "Navigeren", items } = defineProps<{
@@ -21,7 +22,7 @@ console.log(items);
         <nuxt-link :to class="table-of-contents__link">
           <div class="table-of-contents__icon-wrapper">
             <span class="table-of-contents__icon">
-              <SvgoArrow />
+              <Arrow />
             </span>
           </div>
           {{ name }}

@@ -20,14 +20,14 @@
     "fix:css": "stylelint --ignore-path .gitignore --fix"
   },
   "dependencies": {
-    "@nuxt/content": "^3.6.1",
+    "@nuxt/content": "^3.6.3",
     "@nuxt/image": "1.9.0",
     "@nuxt/scripts": "0.11.5",
     "@nuxtjs/google-fonts": "3.2.0",
     "@nuxtjs/seo": "^3.0.3",
     "@unhead/vue": "^2.0.11",
-    "better-sqlite3": "^12.1.1",
-    "nuxt": "^3.17.5",
+    "better-sqlite3": "^12.2.0",
+    "nuxt": "^4.0.0",
     "nuxt-svgo": "4.0.16",
     "vue": "latest",
     "vue-router": "latest"
