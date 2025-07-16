@@ -30,7 +30,7 @@ taglineComponent: h3
 title: Dag Broeker!
 titleComponent: h2
 ---
-Als je deze pagina laat zien als je in **Restaurant Het Broeker Huis** komt dineren, krijgt jouw tafel bij een viergangendiner een ***préfeestweek aperitief*** \*\*\*\*samengesteld door onze eigen Tom Cruise (Jeppe), van het huis. Da's mooi meegenomen.
+Als je deze pagina laat zien als je in **Restaurant Het Broeker Huis** komt dineren, krijgt jouw tafel bij een viergangendiner een ***préfeestweek aperitief***, samengesteld door onze eigen Tom Cruise (Jeppe), van het huis. Da's mooi meegenomen.
 
 En wat het leuke is? Dat we misschien volgende week wel wat anders verzinnen om het dorp cadeau te doen. En tijdens de feestweek natuurlijk continu knallende feestweekaanbiedingen hebben.
 
