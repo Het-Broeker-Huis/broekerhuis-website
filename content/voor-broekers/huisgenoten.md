@@ -40,7 +40,7 @@ design:
 
 ::hero-header
 ---
-tagline: Het Broeker Huis is ook van jou.
+tagline: HBH zoekt jou!
 tagline-component: h2
 taglineComponent: ComponentType
 title: Word Huisgenoot van het Broeker Huis!
