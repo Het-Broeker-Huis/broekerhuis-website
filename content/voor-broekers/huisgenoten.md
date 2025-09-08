@@ -52,6 +52,8 @@ titleComponent: ComponentType
 ::
 
 ::section-content-sidebar
+**Het Broeker Huis zoekt enthousiaste dorpsbewoners die zich in willen zetten voor het dorp**
+
 **Wat is een Huisgenoot?**
 
 Als Huisgenoot ben je een echte ambassadeur; je bent de schakel tussen ons dorpshuis en jouw kennissenkring, je klas of straat. Samen met de andere huisgenoten zorgen we ervoor dat het Broeker Huis een levendig middelpunt wordt waar iedereen zich thuis voelt en graag komt.
