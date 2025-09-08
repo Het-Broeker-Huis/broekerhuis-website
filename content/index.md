@@ -172,8 +172,6 @@ In het monumentale hart van Broek in Waterland ligt **Het Broeker Huis** – sin
 
 :br
 
- 
-
 *Lees meer over Het Broeker Huis.*
 
 #footer
@@ -216,8 +214,6 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 **Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen. Hoe je het ook viert – het is helemaal **jouw feestje**.
 
 :br
-
- 
 
 *Benieuwd naar dé feestlocatie en trouwlocatie van Waterland?*
 
@@ -281,8 +277,6 @@ titleComponent: h2
 
 :br
 
- 
-
 *Benieuwd naar de zakelijke mogelijkheden van Het Broeker Huis?*
 
 #footer
@@ -305,8 +299,6 @@ titleComponent: h2
 **Je slaapt** in Broek in Waterland in stijl – een persoonlijke B\&B voor dromers die willen **overnachten in het mooiste dorp van Nederland**
 
 :br
-
- 
 
 *Binnen kijken of reserveren?*
 
