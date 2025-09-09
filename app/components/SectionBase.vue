@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import type { BaseSectionProps } from '@/types/props'
+import type { BaseSectionProps } from '~~/shared/types/props'
+
 const { background = false, backgroundPosition = "top" } = defineProps<BaseSectionProps>()
 
 const hasBackground = computed<boolean>(() => typeof background === 'string' ? background === 'true' : !!background);

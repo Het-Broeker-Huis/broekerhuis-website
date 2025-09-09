@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BaseSectionProps } from '@/types/props'
+import type { BaseSectionProps } from '~~/shared/types/props';
 
 const { background = false, backgroundPosition = "bottom" } = defineProps<BaseSectionProps>();
 

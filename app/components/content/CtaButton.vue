@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import Arrow from '~/assets/icons/arrow.svg'
+
 const { variant = 'primary' } = defineProps<{
   arrow?: boolean
   variant?: 'primary' | 'secondary' | 'ghost'
@@ -8,7 +10,7 @@ const { variant = 'primary' } = defineProps<{
 <template>
   <div :class="['cta-button', { 'cta-button--icon': arrow }, `cta-button--${variant}`]">
     <slot mdc-unwrap="p" />
-    <svgo-arrow v-if="arrow" class="cta-button__arrow" />
+    <Arrow v-if="arrow" class="cta-button__arrow" />
   </div>
 </template>
 

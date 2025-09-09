@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import type { BaseProps } from '@/types/props'
+import type { BaseProps } from '~~/shared/types/props';
 
 interface Props extends BaseProps {
   reverse?: boolean,
