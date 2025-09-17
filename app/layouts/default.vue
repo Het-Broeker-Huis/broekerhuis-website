@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { ContentNavigationItem } from '@nuxt/content';
-import type { DesignState } from '~/types/design';
+import type { DesignState } from '~~/shared/types/design';
 
 const design = useState<DesignState>('design')
 
@@ -37,7 +37,7 @@ const { data } = await useAsyncData('navigation', async () => {
 
 <template>
   <div class="layout">
-    <LayoutTopNav :items="data" />
+    <LayoutTopNav v-if="data" :items="data" />
     <main class="main">
       <slot />
     </main>
@@ -56,9 +56,6 @@ const { data } = await useAsyncData('navigation', async () => {
 
   display: grid;
   grid-template-columns: repeat(var(--columns, 24), 1fr);
-
-
-
   color: var(--color-body, rgba(45, 54, 47, 0.8));
   background-color: var(--color-background);
 }
