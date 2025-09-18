@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BaseSectionProps } from '@/types/props'
+import type { BaseSectionProps } from '~~/shared/types/props'
 
 defineProps<BaseSectionProps>()
 </script>

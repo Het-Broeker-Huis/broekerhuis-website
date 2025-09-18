@@ -47,7 +47,7 @@ head:
               "url": "https://www.broekerhuis.nl",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://www.broekerhuis.nl/favicon.png"
+                "url": "https://www.broekerhuis.nl/favicon.svg"
               },
               "sameAs": [
                 "https://www.instagram.com/het.broeker.huis/",
