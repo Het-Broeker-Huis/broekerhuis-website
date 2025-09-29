@@ -26,4 +26,5 @@ html {
   &--padding-full-width {
     padding-inline: var(--column-width);
   }
+  
 }
