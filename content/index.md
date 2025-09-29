@@ -164,7 +164,7 @@ taglineComponent: h2
 title: Het Broeker Huis
 titleComponent: h1
 ---
-In het monumentale hart van Broek in Waterland ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen en waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
+In het monumentale hart van Broek in Waterland ligt **Het Broeker Huis** – sinds 1775 dé plek waar mensen samenkomen. Waar eten verbindt, stilte spreekt en vieren vanzelf gaat.
 
 **Broek in Waterland** is geen decor. Geen film, geen toneelstuk. Het is een écht verhaal – en wordt nog steeds verteld. Als dorpshuis, [restaurant](/restaurant)**,** [trouwlocatie](/trouwen-feesten/trouwen)**,** [vergaderlocatie](/zakelijk) en[ feestlocatie](/trouwen-feesten/trouwen) is Het Broeker Huis de hoofdrolspeler in dit levend sprookje.
 
@@ -207,11 +207,11 @@ taglineComponent: h2
 title: Trouw. Vier. Herinner.
 titleComponent: h3
 ---
-Trouwlocatie en feestlocatie Het Broeker Huis in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt.
+Trouwlocatie en feestlocatie Het Broeker Huis in Broek in Waterland voelt als thuis – en dat op maar 15 minuten van Amsterdam. Of je nu ‘ja’ zegt, 21 wordt of 70 — sommige dagen verdienen een plek die klopt met wie je bent.
 
-Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen en **verhalen in de muren**.
+Geen kringetje met blokjes kaas. Geen hotelballroom. geen chique de friemel. Maar een **monumentaal huis met een binnenplaats,** een houten vloer met krassen, **verhalen in de muren** en de **ongedwongenheid** van een dorpshuis.
 
-**Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen. Hoe je het ook viert – het is helemaal **jouw feestje**.
+**Het Broeker Huis** is een plek om **groots te vieren**, zonder dik te hoeven te doen. Hoe je het ook viert, **bij ons kan alles** – het is helemaal **jouw feestje**.
 
 :br
 
@@ -219,7 +219,7 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 
 #footer
   :::cta-button{arrow}
-  [Trouwen en feesten](/trouwen-feesten/trouwen)
+  [Trouwen & vieren](/trouwen-feesten/trouwen)
   :::
 
 #image
@@ -231,14 +231,14 @@ Geen pakjesavondsetting. Geen hotelballroom. Maar een **monumentaal huis met een
 reverse: true
 background: "true"
 backgroundPosition: full
-tagline: Vuurwerk. 18 juni open.
+tagline: Vuurwerk.
 taglineComponent: h3
 title: Restaurant in Broek in Waterland
 titleComponent: h2
 ---
-Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van drukte. In **Restaurant Het Broeker Huis** in Broek in Waterland eet je van houtvuur, in het seizoen en puur zonder fratsen. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
+Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van drukte. In **Restaurant Het Broeker Huis** in Broek in Waterland kookt topchef én Broeker Thijs Steur (oa. Vuurtoreneiland, Toscanini, Lastage) in het seizoen, zonder fratsen én altijd van houtvuur. Samen, alleen, met kids of in stilte – wat je ook eet, **elk bord schreeuwt smaak.**
 
-*Benieuwd welke gerenommeerd topchef én Broeker er boven het vuur staat?*
+*Binnen kijken of direct reserveren?*
 
 #footer
   :::cta-button{arrow variant="primary"}
@@ -257,7 +257,7 @@ Een restaurant in Broek in Waterland, vlakbij Amsterdam – maar mijlenver van d
   :::
 
 #image
-![Geroosterde asperges van houtvuur met pistou en dille in restaurant Broeker Huiskamer](/broekerhuiskamer-interieur-01.jpg)
+![Vol restaurant het broeker huis](/vol-restaurant-het-broeker-huis.jpg)
 ::
 
 ::section-full-image{background}
