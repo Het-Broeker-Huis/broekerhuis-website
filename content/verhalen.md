@@ -21,11 +21,15 @@ titleComponent: h1
 ::
 
 ::section-content-sidebar
-## November
+## 22 november - Feestweek Revival Rave
 
-In
+Party like it's augustus 2025.
 
-![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/Scherm%C2%ADafbeelding%202025-10-28%20om%2016.05.42.png)
+Bier voor €3, een overheerlijk Feestweekrevivalshotje, De Teams en een en sterren line-up Broeker DJ's
+
+Emily K, Jochem van G, Peter H en Maurijn
+
+![Zwaan uit zn plaat](/Feestweek%20revival%20rave)
 
 ## **So Close to Amsterdam –** But Nothing Like It
 
