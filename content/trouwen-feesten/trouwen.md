@@ -259,16 +259,20 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 
 *Weet je nog niet precies wat je wilt, maar wel wanneer?*
 
-#footer
-  :::cta-button{arrow variant="primary"}
-    ::::external-link{href="https://forms.gle/epXKLu1SiwVWwkcd9" target="_blank"}
-    ::::
-  
-  Ontvang een indicatie
-  :::
-
 #image
 ![Chef Thijs Steur (voormalig Vuurtoreneiland) voor de houtoven bij Het Broeker Huis – trouw- en feestlocatie](/chef-thijs-steur-broeker-huis-houtoven-feest.jpg)
+
+#footer
+  :::cta-button{arrow}
+    ::::external-link
+    ---
+    href: https://forms.gle/epXKLu1SiwVWwkcd9
+    rel: noopener,noreferer
+    target: _blank
+    ---
+    Ontvang een indicatie
+    ::::
+  :::
 ::
 
 ::section-visual-transition
