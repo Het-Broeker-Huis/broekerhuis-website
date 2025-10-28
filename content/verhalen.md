@@ -21,15 +21,20 @@ titleComponent: h1
 ::
 
 ::section-content-sidebar
-## 22 november - Feestweek Revival Rave
+***22 november***
 
-Party like it's augustus 2025.
+### Feestweek Revival Rave
 
-Bier voor €3, een overheerlijk Feestweekrevivalshotje, De Teams en een en sterren line-up Broeker DJ's
+Bier voor €3, een overheerlijk feestweekrevivalshotje, De Teams en een en sterren line-up Broeker DJ's
 
-Emily K, Jochem van G, Peter H en Maurijn
+Emily K, Jochem van G, Peter H en Maurijn van T.
 
 ![Zwaan uit zn plaat](/Feestweek%20revival%20rave)
+
+  :::cta-button{.arrow}
+    ::::external-link{class="https://het-broeker-huis.weticket.io/revival-rave"}
+    ::::
+  :::
 
 ## **So Close to Amsterdam –** But Nothing Like It
 
