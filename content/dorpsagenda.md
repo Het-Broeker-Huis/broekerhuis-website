@@ -28,9 +28,11 @@ taglineComponent: h3
 title: Feestweek Revival Rave
 titleComponent: h2
 ---
+### ***zaterdag 22 november***
+
 Bier voor 3 piek, stampende beats van 4 Broeker DJ’s & een heel dorp op de dansvloer. Voor wie er niet was — of niet meer kan wachten. De bas dropt om 20 uur, vanaf 18 uur leg je alvast een stevige bodem met de speciale feestweekdaghap van Thijs.
 
-### ***zaterdag 22 november*** *| 21:00 uur | €5*
+###
 
 #image
 ![eend uit zn plaat](/FeestweekRevivalRave.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
@@ -56,11 +58,11 @@ taglineComponent: h3
 title: Wijn & Vuur
 titleComponent: h2
 ---
-**Wijnkoperij Au Paradis**, de wijnimport van Broekers Déborah & Joris, trapt Wijn & Vuur af met de **Winter Wijnproeverij** en wijnbar. De wijnproeverij start om 13:00. Je kunt proeven en aan de wijnbar hangen tot 17:00. **Luuk en Thijs** zorgen voor bijpassende happen.
+### **zaterdag 13 december**
 
-‘s Avonds zetten **gastchef** **Luuk Langedijk** (Café Parlotte) en Vuurmeester Thijs Steur je smaakpapillen in lichterlaaie met een vlammend diner. Wijnpairings door Au Paradis.
+**Wijnkoperij Au Paradis**, de wijnimport van Broekers Déborah & Joris, trapt Wijn & Vuur af met de **Winter Wijnproeverij** en wijnbar. De wijnproeverij start om 13:00. Je kunt proeven en aan de wijnbar hangen tot 17:00. **Gastchef Luuk Langendijk (Café Parlotte) en Vuurmeester Thijs Steur** zorgen voor bijpassende happen.
 
-### **zaterdag 13 december** wijnproeverij 13 uur · €10 | diner 19 uur · €45
+‘s Avonds zetten **Thijs & Luuk** je smaakpapillen in lichterlaaie met een **vlammend viergangendiner.** Wijnpairings door Au Paradis.
 
 #image
 ![poster-wijn-vuur](/Water%26Vuur%20-%20proeverij%26dinerbeeld.png){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
@@ -80,9 +82,9 @@ taglineComponent: h3
 title: Kindertheater
 titleComponent: h2
 ---
-In 2026 is er elke 2e zondagochtend van de maand kindertheater in Het Broeker Huis. Op 21 december trappen we af met **Peter en de Wolf (4+)**, het betoverende muzikale sprookje, gespeeld door poppentheater GordijnOpzij. Na afloop schuift de hele familie gezellig aan voor de familiebrunch in de Huiskamer. 
+### **zondag 21 december**
 
-### **zondag 21 december** | Peter en de Wolf 11 uur · €10 | aansluitend brunch · €25
+In 2026 is er elke 2e zondagochtend van de maand kindertheater in Het Broeker Huis. Op 21 december trappen we om 11 uur af met **Peter en de Wolf (4+)**, het betoverende muzikale sprookje, gespeeld door poppentheater GordijnOpzij. Na afloop schuift de hele familie gezellig aan voor de familiebrunch in de Huiskamer. 
 
 #image
 ![kindertheater](/kindertheater.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
