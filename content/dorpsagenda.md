@@ -20,30 +20,17 @@ TitleComponent: h1
 ![Diner in restaurant Het Broeker Huis in Broek in Waterland](/broeker-huiskamer-diner-volle-eetzaal-licht-hout-warm.jpg){format="webp" height="501" preload="" quality="80" sizes="sm:412" width="751"}
 ::
 
-::section-intro
----
-backgroundPosition: bottom
-tagline: Wat er te doen is in jouw dorpshuis.
-taglineComponent: h3
-title: HBH Leeft
-titleComponent: h2
----
-Of je nou zin hebt in een goed feestje, gezellig theater met de kinderen, bewegen, eten, drinken of een kaartje leggen: in Het Broeker Huis kan het.
-
-Bekijk hieronder wat er de komende tijd in de planning staat.
-
-#footer
-::
-
 ::section-two-columns
 ---
 backgroundPosition: bottom
-tagline: 22 november — 20:00
+tagline: party like it's augustus 2025
 taglineComponent: h3
 title: Feestweek Revival Rave
 titleComponent: h2
 ---
-Bier voor 3 piek, stampende beats van 5 Broeker DJ’s & een heel dorp op de dansvloer. Voor wie er niet was — of niet meer kan wachten. De bas dropt om 20 uur, vanaf 18 uur leg je voor €10 alvast een stevige bodem.
+Bier voor 3 piek, stampende beats van 4 Broeker DJ’s & een heel dorp op de dansvloer. Voor wie er niet was — of niet meer kan wachten. De bas dropt om 20 uur, vanaf 18 uur leg je alvast een stevige bodem met de speciale feestweekdaghap van Thijs.
+
+### ***zaterdag 22 november*** *| 21:00 uur | €5*
 
 #image
 ![eend uit zn plaat](/FeestweekRevivalRave.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
@@ -64,94 +51,50 @@ Bier voor 3 piek, stampende beats van 5 Broeker DJ’s & een heel dorp op de dan
 ---
 reverse: true
 backgroundPosition: bottom
-tagline: On-Amsterd
+tagline: wijnproeverij & gastkokdiner met Au Paradis & Luuk Langedijk
 taglineComponent: h3
-title: Zei er iemand prijs/kwaliteit?
+title: Wijn & Vuur
 titleComponent: h2
 ---
-Je eet bij ons (soms dagelijks) wisselende gerechten van het overzichtelijke menu, met **eerlijke & biologische producten** van lokale leveranciers.
+**Wijnkoperij Au Paradis**, de wijnimport van Broekers Déborah & Joris, trapt Wijn & Vuur af met de **Winter Wijnproeverij** en wijnbar. De wijnproeverij start om 13:00. Je kunt proeven en aan de wijnbar hangen tot 17:00. **Luuk en Thijs** zorgen voor bijpassende happen.
 
-Natuurlijk is geen dorpshuis compleet zonder daghap. Aan de stamtafel schuif je aan voor een **goed bord eten voor een tientje.** Altijd vegetarisch.
+‘s Avonds zetten **gastchef** **Luuk Langedijk** (Café Parlotte) en Vuurmeester Thijs Steur je smaakpapillen in lichterlaaie met een vlammend diner. Wijnpairings door Au Paradis.
 
-Wat je ook eet en waar, je eet altijd **eenvoudig, in het seizoen en ambachtelijk op houtvuur** bereid, met bakken smaak. Naast **lunch en diner** komen er **natuurlijk goeie friet** en de heerlijkste happen voor bij **de borrel** uit de keuken.
+### **zaterdag 13 december** wijnproeverij 13 uur · €10 | diner 19 uur · €45
 
 #image
-![Chef Thijs Steur maakt bord op aan de pas in restaurant de Het Broeker Huis](/aubergine-italiaans-broeker-huiskamer.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
+![poster-wijn-vuur](/Water%26Vuur%20-%20proeverij%26dinerbeeld.png){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 
 #footer
   :::cta-button{arrow}
-  [Reserveer een tafel](https://live.tebi.co/ecom/reservations/282764_0a523a1d3711c0523566f753f2cb25e5f14ed781117e8ef82016152d6ff5c2c2)
+  [Reserveer je plek](https://live.tebi.co/ecom/reservations/282764_0a523a1d3711c0523566f753f2cb25e5f14ed781117e8ef82016152d6ff5c2c2)
   :::
-
-  :::cta-button{arrow variant="ghost"}
-    ::::external-link
-    ---
-    href: Menus/menu-het-broeker-huis-broek-in-waterland.png
-    target: _blank
-    ---
-    Bekijk het menu
-    ::::
-  :::
-::
-
-::section-visual-transition
----
-background: "true"
-backgroundPosition: bottom
----
-#Image_2
-![geroosterde-wortels-lunch-broekerhuis](/images/20250625_BROEKERHUIS_FOOD_300.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
-
-#Image_3
-![Zelfgebakken desembrood door Thijs Steur](/20250310_BROEKERHUIS_TUINZAAL_060.JPG){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
-
-#Image_4
-![Zwartgeblakerde bloemkool van het houtvuur](/fransje-geroosterde-asperges-pistou-broeker-huis.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 ::
 
 ::section-two-columns
 ---
 background: true
 background-position: full
-tagline: Lunch, diner & borrel.
+tagline: Elke 2e zondag van de maand.
 taglineComponent: h3
-title: Openingstijden
+title: Kindertheater
 titleComponent: h2
 ---
-Van **woensdag t/m zondag** zijn we **geopend vanaf 10:00**. Naast koffie van onze **huisgebrande bonen,** *Boontje*, komt er tussen **12:00 en 15:00 lunch** van de vuurplaats. Op **donderdag, vrijdag & zaterdag** stookt Thijs ‘t vuur om **17:30** weer op voor het **diner.** Op **zondag** maakt het ons allemaal niet meer uit en is het **open huis**: de hele dag is het een zoete inval van ouders, kinderen, fietsers, dagjesmensen, wandelaars, voetballers, Broekers en bezoekers. De keuken is daarom de **hele dag, zonder pauze, geopend.**
+In 2026 is er elke 2e zondagochtend van de maand kindertheater in Het Broeker Huis. Op 21 december trappen we af met **Peter en de Wolf (4+)**, het betoverende muzikale sprookje, gespeeld door poppentheater GordijnOpzij. Na afloop schuift de hele familie gezellig aan voor de familiebrunch in de Huiskamer. 
+
+### **zondag 21 december** | Peter en de Wolf 11 uur · €10 | aansluitend brunch · €25
 
 #image
-![restaurant de broeker huiskamer](/broeker-huiskamer-twee-personen-dinertafel.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
-
-#footer
-  :::cta-button{arrow variant="primary"}
-  [Reserveer een tafel](https://live.tebi.co/ecom/reservations/282764_0a523a1d3711c0523566f753f2cb25e5f14ed781117e8ef82016152d6ff5c2c2)
-  :::
-::
-
-::section-two-columns
----
-reverse: true
-background: "true"
-backgroundPosition: full
-tagline: (G)een restaurant.
-taglineComponent: h3
-title: Voor iedereen, op elk moment
-titleComponent: h2
----
-**Restaurant het Broeker Huis** is geen traditioneel **restaurant** – het is een plek die meedeint met de golven van het moment en onze gasten: een kindvriendelijk restaurant waar je uitbundig kunt dineren en óók in stilte kunt genieten? Bij ons kan het.
-
-**Ontbijt** met een bakkie in de zon **in het mooiste dorp van Nederland**. Verlies tijdens de **lunch aan de leestafel** zorgeloos je kinderen uit het oog in de speelhoek. **Dineer** aan een mooi gedekte tafel met een **stevige daghap** – of **eet vijf gangen** aan de bar.
-
-Van ontbijt tot borrel: Het Broeker Huis is hét restaurant in Broek waar je je nooit hoeft af te vragen of je erbij hoort. **Kom als gast, ga als Broeker.**
-
-*Alvast spieken met een bakkie?*
-
-#image
-![Bekende Broeker Dirk Posch met koffie en hand kaarten bij het raam in de Grote Zaal](/20250331_BROEKERHUIS_0727.JPG){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
+![kindertheater](/kindertheater.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 
 #footer
   :::cta-button{arrow}
-  [Kom langs](/contact-parkeren)
+    ::::external-link
+    ---
+    href: https://het-broeker-huis.weticket.io/revival-rave
+    target: _blank
+    ---
+    Bestel kaarten
+    ::::
   :::
 ::
