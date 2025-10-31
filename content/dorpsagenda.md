@@ -41,7 +41,7 @@ Bier voor 3 piek, stampende beats van 4 Broeker DJ’s & een heel dorp op de dan
   :::cta-button{arrow}
     ::::external-link
     ---
-    href: https://het-broeker-huis.weticket.io/revival-rave
+    href: https://live.tebi.co/api/u/vA_hLO6BeWA=
     target: _blank
     ---
     Bestel kaarten
