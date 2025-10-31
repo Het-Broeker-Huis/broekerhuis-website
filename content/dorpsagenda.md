@@ -35,7 +35,7 @@ Bier voor 3 piek, stampende beats van 4 Broeker DJ’s & een heel dorp op de dan
 ###
 
 #image
-![eend-uit-zn-plaat](/FeestweekRevivalRave.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
+![eend-uit-zn-plaat](/feestweekrave.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 
 #footer
   :::cta-button{arrow}
