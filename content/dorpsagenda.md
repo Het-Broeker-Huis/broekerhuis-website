@@ -65,7 +65,7 @@ titleComponent: h2
 ‘s Avonds zetten **Thijs & Luuk** je smaakpapillen in lichterlaaie met een **vlammend viergangendiner.** Wijnpairings door Au Paradis.
 
 #image
-![poster-wijn-vuur](/WijnVuur.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
+![poster-wijn-vuur](/wijn-vuur.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 
 #footer
   :::cta-button{arrow}
