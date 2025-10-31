@@ -93,10 +93,20 @@ In 2026 is er elke 2e zondagochtend van de maand kindertheater in Het Broeker Hu
   :::cta-button{arrow}
     ::::external-link
     ---
-    href: https://het-broeker-huis.weticket.io/revival-rave
+    href: https://live.tebi.co/api/u/ITMNhko7YgM=
     target: _blank
     ---
-    Bestel kaarten
+    Kaart Peter en de Wolf
+    ::::
+  :::
+
+  :::cta-button{arrow="true"}
+    ::::external-link
+    ---
+    href: https://live.tebi.co/api/u/09GjXf3oeBk=
+    target: noreferer,noopener
+    ---
+    Koop 10-rittenkaart
     ::::
   :::
 ::
