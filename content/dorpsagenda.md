@@ -35,7 +35,7 @@ Bier voor 3 piek, stampende beats van 4 Broeker DJ’s & een heel dorp op de dan
 ###
 
 #image
-![eend-uit-zn-plaat](/feestweekrave.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
+![eend-uit-zn-plaat](/images/20250513-broekerhuis-scenery-0675.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 
 #footer
   :::cta-button{arrow}
@@ -65,7 +65,7 @@ titleComponent: h2
 ‘s Avonds zetten **Thijs & Luuk** je smaakpapillen in lichterlaaie met een **vlammend viergangendiner.** Wijnpairings door Au Paradis.
 
 #image
-![poster-wijn-vuur](/Water%26Vuur%20-%20proeverij%26dinerbeeld.png){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
+![poster-wijn-vuur](/WijnVuur.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
 
 #footer
   :::cta-button{arrow}
