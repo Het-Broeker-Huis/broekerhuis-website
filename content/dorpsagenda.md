@@ -62,7 +62,9 @@ titleComponent: h2
 
 **Wijnkoperij Au Paradis**, de wijnimport van Broekers Déborah & Joris, trapt Wijn & Vuur af met de **Winter Wijnproeverij** en wijnbar. De wijnproeverij start om 13:00. Je kunt proeven en aan de wijnbar hangen tot 17:00. **Gastchef Luuk Langendijk (Café Parlotte) en Vuurmeester Thijs Steur** zorgen voor bijpassende happen.
 
-‘s Avonds zetten **Thijs & Luuk** je smaakpapillen in lichterlaaie met een **vlammend viergangendiner.** Wijnpairings door Au Paradis.
+‘s Avonds om 19:00 zetten **Thijs & Luuk** je smaakpapillen in lichterlaaie met een **vlammend viergangendiner.** Au Paradis doet de wijnen.
+
+We sluiten de avond af met **een laatste glas** en **een goed gesprek** rond het vuur op de binnenplaats.
 
 #image
 ![poster-wijn-vuur-groot](/Scherm%C2%ADafbeelding%202025-10-31%20om%2016.29.35.png){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
