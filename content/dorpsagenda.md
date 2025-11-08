@@ -88,7 +88,7 @@ titleComponent: h2
 
 In 2026 is er elke 2e zondagochtend van de maand kindertheater in Het Broeker Huis. Op 21 december trappen we om 11 uur af met **Peter en de Wolf (4+)**, het betoverende muzikale sprookje, gespeeld door poppentheater GordijnOpzij. Na afloop schuift de hele familie gezellig aan voor de familiebrunch in de Huiskamer. \\
 
-*Kaarten voor één voorstelling zijn €12,50.* ***Voor €100 kun je een strippenkaart kopen die je toegang geeft tot alle 10 voorstellingen.*** *Kun je een keertje niet? Dan kun je de strippenkaart uitlenen aan de buren.*
+*Kaarten voor één voorstelling zijn €12,50. **Voor €100 kun je een strippenkaart kopen die je toegang geeft tot alle 10 voorstellingen.*** *Kun je een keertje niet? Dan kun je de strippenkaart uitlenen aan de buren.*
 
 #image
 ![kindertheater](/kindertheater.jpg){format="webp" height="1855" loading="lazy" placeholder="" quality="80" sizes="sm:412" width="1485"}
