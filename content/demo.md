@@ -82,5 +82,51 @@ There’s a bakery, a school, a theatre club and volunteer firefighters. And a w
   :::
 ::
 
-::section-intro
+::section-three-columns
+
+:::event-card
+### **Restaurant** in Broek in Waterland
+
+Kom als gast, ga als Broeker – In **De Broeker Huiskamer** eet je van houtvuur, in het seizoen en puur zonder fratsen. 
+
+Samen, alleen, met kids of in stilte – wat je ook eet, elk bord schreeuwt smaak.
+
+#head
+  ![U vergaderopstelling voor 30 personen in de Grote Zaal van Het Broeker Huis](/20250331_BROEKERHUIS_1445.JPG)
+  
+#footer 
+  :::cta-button{arrow}
+  [Lees meer](/restaurant)
+  :::
+:::
+:::event-card
+### **Vergaderen & Workshops** in Broek in Waterland
+
+Vlakbij Amsterdam, midden in het groen, vind je onze monumentale zalen. 
+
+**Vergaderen, trainen, brainstormen of workshop** - een plek die inspireert; weg van de hectiek, dichtbij de essentie.
+
+#head
+  ![U vergaderopstelling voor 30 personen in de Grote Zaal van Het Broeker Huis](/zakelijk/vergaderen-grote-zaal-30-personen-broeker-huis.jpg)
+  
+#footer 
+  :::cta-button{arrow}
+  [Lees meer](/zakelijk)
+  :::
+:::
+:::event-card
+### **Overnachten** in Broek in Waterland
+
+Vanaf zomer 2025 slaap je bij ons in stijl en word je wakker in het sprookje. 
+
+Een **persoonlijke B&B** met karakter, midden in het mooiste dorp van Nederland – **vlakbij Amsterdam.**
+
+#head
+  ![U vergaderopstelling voor 30 personen in de Grote Zaal van Het Broeker Huis](/ondergaande-zon-over-water-broek-in-waterland.jpg)
+  
+#footer 
+  :::cta-button{arrow}
+  [Lees meer](/overnachten)
+  :::
+:::
 ::
