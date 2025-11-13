@@ -1,3 +1,14 @@
+---
+ogImage:
+  props: {}
+schemaOrg: {}
+head:
+  script: []
+sitemap:
+  videos: []
+  images: []
+---
+
 ::hero-header
 ---
 tagline: Stroll, relax, eat local – and visit Het Broeker Huis.
@@ -11,6 +22,7 @@ titleComponent: h1
 
 ::section-content-sidebar
 ## A Village Where Time Slows Down
+
 Broek in Waterland isn’t a place you rush through. It’s where you slow down. Where the cobblestones speak, and the water reflects silence. Just outside Amsterdam – but a world away.
 
 Wooden houses in soft pastels, tranquil canals, and a village heartbeat that still beats quietly.
@@ -18,6 +30,7 @@ Wooden houses in soft pastels, tranquil canals, and a village heartbeat that sti
 ![Authentiek Broeker grijzen huis met overhangende bomen en schaduw naast Het Broeker Huis op het Leeteinde](/wandelen-door-broek-in-waterland-leeteinde-oude-huizen.jpg)
 
 ## **So Close to Amsterdam –** But Nothing Like It
+
 ### Leave the city, enter a painting.
 
 Broek in Waterland is just 15 minutes from Amsterdam Central Station. But when you arrive, the noise disappears. No trams, no crowds – just water, bridges, and calm.
@@ -47,6 +60,7 @@ Between Amsterdam, Marken, Monnickendam and Edam – perfect for a peaceful deto
 ![Groene en grijze houten huizen en water in Broek in Waterland – rustgevend uitzicht ochtenddauw](/zonsopgang-grijzen-houten-huizen-broek-in-waterland-dagje-uit.jpg)
 
 ## **Things to Do in Broek in Waterland –** Local Tips
+
 ### This isn’t a tourist village. It’s a real one.
 
 There’s a bakery, a school, a theatre club and volunteer firefighters. And a warm welcome – as long as you respect the peace.
@@ -54,16 +68,16 @@ There’s a bakery, a school, a theatre club and volunteer firefighters. And a w
 #sidebar
   :::table-of-contents
   ---
-  title: "Table of contents"
   items:
-    - name: "1. Slow down"
+    - name: 1. Slow down
       to: "#a-village-where-time-slows-down"
-    - name: "2. Close to Amsterdam"
+    - name: 2. Close to Amsterdam
       to: "#so-close-to-amsterdam-but-nothing-like-it"
-    - name: "3. Fall in love with us"
+    - name: 3. Fall in love with us
       to: "#why-people-fall-in-love-with-broek-in-waterland"
-    - name: "4. What to do?"
+    - name: 4. What to do?
       to: "#things-to-do-in-broek-in-waterland-local-tips"
+  title: Table of contents
   ---
   :::
 ::

@@ -20,19 +20,18 @@
     "fix:css": "stylelint --ignore-path .gitignore --fix"
   },
   "dependencies": {
-    "@nuxt/content": "^3.6.3",
-    "@nuxt/image": "1.9.0",
-    "@nuxt/scripts": "0.11.5",
+    "@nuxt/content": "^3.8.0",
+    "@nuxt/image": "1.11.0",
+    "@nuxt/scripts": "0.12.1",
     "@nuxtjs/google-fonts": "3.2.0",
-    "@nuxtjs/seo": "^3.0.3",
-    "@unhead/vue": "^2.0.11",
-    "better-sqlite3": "^12.2.0",
-    "nuxt": "^4.0.0",
-    "nuxt-svgo": "4.0.16",
+    "@nuxtjs/seo": "^3.2.2",
+    "@unhead/vue": "^2.0.17",
+    "nuxt": "^4.1.2",
+    "nuxt-svgo": "4.2.6",
     "vue": "latest",
     "vue-router": "latest"
   },
-  "packageManager": "pnpm@8.3.1+sha1.75c6e8a4075abfc494770f998bf37b9ada110f51",
+  "packageManager": "pnpm@10.20.0",
   "devDependencies": {
     "@nuxt/eslint": "1.1.0",
     "eslint": "^9.20.1",

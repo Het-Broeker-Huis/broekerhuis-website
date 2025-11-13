@@ -259,13 +259,20 @@ Chef **Thijs Steur (Vuurtoreneiland, Toscanini, Lastage)** maakt van je wildste 
 
 *Weet je nog niet precies wat je wilt, maar wel wanneer?*
 
-#footer
-  :::cta-button{arrow}
-  [Mail ons voor beschikbaarheid](mailto\:vieren@broekerhuis.nl?subject=Beschikbaarheid%20op%20%7Bdatum%7D\&body=Hi%20Jeppe%2C%0A%0AIk%20ben%20me%20aan%20het%20ori%C3%ABnteren%20op%20een%20geschikte%20locatie%20voor%20mijn%20%7Bgelegenheid%7D.%20Hebben%20jullie%20op%20%7Bdatum%7D%20van%20%7Bstarttijd%7D%20tot%20%7Beindtijd%7D%20plek%20voor%20%7Baantal%7D%20mensen%3F%0A%0AAlvast%20bedankt!%0A%0Agroetjes%2C%20%7Bnaam%7D)
-  :::
-
 #image
 ![Chef Thijs Steur (voormalig Vuurtoreneiland) voor de houtoven bij Het Broeker Huis – trouw- en feestlocatie](/chef-thijs-steur-broeker-huis-houtoven-feest.jpg)
+
+#footer
+  :::cta-button{arrow}
+    ::::external-link
+    ---
+    href: https://forms.gle/epXKLu1SiwVWwkcd9
+    rel: noopener,noreferer
+    target: _blank
+    ---
+    Ontvang een indicatie
+    ::::
+  :::
 ::
 
 ::section-visual-transition
@@ -303,12 +310,7 @@ titleComponent: h2
 
 #footer
   :::cta-button{arrow variant="primary"}
-    ::::external-link
-    ---
-    href: https://forms.gle/epXKLu1SiwVWwkcd9
-    rel: noopener,noreferrer
-    target: _blank
-    ---
+    ::::external-link{href="https://forms.gle/epXKLu1SiwVWwkcd9" target="_blank"}
     Vliegensvlug een indicatie
     ::::
   :::
