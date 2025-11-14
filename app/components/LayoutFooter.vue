@@ -26,9 +26,9 @@ import BroekerHuisWordMark from '~/assets/icons/het-broeker-huis-wordmark.svg'
 
       <div class="footer__column">
         <h4 class="footer__title">Locatie & contact</h4>
-        <ProseP>Het Broeker Huis <br />
-          Leeteinde 16 <br />
-          1151 AL Broek in Waterland <br />
+        <ProseP>Het Broeker Huis<br />
+          Leeteinde 16<br />
+          1151 AK Broek in Waterland<br />
           <a href="tel:+31204031314" target="_blank" rel="noopener noreferrer">020 403 1314</a><br />
           <br />
           <a href="mailto:contact@broekerhuis.nl">contact@broekerhuis.nl</a>
@@ -53,6 +53,7 @@ import BroekerHuisWordMark from '~/assets/icons/het-broeker-huis-wordmark.svg'
           <li class="footer__item"><nuxt-link class="footer__link" to="/broek-in-waterland">Broek in
               Waterland</nuxt-link></li>
           <li class="footer__item"><nuxt-link class="footer__link" to="/voor-broekers">Voor Broekers</nuxt-link></li>
+          <li class="footer__item"><nuxt-link class="footer__link" to="/dorpsagenda">Agenda</nuxt-link></li>
         </ul>
       </div>
 
@@ -63,9 +64,9 @@ import BroekerHuisWordMark from '~/assets/icons/het-broeker-huis-wordmark.svg'
           <li class="footer__item"><em>Dinsdag - gesloten</em></li>
           <li class="footer__item">Woensdag - 10:00 - 18:00</li>
           <li class="footer__item">Donderdag - 10:00 - 00:00</li>
-          <li class="footer__item">Vrijdag - 10:00 - 01:00</li>
-          <li class="footer__item">Zaterdag 10:00 - 01:00</li>
-          <li class="footer__item">Zondag 10:00 - 18:00</li>
+          <li class="footer__item">Vrijdag - 10:00 - 00:00</li>
+          <li class="footer__item">Zaterdag 10:00 - 00:00</li>
+          <li class="footer__item">Zondag 10:00 - 20:00</li>
         </ul>
 
         <ProseP><em>Het Broeker Huis bezichtigen? Dat kan altijd, ook op maandag & dinsdag. <a href="tel:+31204031314"
